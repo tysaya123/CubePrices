@@ -1,4 +1,3167 @@
 Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,Sideboarded,Annotation
+"Ivory Mask",1,19145,Rare,8ED,27/350,No,No,0
+"Plague Wind",1,19221,Rare,8ED,155/350,No,No,0
+"Mind Bend",1,19567,Rare,8ED,92/350,No,No,0
+"Celestial Kirin",1,22118,Rare,SOK,3/165,No,No,0
+"Trade Routes",1,22475,Rare,9ED,108/350,No,No,0
+"Oracle's Attendants",1,22493,Rare,9ED,30/350,No,No,0
+"Ancient Silverback",1,22529,Rare,9ED,230/350,No,No,0
+"Sacred Ground",1,22597,Rare,9ED,37/350,No,No,0
+"Petrified Wood-Kin",1,23661,Rare,GPT,91/165,No,No,0
+"Govern the Guildless",1,24203,Rare,DIS,25/180,No,No,0
+"Proper Burial",1,24243,Rare,DIS,16/180,No,No,0
+"Adarkar Valkyrie",1,24643,Rare,CSP,1/155,No,No,0
+"Living End",1,25627,Rare,TSP,115/301,No,No,0
+"Notorious Throng",1,29014,Rare,MOR,45/150,No,No,0
+"Windbrisk Raptor",1,29467,Rare,SHM,26/301,No,No,0
+"Mystic Gate",1,29493,Rare,SHM,277/301,No,No,0
+"Mirrorweave",1,29659,Rare,SHM,143/301,No,No,0
+"Fable of Wolf and Owl",1,30050,Rare,EVE,150/180,No,No,0
+"Bazaar Trader",1,35579,Rare,WWK,72/145,No,No,0
+"Mul Daya Channelers",1,36730,Rare,ROE,198/248,No,No,0
+"Steel Overseer",1,37418,Rare,M11,214/249,No,No,0
+"Invader Parasite",1,39994,Rare,NPH,87/175,No,No,0
+"Evil Twin",1,42518,Rare,ISD,212/264,No,No,0
+"Wolfbitten Captive",1,43299,Rare,DKA,133a/158,No,No,0
+"Exava, Rakdos Blood Witch",1,48248,Rare,DGM,69/156,No,No,0
+"Master of the Feast",1,52188,Rare,JOU,75/165,No,No,0
+"Utter End",1,54188,Rare,KTK,210/269,No,No,0
+"Mirror Mockery",1,56364,Rare,DTK,62/264,No,No,0
+"Drowner of Hope",1,58629,Rare,BFZ,57/274,No,No,0
+"Sram's Expertise",1,62609,Rare,AER,24/184,No,No,0
+"Adorned Pouncer",1,64488,Rare,HOU,2/199,No,No,0
+"God-Pharaoh's Gift",1,64846,Rare,HOU,161/199,No,No,0
+"Magic Online Player Reward Pack",4,65011,Common,O99,,No,No,0
+"Burning Sun's Avatar",1,65286,Rare,XLN,135/279,No,No,0
+"Vona, Butcher of Magan",1,65482,Mythic Rare,XLN,231/279,No,No,0
+"Treacherous Blessing",1,79358,Rare,THB,117/254,No,No,0
+"Allied Assault",1,82937,Uncommon,ZNR,1/280,No,No,0
+"Angelheart Protector",2,82941,Common,ZNR,3/280,No,No,0
+"Attended Healer",1,82947,Uncommon,ZNR,6/280,No,No,0
+"Canyon Jerboa",1,82949,Uncommon,ZNR,7/280,No,No,0
+"Cliffhaven Sell-Sword",2,82951,Common,ZNR,8/280,No,No,0
+"Dauntless Unity",2,82953,Common,ZNR,9/280,No,No,0
+"Disenchant",2,82955,Common,ZNR,10/280,No,No,0
+"Emeria Captain",1,82957,Uncommon,ZNR,11/280,No,No,0
+"Expedition Healer",2,82963,Common,ZNR,13/280,No,No,0
+"Farsight Adept",2,82965,Common,ZNR,14/280,No,No,0
+"Fearless Fledgling",1,82967,Uncommon,ZNR,15/280,No,No,0
+"Journey to Oblivion",1,82971,Uncommon,ZNR,17/280,No,No,0
+"Kabira Outrider",2,82973,Common,ZNR,18/280,No,No,0
+"Kabira Takedown",1,82975,Uncommon,ZNR,19a/280,No,No,0
+"Kitesail Cleric",1,82979,Uncommon,ZNR,20/280,No,No,0
+"Kor Blademaster",1,82981,Uncommon,ZNR,21/280,No,No,0
+"Kor Celebrant",2,82983,Common,ZNR,22/280,No,No,0
+"Makindi Ox",2,82989,Common,ZNR,25/280,No,No,0
+"Makindi Stampede",1,82991,Uncommon,ZNR,26a/280,No,No,0
+"Mesa Lynx",2,82997,Common,ZNR,28/280,No,No,0
+"Nahiri's Binding",2,82999,Common,ZNR,29/280,No,No,0
+"Paired Tactician",1,83005,Uncommon,ZNR,31/280,No,No,0
+"Practiced Tactics",2,83007,Common,ZNR,32/280,No,No,0
+"Pressure Point",2,83009,Common,ZNR,33/280,No,No,0
+"Prowling Felidar",2,83011,Common,ZNR,34/280,No,No,0
+"Resolute Strike",2,83013,Common,ZNR,35/280,No,No,0
+"Sea Gate Banneret",2,83015,Common,ZNR,36/280,No,No,0
+"Sejiri Shelter",1,83017,Uncommon,ZNR,37a/280,No,No,0
+"Shepherd of Heroes",2,83021,Common,ZNR,38/280,No,No,0
+"Skyclave Cleric",1,83025,Uncommon,ZNR,40a/280,No,No,0
+"Smite the Monstrous",2,83031,Common,ZNR,42/280,No,No,0
+"Tazeem Raptor",2,83033,Common,ZNR,43/280,No,No,0
+"Anticognition",2,83037,Common,ZNR,45/280,No,No,0
+"Beyeen Veil",1,83039,Uncommon,ZNR,46a/280,No,No,0
+"Bubble Snare",2,83043,Common,ZNR,47/280,No,No,0
+"Cascade Seer",2,83045,Common,ZNR,48/280,No,No,0
+"Chilling Trap",2,83049,Common,ZNR,50/280,No,No,0
+"Cleric of Chill Depths",2,83051,Common,ZNR,51/280,No,No,0
+"Concerted Defense",1,83053,Uncommon,ZNR,52/280,No,No,0
+"Cunning Geysermage",2,83059,Common,ZNR,55/280,No,No,0
+"Deliberate",2,83061,Common,ZNR,56/280,No,No,0
+"Expedition Diviner",2,83063,Common,ZNR,57/280,No,No,0
+"Field Research",2,83065,Common,ZNR,58/280,No,No,0
+"Glacial Grasp",2,83067,Common,ZNR,59/280,No,No,0
+"Into the Roil",2,83075,Common,ZNR,62/280,No,No,0
+"Jwari Disruption",1,83079,Uncommon,ZNR,64a/280,No,No,0
+"Living Tempest",2,83083,Common,ZNR,65/280,No,No,0
+"Lullmage's Domination",1,83085,Uncommon,ZNR,66/280,No,No,0
+"Merfolk Falconer",1,83091,Uncommon,ZNR,69/280,No,No,0
+"Merfolk Windrobber",1,83093,Uncommon,ZNR,70/280,No,No,0
+"Negate",2,83095,Common,ZNR,71/280,No,No,0
+"Risen Riptide",2,83099,Common,ZNR,73/280,No,No,0
+"Roost of Drakes",1,83101,Uncommon,ZNR,74/280,No,No,0
+"Ruin Crab",1,83103,Uncommon,ZNR,75/280,No,No,0
+"Seafloor Stalker",2,83111,Common,ZNR,78/280,No,No,0
+"Shell Shield",2,83113,Common,ZNR,79/280,No,No,0
+"Silundi Vision",1,83115,Uncommon,ZNR,80a/280,No,No,0
+"Skyclave Plunder",1,83119,Uncommon,ZNR,81/280,No,No,0
+"Skyclave Squid",2,83121,Common,ZNR,82/280,No,No,0
+"Sure-Footed Infiltrator",1,83123,Uncommon,ZNR,83/280,No,No,0
+"Tazeem Roilmage",2,83125,Common,ZNR,84/280,No,No,0
+"Umara Wizard",1,83129,Uncommon,ZNR,86a/280,No,No,0
+"Windrider Wizard",1,83133,Uncommon,ZNR,87/280,No,No,0
+"Zulaport Duelist",2,83135,Common,ZNR,88/280,No,No,0
+"Acquisitions Expert",1,83137,Uncommon,ZNR,89/280,No,No,0
+"Blackbloom Rogue",1,83143,Uncommon,ZNR,91a/280,No,No,0
+"Blood Beckoning",2,83147,Common,ZNR,92/280,No,No,0
+"Blood Price",2,83149,Common,ZNR,93/280,No,No,0
+"Bloodchief's Thirst",1,83151,Uncommon,ZNR,94/280,No,No,0
+"Deadly Alliance",2,83155,Common,ZNR,96/280,No,No,0
+"Demon's Disciple",1,83157,Uncommon,ZNR,97/280,No,No,0
+"Drana's Silencer",2,83161,Common,ZNR,99/280,No,No,0
+"Dreadwurm",2,83163,Common,ZNR,100/280,No,No,0
+"Expedition Skulker",2,83165,Common,ZNR,101/280,No,No,0
+"Feed the Swarm",2,83167,Common,ZNR,102/280,No,No,0
+"Ghastly Gloomhunter",2,83169,Common,ZNR,103/280,No,No,0
+"Guul Draz Mucklord",2,83171,Common,ZNR,104/280,No,No,0
+"Hagra Constrictor",2,83173,Common,ZNR,105/280,No,No,0
+"Highborn Vampire",2,83179,Common,ZNR,107/280,No,No,0
+"Lithoform Blight",1,83183,Uncommon,ZNR,109/280,No,No,0
+"Malakir Blood-Priest",2,83185,Common,ZNR,110/280,No,No,0
+"Malakir Rebirth",1,83187,Uncommon,ZNR,111a/280,No,No,0
+"Marauding Blight-Priest",2,83191,Common,ZNR,112/280,No,No,0
+"Mind Carver",1,83193,Uncommon,ZNR,113/280,No,No,0
+"Mind Drain",2,83195,Common,ZNR,114/280,No,No,0
+"Nimana Skitter-Sneak",2,83199,Common,ZNR,116/280,No,No,0
+"Nimana Skydancer",2,83201,Common,ZNR,117/280,No,No,0
+"Oblivion's Hunger",2,83205,Common,ZNR,119/280,No,No,0
+"Pelakka Predation",1,83207,Uncommon,ZNR,120a/280,No,No,0
+"Scion of the Swarm",1,83211,Uncommon,ZNR,121/280,No,No,0
+"Shadow Stinger",1,83215,Uncommon,ZNR,123/280,No,No,0
+"Skyclave Shadowcat",1,83221,Uncommon,ZNR,126/280,No,No,0
+"Subtle Strike",2,83225,Common,ZNR,128/280,No,No,0
+"Thwart the Grave",1,83229,Uncommon,ZNR,130/280,No,No,0
+"Vanquish the Weak",2,83231,Common,ZNR,131/280,No,No,0
+"Zof Consumption",1,83233,Uncommon,ZNR,132a/280,No,No,0
+"Akoum Hellhound",2,83237,Common,ZNR,133/280,No,No,0
+"Akoum Warrior",1,83239,Uncommon,ZNR,134a/280,No,No,0
+"Ardent Electromancer",2,83243,Common,ZNR,135/280,No,No,0
+"Cinderclasm",1,83245,Uncommon,ZNR,136/280,No,No,0
+"Expedition Champion",2,83249,Common,ZNR,138/280,No,No,0
+"Fireblade Charger",1,83251,Uncommon,ZNR,139/280,No,No,0
+"Fissure Wizard",2,83253,Common,ZNR,140/280,No,No,0
+"Goma Fada Vanguard",1,83255,Uncommon,ZNR,141/280,No,No,0
+"Grotag Bug-Catcher",2,83257,Common,ZNR,142/280,No,No,0
+"Grotag Night-Runner",1,83259,Uncommon,ZNR,143/280,No,No,0
+"Inordinate Rage",2,83261,Common,ZNR,144/280,No,No,0
+"Kazuul's Fury",1,83265,Uncommon,ZNR,146a/280,No,No,0
+"Molten Blast",2,83273,Common,ZNR,149/280,No,No,0
+"Pyroclastic Hellion",2,83279,Common,ZNR,152/280,No,No,0
+"Rockslide Sorcerer",1,83283,Uncommon,ZNR,154/280,No,No,0
+"Roil Eruption",2,83285,Common,ZNR,155/280,No,No,0
+"Scavenged Blade",2,83289,Common,ZNR,157/280,No,No,0
+"Scorch Rider",2,83291,Common,ZNR,158/280,No,No,0
+"Shatterskull Minotaur",1,83295,Uncommon,ZNR,160/280,No,No,0
+"Sizzling Barrage",2,83301,Common,ZNR,162/280,No,No,0
+"Skyclave Geopede",1,83303,Uncommon,ZNR,163/280,No,No,0
+"Sneaking Guide",2,83305,Common,ZNR,164/280,No,No,0
+"Song-Mad Treachery",1,83307,Uncommon,ZNR,165a/280,No,No,0
+"Spikefield Hazard",1,83311,Uncommon,ZNR,166a/280,No,No,0
+"Spitfire Lagac",2,83315,Common,ZNR,167/280,No,No,0
+"Synchronized Spellcraft",2,83317,Common,ZNR,168/280,No,No,0
+"Teeterpeak Ambusher",2,83319,Common,ZNR,169/280,No,No,0
+"Thundering Rebuke",1,83321,Uncommon,ZNR,170/280,No,No,0
+"Thundering Sparkmage",1,83323,Uncommon,ZNR,171/280,No,No,0
+"Tormenting Voice",2,83325,Common,ZNR,172/280,No,No,0
+"Tuktuk Rubblefort",2,83327,Common,ZNR,173/280,No,No,0
+"Adventure Awaits",2,83337,Common,ZNR,177/280,No,No,0
+"Bala Ged Recovery",1,83343,Uncommon,ZNR,180a/280,No,No,0
+"Broken Wings",2,83347,Common,ZNR,181/280,No,No,0
+"Canopy Baloth",2,83349,Common,ZNR,182/280,No,No,0
+"Dauntless Survivor",2,83353,Common,ZNR,184/280,No,No,0
+"Gnarlid Colony",2,83355,Common,ZNR,185/280,No,No,0
+"Iridescent Hornbeetle",1,83359,Uncommon,ZNR,187/280,No,No,0
+"Joraga Visionary",2,83361,Common,ZNR,188/280,No,No,0
+"Kazandu Nectarpot",2,83367,Common,ZNR,190/280,No,No,0
+"Kazandu Stomper",2,83369,Common,ZNR,191/280,No,No,0
+"Khalni Ambush",1,83371,Uncommon,ZNR,192a/280,No,No,0
+"Might of Murasa",2,83377,Common,ZNR,194/280,No,No,0
+"Murasa Brute",2,83379,Common,ZNR,195/280,No,No,0
+"Murasa Sproutling",1,83381,Uncommon,ZNR,196/280,No,No,0
+"Nissa's Zendikon",2,83383,Common,ZNR,197/280,No,No,0
+"Oran-Rief Ooze",1,83385,Rare,ZNR,198/280,No,No,0
+"Rabid Bite",2,83387,Common,ZNR,199/280,No,No,0
+"Reclaim the Wastes",2,83389,Common,ZNR,200/280,No,No,0
+"Roiling Regrowth",1,83391,Uncommon,ZNR,201/280,No,No,0
+"Scale the Heights",2,83393,Common,ZNR,202/280,No,No,0
+"Skyclave Pick-Axe",1,83397,Uncommon,ZNR,204/280,No,No,0
+"Springmantle Cleric",1,83399,Uncommon,ZNR,205/280,No,No,0
+"Strength of Solidarity",2,83401,Common,ZNR,206/280,No,No,0
+"Tajuru Blightblade",2,83405,Common,ZNR,208/280,No,No,0
+"Tajuru Snarecaster",2,83409,Common,ZNR,210/280,No,No,0
+"Tangled Florahedron",1,83411,Uncommon,ZNR,211a/280,No,No,0
+"Taunting Arbormage",1,83415,Uncommon,ZNR,212/280,No,No,0
+"Territorial Scythecat",2,83417,Common,ZNR,213/280,No,No,0
+"Turntimber Ascetic",2,83419,Common,ZNR,214/280,No,No,0
+"Vastwood Fortification",1,83425,Uncommon,ZNR,216a/280,No,No,0
+"Vastwood Surge",1,83429,Uncommon,ZNR,217/280,No,No,0
+"Veteran Adventurer",1,83431,Uncommon,ZNR,218/280,No,No,0
+"Vine Gecko",1,83433,Uncommon,ZNR,219/280,No,No,0
+"Brushfire Elemental",1,83437,Uncommon,ZNR,221/280,No,No,0
+"Cleric of Life's Bond",1,83439,Uncommon,ZNR,222/280,No,No,0
+"Kargan Warleader",1,83443,Uncommon,ZNR,224/280,No,No,0
+"Lullmage's Familiar",1,83449,Uncommon,ZNR,227/280,No,No,0
+"Moss-Pit Skeleton",1,83451,Uncommon,ZNR,228/280,No,No,0
+"Murasa Rootgrazer",1,83453,Uncommon,ZNR,229/280,No,No,0
+"Ravager's Mace",1,83465,Uncommon,ZNR,235/280,No,No,0
+"Soaring Thought-Thief",1,83467,Uncommon,ZNR,236/280,No,No,0
+"Spoils of Adventure",1,83469,Uncommon,ZNR,237/280,No,No,0
+"Umara Mystic",1,83471,Uncommon,ZNR,238/280,No,No,0
+"Cliffhaven Kitesail",2,83481,Common,ZNR,243/280,No,No,0
+"Relic Amulet",1,83489,Uncommon,ZNR,247/280,No,No,0
+"Relic Axe",1,83491,Uncommon,ZNR,248/280,No,No,0
+"Relic Golem",1,83493,Uncommon,ZNR,249/280,No,No,0
+"Relic Vial",1,83495,Uncommon,ZNR,250/280,No,No,0
+"Sea Gate Colossus",2,83497,Common,ZNR,251/280,No,No,0
+"Skyclave Sentinel",2,83501,Common,ZNR,253/280,No,No,0
+"Spare Supplies",2,83503,Common,ZNR,254/280,No,No,0
+"Stonework Packbeast",2,83505,Common,ZNR,255/280,No,No,0
+"Utility Knife",2,83507,Common,ZNR,256/280,No,No,0
+"Base Camp",1,83509,Uncommon,ZNR,257/280,No,No,0
+"Armed and Armored",1,87281,Uncommon,KHM,379,No,No,0
+"Starnheim Aspirant",1,87283,Uncommon,KHM,380,No,No,0
+"Warchanter Skald",1,87285,Uncommon,KHM,381,No,No,0
+"Youthful Valkyrie",1,87287,Uncommon,KHM,382,No,No,0
+"Absorb Identity",1,87289,Uncommon,KHM,383,No,No,0
+"Giant's Grasp",1,87291,Uncommon,KHM,384,No,No,0
+"Elderfang Ritualist",1,87293,Uncommon,KHM,385,No,No,0
+"Renegade Reaper",1,87295,Uncommon,KHM,386,No,No,0
+"Thornmantle Striker",1,87297,Uncommon,KHM,387,No,No,0
+"Bearded Axe",1,87299,Uncommon,KHM,388,No,No,0
+"Fire Giant's Fury",1,87301,Uncommon,KHM,389,No,No,0
+"Gilded Assault Cart",1,87303,Uncommon,KHM,390,No,No,0
+"Elven Ambush",1,87305,Uncommon,KHM,391,No,No,0
+"Gladewalker Ritualist",1,87307,Uncommon,KHM,392,No,No,0
+"Rampage of the Valkyries",1,87309,Uncommon,KHM,393,No,No,0
+"Plains",4,87311,Land,KHM,394,No,No,0
+"Island",4,87313,Land,KHM,395,No,No,0
+"Swamp",4,87315,Land,KHM,396,No,No,0
+"Mountain",4,87317,Land,KHM,397,No,No,0
+"Forest",4,87319,Land,KHM,398,No,No,0
+"Axgard Braggart",2,87321,Common,KHM,1/285,No,No,0
+"Battershield Warrior",1,87323,Uncommon,KHM,2/285,No,No,0
+"Battlefield Raptor",2,87325,Common,KHM,3/285,No,No,0
+"Beskir Shieldmate",2,87327,Common,KHM,4/285,No,No,0
+"Bound in Gold",2,87329,Common,KHM,5/285,No,No,0
+"Clarion Spirit",1,87331,Uncommon,KHM,6/285,No,No,0
+"Codespell Cleric",2,87333,Common,KHM,7/285,No,No,0
+"Divine Gambit",1,87335,Uncommon,KHM,8/285,No,No,0
+"Doomskar Oracle",2,87339,Common,KHM,10/285,No,No,0
+"Giant Ox",2,87341,Common,KHM,11/285,No,No,0
+"Gods' Hall Guardian",2,87345,Common,KHM,13/285,No,No,0
+"Goldmaw Champion",2,87347,Common,KHM,14/285,No,No,0
+"Invoke the Divine",2,87353,Common,KHM,16/285,No,No,0
+"Iron Verdict",2,87355,Common,KHM,17/285,No,No,0
+"Kaya's Onslaught",1,87357,Uncommon,KHM,18/285,No,No,0
+"Master Skald",2,87359,Common,KHM,19/285,No,No,0
+"Revitalize",2,87369,Common,KHM,23/285,No,No,0
+"Rune of Sustenance",1,87373,Uncommon,KHM,25/285,No,No,0
+"Shepherd of the Cosmos",1,87379,Uncommon,KHM,28/285,No,No,0
+"Spectral Steel",1,87383,Uncommon,KHM,30/285,No,No,0
+"Stalwart Valkyrie",2,87385,Common,KHM,31/285,No,No,0
+"Starnheim Courser",2,87387,Common,KHM,32/285,No,No,0
+"Story Seeker",2,87391,Common,KHM,34/285,No,No,0
+"Usher of the Fallen",1,87393,Uncommon,KHM,35/285,No,No,0
+"Valkyrie's Sword",1,87395,Uncommon,KHM,36/285,No,No,0
+"Valor of the Worthy",2,87397,Common,KHM,37/285,No,No,0
+"Warhorn Blast",2,87399,Common,KHM,38/285,No,No,0
+"Wings of the Cosmos",2,87401,Common,KHM,39/285,No,No,0
+"Annul",2,87409,Common,KHM,42/285,No,No,0
+"Augury Raven",2,87413,Common,KHM,44/285,No,No,0
+"Avalanche Caller",1,87415,Uncommon,KHM,45/285,No,No,0
+"Behold the Multiverse",2,87417,Common,KHM,46/285,No,No,0
+"Berg Strider",2,87419,Common,KHM,47/285,No,No,0
+"Bind the Monster",2,87421,Common,KHM,48/285,No,No,0
+"Brinebarrow Intruder",2,87423,Common,KHM,49/285,No,No,0
+"Depart the Realm",2,87433,Common,KHM,53/285,No,No,0
+"Disdainful Stroke",2,87435,Common,KHM,54/285,No,No,0
+"Draugr Thought-Thief",2,87437,Common,KHM,55/285,No,No,0
+"Frost Augur",1,87439,Uncommon,KHM,56/285,No,No,0
+"Frostpeak Yeti",2,87441,Common,KHM,57/285,No,No,0
+"Frostpyre Arcanist",1,87443,Uncommon,KHM,58/285,No,No,0
+"Giant's Amulet",1,87445,Uncommon,KHM,59/285,No,No,0
+"Glimpse the Cosmos",1,87447,Uncommon,KHM,60/285,No,No,0
+"Icebind Pillar",1,87451,Uncommon,KHM,62/285,No,No,0
+"Inga Rune-Eyes",1,87455,Uncommon,KHM,64/285,No,No,0
+"Karfell Harbinger",2,87457,Common,KHM,65/285,No,No,0
+"Littjara Kinseekers",2,87459,Common,KHM,66/285,No,No,0
+"Mists of Littjara",2,87461,Common,KHM,67/285,No,No,0
+"Mistwalker",2,87463,Common,KHM,68/285,No,No,0
+"Pilfering Hawk",2,87469,Common,KHM,71/285,No,No,0
+"Ravenform",2,87471,Common,KHM,72/285,No,No,0
+"Run Ashore",2,87475,Common,KHM,74/285,No,No,0
+"Rune of Flight",1,87477,Uncommon,KHM,75/285,No,No,0
+"Saw It Coming",1,87479,Uncommon,KHM,76/285,No,No,0
+"Strategic Planning",2,87481,Common,KHM,77/285,No,No,0
+"Undersea Invader",2,87483,Common,KHM,78/285,No,No,0
+"Bloodsky Berserker",1,87487,Uncommon,KHM,80/285,No,No,0
+"Deathknell Berserker",2,87493,Common,KHM,83/285,No,No,0
+"Demonic Gifts",2,87495,Common,KHM,84/285,No,No,0
+"Dogged Pursuit",2,87497,Common,KHM,85/285,No,No,0
+"Draugr Recruiter",2,87501,Common,KHM,87/285,No,No,0
+"Draugr's Helm",1,87503,Uncommon,KHM,88/285,No,No,0
+"Dread Rider",2,87505,Common,KHM,89/285,No,No,0
+"Duskwielder",2,87509,Common,KHM,91/285,No,No,0
+"Elderfang Disciple",2,87515,Common,KHM,93/285,No,No,0
+"Feed the Serpent",2,87519,Common,KHM,95/285,No,No,0
+"Grim Draugr",2,87521,Common,KHM,96/285,No,No,0
+"Hailstorm Valkyrie",1,87523,Uncommon,KHM,97/285,No,No,0
+"Infernal Pet",2,87527,Common,KHM,99/285,No,No,0
+"Jarl of the Forsaken",2,87529,Common,KHM,100/285,No,No,0
+"Karfell Kennel-Master",2,87531,Common,KHM,101/285,No,No,0
+"Koma's Faithful",2,87533,Common,KHM,102/285,No,No,0
+"Poison the Cup",1,87535,Uncommon,KHM,103/285,No,No,0
+"Priest of the Haunted Edge",2,87537,Common,KHM,104/285,No,No,0
+"Raise the Draugr",2,87539,Common,KHM,105/285,No,No,0
+"Return Upon the Tide",1,87541,Uncommon,KHM,106/285,No,No,0
+"Rune of Mortality",1,87545,Uncommon,KHM,108/285,No,No,0
+"Skemfar Shadowsage",1,87549,Uncommon,KHM,110/285,No,No,0
+"Skull Raid",2,87551,Common,KHM,111/285,No,No,0
+"Tergrid's Shadow",1,87557,Uncommon,KHM,113/285,No,No,0
+"Vengeful Reaper",1,87565,Uncommon,KHM,116/285,No,No,0
+"Village Rites",2,87567,Common,KHM,117/285,No,No,0
+"Weigh Down",2,87569,Common,KHM,118/285,No,No,0
+"Withercrown",2,87571,Common,KHM,119/285,No,No,0
+"Axgard Cavalry",2,87575,Common,KHM,121/285,No,No,0
+"Basalt Ravager",1,87577,Uncommon,KHM,122/285,No,No,0
+"Breakneck Berserker",2,87583,Common,KHM,124/285,No,No,0
+"Cinderheart Giant",2,87587,Common,KHM,126/285,No,No,0
+"Craven Hulk",2,87589,Common,KHM,127/285,No,No,0
+"Crush the Weak",1,87591,Uncommon,KHM,128/285,No,No,0
+"Demon Bolt",2,87593,Common,KHM,129/285,No,No,0
+"Doomskar Titan",1,87595,Uncommon,KHM,130/285,No,No,0
+"Dual Strike",1,87599,Uncommon,KHM,132/285,No,No,0
+"Dwarven Hammer",1,87601,Uncommon,KHM,133/285,No,No,0
+"Dwarven Reinforcements",2,87603,Common,KHM,134/285,No,No,0
+"Fearless Liberator",1,87605,Uncommon,KHM,135/285,No,No,0
+"Fearless Pup",2,87607,Common,KHM,136/285,No,No,0
+"Frenzied Raider",1,87609,Uncommon,KHM,137/285,No,No,0
+"Frost Bite",2,87611,Common,KHM,138/285,No,No,0
+"Hagi Mob",2,87615,Common,KHM,140/285,No,No,0
+"Immersturm Raider",2,87617,Common,KHM,141/285,No,No,0
+"Open the Omenpaths",2,87621,Common,KHM,143/285,No,No,0
+"Provoke the Trolls",1,87623,Uncommon,KHM,144/285,No,No,0
+"Run Amok",2,87629,Common,KHM,147/285,No,No,0
+"Rune of Speed",1,87631,Uncommon,KHM,148/285,No,No,0
+"Seize the Spoils",2,87633,Common,KHM,149/285,No,No,0
+"Shackles of Treachery",2,87635,Common,KHM,150/285,No,No,0
+"Smashing Success",2,87637,Common,KHM,151/285,No,No,0
+"Squash",2,87639,Common,KHM,152/285,No,No,0
+"Tormentor's Helm",2,87647,Common,KHM,155/285,No,No,0
+"Tuskeri Firewalker",2,87651,Common,KHM,157/285,No,No,0
+"Vault Robber",2,87653,Common,KHM,158/285,No,No,0
+"Arachnoform",2,87655,Common,KHM,159/285,No,No,0
+"Blizzard Brawl",1,87661,Uncommon,KHM,162/285,No,No,0
+"Boreal Outrider",1,87663,Uncommon,KHM,163/285,No,No,0
+"Broken Wings",2,87665,Common,KHM,164/285,No,No,0
+"Elderleaf Mentor",2,87667,Common,KHM,165/285,No,No,0
+"Elven Bow",1,87669,Uncommon,KHM,166/285,No,No,0
+"Fynn, the Fangbearer",1,87679,Uncommon,KHM,170/285,No,No,0
+"Glittering Frost",2,87681,Common,KHM,171/285,No,No,0
+"Gnottvold Recluse",2,87683,Common,KHM,172/285,No,No,0
+"Grizzled Outrider",2,87685,Common,KHM,173/285,No,No,0
+"Guardian Gladewalker",2,87687,Common,KHM,174/285,No,No,0
+"Horizon Seeker",2,87689,Common,KHM,175/285,No,No,0
+"Icehide Troll",2,87691,Common,KHM,176/285,No,No,0
+"Jaspera Sentinel",2,87695,Common,KHM,178/285,No,No,0
+"King Harald's Revenge",2,87701,Common,KHM,180/285,No,No,0
+"Littjara Glade-Warden",1,87707,Uncommon,KHM,182/285,No,No,0
+"Mammoth Growth",2,87709,Common,KHM,183/285,No,No,0
+"Masked Vandal",2,87711,Common,KHM,184/285,No,No,0
+"Path to the World Tree",1,87715,Uncommon,KHM,186/285,No,No,0
+"Ravenous Lindwurm",2,87717,Common,KHM,187/285,No,No,0
+"Rootless Yew",1,87721,Uncommon,KHM,189/285,No,No,0
+"Roots of Wisdom",2,87723,Common,KHM,190/285,No,No,0
+"Rune of Might",1,87725,Uncommon,KHM,191/285,No,No,0
+"Sarulf's Packmate",2,87727,Common,KHM,192/285,No,No,0
+"Sculptor of Winter",2,87729,Common,KHM,193/285,No,No,0
+"Snakeskin Veil",2,87731,Common,KHM,194/285,No,No,0
+"Spirit of the Aldergard",1,87733,Uncommon,KHM,195/285,No,No,0
+"Struggle for Skemfar",2,87735,Common,KHM,196/285,No,No,0
+"Aegar, the Freezing Flame",1,87743,Uncommon,KHM,200/285,No,No,0
+"Arni Slays the Troll",1,87745,Uncommon,KHM,201/285,No,No,0
+"Ascent of the Worthy",1,87747,Uncommon,KHM,202/285,No,No,0
+"Binding the Old Gods",1,87755,Uncommon,KHM,206/285,No,No,0
+"Fall of the Impostor",1,87759,Uncommon,KHM,208/285,No,No,0
+"Firja, Judge of Valor",1,87761,Uncommon,KHM,209/285,No,No,0
+"Forging the Tyrite Sword",1,87765,Uncommon,KHM,211/285,No,No,0
+"Harald, King of Skemfar",1,87767,Uncommon,KHM,212/285,No,No,0
+"Invasion of the Giants",1,87773,Uncommon,KHM,215/285,No,No,0
+"Kardur, Doomscourge",1,87775,Uncommon,KHM,216/285,No,No,0
+"Kardur's Vicious Return",1,87777,Uncommon,KHM,217/285,No,No,0
+"Koll, the Forgemaster",1,87783,Uncommon,KHM,220/285,No,No,0
+"Maja, Bretagard Protector",1,87787,Uncommon,KHM,222/285,No,No,0
+"Moritte of the Frost",1,87789,Uncommon,KHM,223/285,No,No,0
+"Narfi, Betrayer King",1,87791,Uncommon,KHM,224/285,No,No,0
+"Niko Defies Destiny",1,87795,Uncommon,KHM,226/285,No,No,0
+"Svella, Ice Shaper",1,87803,Uncommon,KHM,230/285,No,No,0
+"The Three Seasons",1,87805,Uncommon,KHM,231/285,No,No,0
+"The Trickster-God's Heist",1,87807,Uncommon,KHM,232/285,No,No,0
+"Vega, the Watcher",1,87809,Uncommon,KHM,233/285,No,No,0
+"Bloodline Pretender",1,87813,Uncommon,KHM,235/285,No,No,0
+"Colossal Plow",1,87815,Uncommon,KHM,236/285,No,No,0
+"Funeral Longboat",2,87819,Common,KHM,238/285,No,No,0
+"Goldvein Pick",2,87821,Common,KHM,239/285,No,No,0
+"Raiders' Karve",2,87827,Common,KHM,242/285,No,No,0
+"Raven Wings",2,87829,Common,KHM,243/285,No,No,0
+"Replicating Ring",1,87831,Uncommon,KHM,244/285,No,No,0
+"Runed Crown",1,87833,Uncommon,KHM,245/285,No,No,0
+"Scorn Effigy",2,87835,Common,KHM,246/285,No,No,0
+"Weathered Runestone",1,87837,Uncommon,KHM,247/285,No,No,0
+"Alpine Meadow",4,87839,Land,KHM,248/285,No,No,0
+"Arctic Treeline",4,87841,Land,KHM,249/285,No,No,0
+"Axgard Armory",1,87843,Uncommon,KHM,250/285,No,No,0
+"Bretagard Stronghold",1,87853,Uncommon,KHM,253/285,No,No,0
+"Gates of Istfell",1,87861,Uncommon,KHM,256/285,No,No,0
+"Glacial Floodplain",4,87863,Land,KHM,257/285,No,No,0
+"Gnottvold Slumbermound",1,87865,Uncommon,KHM,258/285,No,No,0
+"Great Hall of Starnheim",1,87867,Uncommon,KHM,259/285,No,No,0
+"Highland Forest",4,87873,Land,KHM,261/285,No,No,0
+"Ice Tunnel",4,87875,Land,KHM,262/285,No,No,0
+"Immersturm Skullcairn",1,87877,Uncommon,KHM,263/285,No,No,0
+"Littjara Mirrorlake",1,87879,Uncommon,KHM,264/285,No,No,0
+"Port of Karfell",1,87881,Uncommon,KHM,265/285,No,No,0
+"Rimewood Falls",4,87883,Land,KHM,266/285,No,No,0
+"Shimmerdrift Vale",2,87885,Common,KHM,267/285,No,No,0
+"Skemfar Elderhall",1,87887,Uncommon,KHM,268/285,No,No,0
+"Snowfield Sinkhole",4,87889,Land,KHM,269/285,No,No,0
+"Sulfurous Mire",4,87891,Land,KHM,270/285,No,No,0
+"Surtland Frostpyre",1,87893,Uncommon,KHM,271/285,No,No,0
+"Volatile Fjord",4,87897,Land,KHM,273/285,No,No,0
+"Woodland Chasm",4,87899,Land,KHM,274/285,No,No,0
+"Snow-Covered Plains",4,87903,Land,KHM,276/285,No,No,0
+"Snow-Covered Plains",4,87905,Land,KHM,277/285,No,No,0
+"Snow-Covered Island",4,87907,Land,KHM,278/285,No,No,0
+"Snow-Covered Island",4,87909,Land,KHM,279/285,No,No,0
+"Snow-Covered Swamp",4,87911,Land,KHM,280/285,No,No,0
+"Snow-Covered Swamp",4,87913,Land,KHM,281/285,No,No,0
+"Snow-Covered Mountain",4,87915,Land,KHM,282/285,No,No,0
+"Snow-Covered Mountain",4,87917,Land,KHM,283/285,No,No,0
+"Snow-Covered Forest",4,87919,Land,KHM,284/285,No,No,0
+"Snow-Covered Forest",4,87921,Land,KHM,285/285,No,No,0
+"Environmental Sciences",2,88477,Common,STX,1/275,No,No,0
+"Expanded Anatomy",2,88479,Common,STX,2/275,No,No,0
+"Introduction to Annihilation",2,88481,Common,STX,3/275,No,No,0
+"Introduction to Prophecy",2,88483,Common,STX,4/275,No,No,0
+"Ageless Guardian",2,88493,Common,STX,8/275,No,No,0
+"Beaming Defiance",2,88495,Common,STX,9/275,No,No,0
+"Clever Lumimancer",1,88497,Uncommon,STX,10/275,No,No,0
+"Combat Professor",2,88499,Common,STX,11/275,No,No,0
+"Defend the Campus",2,88501,Common,STX,12/275,No,No,0
+"Detention Vortex",1,88503,Uncommon,STX,13/275,No,No,0
+"Dueling Coach",1,88507,Uncommon,STX,15/275,No,No,0
+"Eager First-Year",2,88509,Common,STX,16/275,No,No,0
+"Expel",2,88513,Common,STX,18/275,No,No,0
+"Guiding Voice",2,88515,Common,STX,19/275,No,No,0
+"Pilgrim of the Ages",2,88521,Common,STX,22/275,No,No,0
+"Pillardrop Rescuer",2,88523,Common,STX,23/275,No,No,0
+"Professor of Symbology",1,88525,Uncommon,STX,24/275,No,No,0
+"Reduce to Memory",1,88527,Uncommon,STX,25/275,No,No,0
+"Secret Rendezvous",1,88529,Uncommon,STX,26/275,No,No,0
+"Show of Confidence",1,88533,Uncommon,STX,28/275,No,No,0
+"Star Pupil",2,88537,Common,STX,30/275,No,No,0
+"Stonebinder's Familiar",1,88539,Uncommon,STX,31/275,No,No,0
+"Stonerise Spirit",2,88541,Common,STX,32/275,No,No,0
+"Study Break",2,88545,Common,STX,34/275,No,No,0
+"Thunderous Orator",1,88547,Uncommon,STX,35/275,No,No,0
+"Arcane Subtraction",2,88549,Common,STX,36/275,No,No,0
+"Burrog Befuddler",2,88553,Common,STX,38/275,No,No,0
+"Bury in Books",2,88555,Common,STX,39/275,No,No,0
+"Curate",2,88557,Common,STX,40/275,No,No,0
+"Divide by Zero",1,88559,Uncommon,STX,41/275,No,No,0
+"Frost Trickster",2,88563,Common,STX,43/275,No,No,0
+"Kelpie Guide",1,88567,Uncommon,STX,45/275,No,No,0
+"Mentor's Guidance",1,88569,Uncommon,STX,46/275,No,No,0
+"Mercurial Transformation",1,88571,Uncommon,STX,47/275,No,No,0
+"Pop Quiz",2,88575,Common,STX,49/275,No,No,0
+"Reject",2,88577,Common,STX,50/275,No,No,0
+"Resculpt",2,88579,Common,STX,51/275,No,No,0
+"Serpentine Curve",2,88581,Common,STX,52/275,No,No,0
+"Snow Day",1,88583,Uncommon,STX,53/275,No,No,0
+"Solve the Equation",1,88585,Uncommon,STX,54/275,No,No,0
+"Soothsayer Adept",2,88587,Common,STX,55/275,No,No,0
+"Symmetry Sage",1,88589,Uncommon,STX,56/275,No,No,0
+"Vortex Runner",2,88597,Common,STX,60/275,No,No,0
+"Waterfall Aerialist",2,88599,Common,STX,61/275,No,No,0
+"Wormhole Serpent",1,88601,Uncommon,STX,62/275,No,No,0
+"Arrogant Poet",2,88603,Common,STX,63/275,No,No,0
+"Brackish Trudge",1,88607,Uncommon,STX,65/275,No,No,0
+"Crushing Disappointment",2,88613,Common,STX,68/275,No,No,0
+"Essence Infusion",2,88615,Common,STX,69/275,No,No,0
+"Eyetwitch",1,88617,Uncommon,STX,70/275,No,No,0
+"Flunk",1,88619,Uncommon,STX,71/275,No,No,0
+"Go Blank",1,88621,Uncommon,STX,72/275,No,No,0
+"Hunt for Specimens",2,88623,Common,STX,73/275,No,No,0
+"Lash of Malice",2,88625,Common,STX,74/275,No,No,0
+"Leech Fanatic",2,88627,Common,STX,75/275,No,No,0
+"Mage Hunter",1,88629,Uncommon,STX,76/275,No,No,0
+"Mage Hunters' Onslaught",2,88631,Common,STX,77/275,No,No,0
+"Necrotic Fumes",1,88633,Uncommon,STX,78/275,No,No,0
+"Novice Dissector",2,88635,Common,STX,79/275,No,No,0
+"Plumb the Forbidden",1,88639,Uncommon,STX,81/275,No,No,0
+"Professor's Warning",2,88645,Common,STX,84/275,No,No,0
+"Promising Duskmage",2,88647,Common,STX,85/275,No,No,0
+"Specter of the Fens",2,88651,Common,STX,87/275,No,No,0
+"Tenured Inkcaster",1,88653,Uncommon,STX,88/275,No,No,0
+"Umbral Juke",1,88655,Uncommon,STX,89/275,No,No,0
+"Unwilling Ingredient",2,88657,Common,STX,90/275,No,No,0
+"Academic Dispute",1,88659,Uncommon,STX,91/275,No,No,0
+"Ardent Dustspeaker",1,88661,Uncommon,STX,92/275,No,No,0
+"Blood Age General",2,88663,Common,STX,93/275,No,No,0
+"Dragon's Approach",2,88671,Common,STX,97/275,No,No,0
+"Enthusiastic Study",2,88675,Common,STX,99/275,No,No,0
+"Explosive Welcome",1,88677,Uncommon,STX,100/275,No,No,0
+"First Day of Class",2,88681,Common,STX,102/275,No,No,0
+"Fuming Effigy",2,88683,Common,STX,103/275,No,No,0
+"Grinning Ignus",1,88685,Uncommon,STX,104/275,No,No,0
+"Hall Monitor",1,88687,Uncommon,STX,105/275,No,No,0
+"Heated Debate",2,88689,Common,STX,106/275,No,No,0
+"Igneous Inspiration",1,88691,Uncommon,STX,107/275,No,No,0
+"Illustrious Historian",2,88695,Common,STX,109/275,No,No,0
+"Mascot Interception",1,88697,Uncommon,STX,110/275,No,No,0
+"Pigment Storm",2,88699,Common,STX,111/275,No,No,0
+"Pillardrop Warden",2,88701,Common,STX,112/275,No,No,0
+"Start from Scratch",1,88705,Uncommon,STX,114/275,No,No,0
+"Storm-Kiln Artist",1,88707,Uncommon,STX,115/275,No,No,0
+"Sudden Breakthrough",2,88709,Common,STX,116/275,No,No,0
+"Tome Shredder",2,88711,Common,STX,117/275,No,No,0
+"Twinscroll Shaman",2,88713,Common,STX,118/275,No,No,0
+"Bayou Groff",2,88719,Common,STX,121/275,No,No,0
+"Big Play",2,88721,Common,STX,122/275,No,No,0
+"Bookwurm",1,88723,Uncommon,STX,123/275,No,No,0
+"Charge Through",2,88725,Common,STX,124/275,No,No,0
+"Containment Breach",1,88727,Uncommon,STX,125/275,No,No,0
+"Devouring Tendrils",1,88729,Uncommon,STX,126/275,No,No,0
+"Emergent Sequence",1,88735,Uncommon,STX,129/275,No,No,0
+"Field Trip",2,88739,Common,STX,131/275,No,No,0
+"Fortifying Draught",1,88741,Uncommon,STX,132/275,No,No,0
+"Honor Troll",1,88745,Uncommon,STX,134/275,No,No,0
+"Karok Wrangler",1,88747,Uncommon,STX,135/275,No,No,0
+"Leyline Invocation",2,88749,Common,STX,136/275,No,No,0
+"Mage Duel",2,88751,Common,STX,137/275,No,No,0
+"Master Symmetrist",1,88753,Uncommon,STX,138/275,No,No,0
+"Overgrown Arch",1,88755,Uncommon,STX,139/275,No,No,0
+"Professor of Zoomancy",2,88757,Common,STX,140/275,No,No,0
+"Reckless Amplimancer",2,88759,Common,STX,141/275,No,No,0
+"Scurrid Colony",2,88761,Common,STX,142/275,No,No,0
+"Spined Karok",2,88763,Common,STX,143/275,No,No,0
+"Springmane Cervin",2,88765,Common,STX,144/275,No,No,0
+"Tangletrap",2,88767,Common,STX,145/275,No,No,0
+"Aether Helix",1,88831,Uncommon,STX,162/275,No,No,0
+"Biomathematician",2,88835,Common,STX,164/275,No,No,0
+"Blood Researcher",2,88839,Common,STX,166/275,No,No,0
+"Closing Statement",1,88845,Uncommon,STX,169/275,No,No,0
+"Cram Session",2,88847,Common,STX,170/275,No,No,0
+"Creative Outburst",1,88849,Uncommon,STX,171/275,No,No,0
+"Daemogoth Woe-Eater",1,88857,Uncommon,STX,175/275,No,No,0
+"Deadly Brew",1,88859,Uncommon,STX,176/275,No,No,0
+"Decisive Denial",1,88861,Uncommon,STX,177/275,No,No,0
+"Dina, Soul Steeper",1,88863,Uncommon,STX,178/275,No,No,0
+"Elemental Masterpiece",2,88871,Common,STX,182/275,No,No,0
+"Elemental Summoning",2,88873,Common,STX,183/275,No,No,0
+"Eureka Moment",2,88875,Common,STX,184/275,No,No,0
+"Exhilarating Elocution",2,88877,Common,STX,185/275,No,No,0
+"Expressive Iteration",1,88879,Uncommon,STX,186/275,No,No,0
+"Fractal Summoning",2,88881,Common,STX,187/275,No,No,0
+"Fracture",1,88883,Uncommon,STX,188/275,No,No,0
+"Golden Ratio",1,88887,Uncommon,STX,190/275,No,No,0
+"Humiliate",1,88893,Uncommon,STX,193/275,No,No,0
+"Infuse with Vitality",2,88895,Common,STX,194/275,No,No,0
+"Inkling Summoning",2,88897,Common,STX,195/275,No,No,0
+"Killian, Ink Duelist",1,88901,Uncommon,STX,197/275,No,No,0
+"Lorehold Apprentice",1,88903,Uncommon,STX,198/275,No,No,0
+"Lorehold Excavation",1,88907,Uncommon,STX,200/275,No,No,0
+"Lorehold Pledgemage",2,88909,Common,STX,201/275,No,No,0
+"Maelstrom Muse",1,88911,Uncommon,STX,202/275,No,No,0
+"Make Your Mark",2,88915,Common,STX,204/275,No,No,0
+"Moldering Karok",2,88919,Common,STX,206/275,No,No,0
+"Mortality Spear",1,88921,Uncommon,STX,207/275,No,No,0
+"Needlethorn Drake",2,88923,Common,STX,208/275,No,No,0
+"Oggyar Battle-Seer",2,88925,Common,STX,209/275,No,No,0
+"Owlin Shieldmage",2,88927,Common,STX,210/275,No,No,0
+"Pest Summoning",2,88929,Common,STX,211/275,No,No,0
+"Practical Research",1,88931,Uncommon,STX,212/275,No,No,0
+"Prismari Apprentice",1,88933,Uncommon,STX,213/275,No,No,0
+"Prismari Pledgemage",2,88937,Common,STX,215/275,No,No,0
+"Quandrix Apprentice",1,88939,Uncommon,STX,216/275,No,No,0
+"Quandrix Cultivator",1,88943,Uncommon,STX,218/275,No,No,0
+"Quandrix Pledgemage",2,88945,Common,STX,219/275,No,No,0
+"Quintorius, Field Historian",1,88947,Uncommon,STX,220/275,No,No,0
+"Reconstruct History",1,88951,Uncommon,STX,222/275,No,No,0
+"Relic Sloth",2,88953,Common,STX,223/275,No,No,0
+"Returned Pastcaller",1,88955,Uncommon,STX,224/275,No,No,0
+"Rip Apart",1,88957,Uncommon,STX,225/275,No,No,0
+"Rise of Extus",2,88959,Common,STX,226/275,No,No,0
+"Rootha, Mercurial Artist",1,88961,Uncommon,STX,227/275,No,No,0
+"Shadewing Laureate",1,88965,Uncommon,STX,229/275,No,No,0
+"Silverquill Apprentice",1,88969,Uncommon,STX,231/275,No,No,0
+"Silverquill Pledgemage",2,88973,Common,STX,233/275,No,No,0
+"Spectacle Mage",2,88977,Common,STX,235/275,No,No,0
+"Spirit Summoning",2,88979,Common,STX,236/275,No,No,0
+"Spiteful Squad",2,88981,Common,STX,237/275,No,No,0
+"Square Up",2,88983,Common,STX,238/275,No,No,0
+"Stonebound Mentor",2,88985,Common,STX,239/275,No,No,0
+"Teach by Example",2,88989,Common,STX,241/275,No,No,0
+"Tend the Pests",1,88991,Uncommon,STX,242/275,No,No,0
+"Thrilling Discovery",2,88993,Common,STX,243/275,No,No,0
+"Witherbloom Apprentice",1,89001,Uncommon,STX,247/275,No,No,0
+"Witherbloom Pledgemage",2,89005,Common,STX,249/275,No,No,0
+"Zimone, Quandrix Prodigy",1,89007,Uncommon,STX,250/275,No,No,0
+"Biblioplex Assistant",2,89009,Common,STX,251/275,No,No,0
+"Campus Guide",2,89011,Common,STX,252/275,No,No,0
+"Cogwork Archivist",2,89015,Common,STX,254/275,No,No,0
+"Excavated Wall",2,89017,Common,STX,255/275,No,No,0
+"Letter of Acceptance",2,89019,Common,STX,256/275,No,No,0
+"Reflective Golem",1,89021,Uncommon,STX,257/275,No,No,0
+"Spell Satchel",1,89023,Uncommon,STX,258/275,No,No,0
+"Team Pennant",1,89027,Uncommon,STX,260/275,No,No,0
+"Zephyr Boots",1,89029,Uncommon,STX,261/275,No,No,0
+"Access Tunnel",1,89031,Uncommon,STX,262/275,No,No,0
+"Archway Commons",2,89033,Common,STX,263/275,No,No,0
+"Lorehold Campus",2,89043,Common,STX,268/275,No,No,0
+"Prismari Campus",2,89047,Common,STX,270/275,No,No,0
+"Quandrix Campus",2,89049,Common,STX,271/275,No,No,0
+"Silverquill Campus",2,89053,Common,STX,273/275,No,No,0
+"Witherbloom Campus",2,89057,Common,STX,275/275,No,No,0
+"Magus of the Bridge",1,90557,Rare,MH2,92/303,No,No,0
+"+2 Mace",2,91504,Common,AFR,1/281,No,No,0
+"Arborea Pegasus",2,91506,Common,AFR,2/281,No,No,0
+"Blink Dog",1,91508,Uncommon,AFR,3/281,No,No,0
+"Celestial Unicorn",2,91512,Common,AFR,5/281,No,No,0
+"Cleric Class",1,91514,Uncommon,AFR,6/281,No,No,0
+"Cloister Gargoyle",1,91516,Uncommon,AFR,7/281,No,No,0
+"Dawnbringer Cleric",2,91520,Common,AFR,9/281,No,No,0
+"Delver's Torch",2,91522,Common,AFR,10/281,No,No,0
+"Devoted Paladin",2,91524,Common,AFR,11/281,No,No,0
+"Divine Smite",1,91526,Uncommon,AFR,12/281,No,No,0
+"Dragon's Disciple",1,91528,Uncommon,AFR,13/281,No,No,0
+"Dwarfhold Champion",2,91530,Common,AFR,14/281,No,No,0
+"Gloom Stalker",2,91534,Common,AFR,16/281,No,No,0
+"Half-Elf Monk",2,91540,Common,AFR,19/281,No,No,0
+"Ingenious Smith",1,91544,Uncommon,AFR,21/281,No,No,0
+"Keen-Eared Sentry",1,91546,Uncommon,AFR,22/281,No,No,0
+"Minimus Containment",2,91550,Common,AFR,24/281,No,No,0
+"Monk of the Open Hand",1,91552,Uncommon,AFR,25/281,No,No,0
+"Moon-Blessed Cleric",1,91554,Uncommon,AFR,26/281,No,No,0
+"Paladin's Shield",2,91562,Common,AFR,30/281,No,No,0
+"Planar Ally",2,91564,Common,AFR,31/281,No,No,0
+"Plate Armor",1,91566,Uncommon,AFR,32/281,No,No,0
+"Potion of Healing",2,91570,Common,AFR,34/281,No,No,0
+"Priest of Ancient Lore",2,91572,Common,AFR,35/281,No,No,0
+"Rally Maneuver",1,91574,Uncommon,AFR,36/281,No,No,0
+"Ranger's Hawk",2,91576,Common,AFR,37/281,No,No,0
+"Steadfast Paladin",2,91578,Common,AFR,38/281,No,No,0
+"Veteran Dungeoneer",2,91582,Common,AFR,40/281,No,No,0
+"White Dragon",1,91584,Uncommon,AFR,41/281,No,No,0
+"You Hear Something on Watch",2,91586,Common,AFR,42/281,No,No,0
+"You're Ambushed on the Road",2,91588,Common,AFR,43/281,No,No,0
+"Aberrant Mind Sorcerer",1,91590,Uncommon,AFR,44/281,No,No,0
+"Air-Cult Elemental",2,91592,Common,AFR,45/281,No,No,0
+"Arcane Investigator",2,91594,Common,AFR,46/281,No,No,0
+"Bar the Gate",2,91596,Common,AFR,47/281,No,No,0
+"Blue Dragon",1,91600,Uncommon,AFR,49/281,No,No,0
+"Charmed Sleep",2,91602,Common,AFR,50/281,No,No,0
+"Clever Conjurer",2,91604,Common,AFR,51/281,No,No,0
+"Contact Other Plane",2,91606,Common,AFR,52/281,No,No,0
+"Displacer Beast",1,91610,Uncommon,AFR,54/281,No,No,0
+"Djinni Windseer",2,91612,Common,AFR,55/281,No,No,0
+"Eccentric Apprentice",1,91616,Uncommon,AFR,57/281,No,No,0
+"Feywild Trickster",1,91618,Uncommon,AFR,58/281,No,No,0
+"Fly",1,91620,Uncommon,AFR,59/281,No,No,0
+"Guild Thief",1,91624,Uncommon,AFR,61/281,No,No,0
+"Mordenkainen's Polymorph",2,91632,Common,AFR,65/281,No,No,0
+"Pixie Guide",2,91634,Common,AFR,66/281,No,No,0
+"Power of Persuasion",1,91636,Uncommon,AFR,67/281,No,No,0
+"Ray of Frost",1,91638,Uncommon,AFR,68/281,No,No,0
+"Rimeshield Frost Giant",2,91640,Common,AFR,69/281,No,No,0
+"Scion of Stygia",2,91642,Common,AFR,70/281,No,No,0
+"Secret Door",2,91644,Common,AFR,71/281,No,No,0
+"Shocking Grasp",2,91646,Common,AFR,72/281,No,No,0
+"Shortcut Seeker",2,91648,Common,AFR,73/281,No,No,0
+"Silver Raven",2,91650,Common,AFR,74/281,No,No,0
+"Soulknife Spy",2,91652,Common,AFR,75/281,No,No,0
+"Split the Party",1,91654,Uncommon,AFR,76/281,No,No,0
+"Sudden Insight",1,91656,Uncommon,AFR,77/281,No,No,0
+"Trickster's Talisman",1,91660,Uncommon,AFR,79/281,No,No,0
+"Wizard Class",1,91664,Uncommon,AFR,81/281,No,No,0
+"You Come to a River",2,91668,Common,AFR,83/281,No,No,0
+"You Find the Villains' Lair",2,91670,Common,AFR,84/281,No,No,0
+"You See a Guard Approach",2,91672,Common,AFR,85/281,No,No,0
+"Baleful Beholder",2,91680,Common,AFR,89/281,No,No,0
+"Black Dragon",1,91682,Uncommon,AFR,90/281,No,No,0
+"Check for Traps",1,91686,Uncommon,AFR,92/281,No,No,0
+"Clattering Skeletons",2,91688,Common,AFR,93/281,No,No,0
+"Death-Priest of Myrkul",1,91692,Uncommon,AFR,95/281,No,No,0
+"Demogorgon's Clutches",1,91694,Uncommon,AFR,96/281,No,No,0
+"Devour Intellect",2,91696,Common,AFR,97/281,No,No,0
+"Drider",1,91698,Uncommon,AFR,98/281,No,No,0
+"Dungeon Crawler",1,91700,Uncommon,AFR,99/281,No,No,0
+"Eyes of the Beholder",2,91704,Common,AFR,101/281,No,No,0
+"Fates' Reversal",2,91706,Common,AFR,102/281,No,No,0
+"Feign Death",2,91708,Common,AFR,103/281,No,No,0
+"Grim Bounty",2,91714,Common,AFR,106/281,No,No,0
+"Grim Wanderer",1,91716,Uncommon,AFR,107/281,No,No,0
+"Herald of Hadar",2,91718,Common,AFR,108/281,No,No,0
+"Hired Hexblade",2,91720,Common,AFR,109/281,No,No,0
+"Hoard Robber",2,91722,Common,AFR,110/281,No,No,0
+"Lightfoot Rogue",1,91724,Uncommon,AFR,111/281,No,No,0
+"Manticore",2,91728,Common,AFR,113/281,No,No,0
+"Power Word Kill",1,91730,Uncommon,AFR,114/281,No,No,0
+"Precipitous Drop",2,91732,Common,AFR,115/281,No,No,0
+"Ray of Enfeeblement",1,91734,Uncommon,AFR,116/281,No,No,0
+"Reaper's Talisman",1,91736,Uncommon,AFR,117/281,No,No,0
+"Sepulcher Ghoul",2,91738,Common,AFR,118/281,No,No,0
+"Shambling Ghast",2,91740,Common,AFR,119/281,No,No,0
+"Skullport Merchant",1,91742,Uncommon,AFR,120/281,No,No,0
+"Thieves' Tools",2,91746,Common,AFR,122/281,No,No,0
+"Vampire Spawn",2,91748,Common,AFR,123/281,No,No,0
+"Warlock Class",1,91752,Uncommon,AFR,125/281,No,No,0
+"Yuan-Ti Fang-Blade",2,91758,Common,AFR,128/281,No,No,0
+"Zombie Ogre",2,91760,Common,AFR,129/281,No,No,0
+"Armory Veteran",2,91762,Common,AFR,130/281,No,No,0
+"Barbarian Class",1,91764,Uncommon,AFR,131/281,No,No,0
+"Battle Cry Goblin",1,91766,Uncommon,AFR,132/281,No,No,0
+"Boots of Speed",2,91768,Common,AFR,133/281,No,No,0
+"Brazen Dwarf",2,91770,Common,AFR,134/281,No,No,0
+"Burning Hands",1,91772,Uncommon,AFR,135/281,No,No,0
+"Chaos Channeler",1,91774,Uncommon,AFR,136/281,No,No,0
+"Critical Hit",1,91776,Uncommon,AFR,137/281,No,No,0
+"Dragon's Fire",2,91780,Common,AFR,139/281,No,No,0
+"Dueling Rapier",2,91782,Common,AFR,140/281,No,No,0
+"Earth-Cult Elemental",2,91784,Common,AFR,141/281,No,No,0
+"Farideh's Fireball",2,91786,Common,AFR,142/281,No,No,0
+"Goblin Javelineer",2,91790,Common,AFR,144/281,No,No,0
+"Goblin Morningstar",1,91792,Uncommon,AFR,145/281,No,No,0
+"Hoarding Ogre",2,91794,Common,AFR,146/281,No,No,0
+"Hobgoblin Captain",2,91798,Common,AFR,148/281,No,No,0
+"Hulking Bugbear",1,91800,Uncommon,AFR,149/281,No,No,0
+"Improvised Weaponry",2,91802,Common,AFR,150/281,No,No,0
+"Jaded Sell-Sword",2,91806,Common,AFR,152/281,No,No,0
+"Kick in the Door",2,91808,Common,AFR,153/281,No,No,0
+"Magic Missile",1,91810,Uncommon,AFR,154/281,No,No,0
+"Orb of Dragonkind",1,91816,Rare,AFR,157/281,No,No,0
+"Plundering Barbarian",2,91818,Common,AFR,158/281,No,No,0
+"Price of Loyalty",2,91820,Common,AFR,159/281,No,No,0
+"Red Dragon",1,91822,Uncommon,AFR,160/281,No,No,0
+"Rust Monster",1,91824,Uncommon,AFR,161/281,No,No,0
+"Swarming Goblins",2,91826,Common,AFR,162/281,No,No,0
+"Tiger-Tribe Hunter",1,91828,Uncommon,AFR,163/281,No,No,0
+"Unexpected Windfall",2,91830,Common,AFR,164/281,No,No,0
+"Valor Singer",2,91832,Common,AFR,165/281,No,No,0
+"You Come to the Gnoll Camp",2,91838,Common,AFR,168/281,No,No,0
+"You Find Some Prisoners",1,91840,Uncommon,AFR,169/281,No,No,0
+"You See a Pair of Goblins",1,91842,Uncommon,AFR,170/281,No,No,0
+"Bulette",2,91848,Common,AFR,173/281,No,No,0
+"Bull's Strength",2,91850,Common,AFR,174/281,No,No,0
+"Choose Your Weapon",1,91852,Uncommon,AFR,175/281,No,No,0
+"Circle of the Moon Druid",2,91856,Common,AFR,177/281,No,No,0
+"Compelled Duel",2,91858,Common,AFR,178/281,No,No,0
+"Dire Wolf Prowler",2,91860,Common,AFR,179/281,No,No,0
+"Druid Class",1,91862,Uncommon,AFR,180/281,No,No,0
+"Elturgard Ranger",2,91866,Common,AFR,182/281,No,No,0
+"Find the Path",2,91868,Common,AFR,183/281,No,No,0
+"Gnoll Hunter",2,91872,Common,AFR,185/281,No,No,0
+"Green Dragon",1,91874,Uncommon,AFR,186/281,No,No,0
+"Hill Giant Herdgorger",2,91876,Common,AFR,187/281,No,No,0
+"Hunter's Mark",1,91878,Uncommon,AFR,188/281,No,No,0
+"Inspiring Bard",2,91880,Common,AFR,189/281,No,No,0
+"Intrepid Outlander",1,91884,Uncommon,AFR,191/281,No,No,0
+"Loathsome Troll",1,91886,Uncommon,AFR,192/281,No,No,0
+"Lurking Roper",1,91890,Uncommon,AFR,194/281,No,No,0
+"Neverwinter Dryad",2,91892,Common,AFR,195/281,No,No,0
+"Owlbear",2,91898,Common,AFR,198/281,No,No,0
+"Plummet",2,91900,Common,AFR,199/281,No,No,0
+"Prosperous Innkeeper",1,91902,Uncommon,AFR,200/281,No,No,0
+"Purple Worm",1,91904,Uncommon,AFR,201/281,No,No,0
+"Ranger's Longbow",2,91908,Common,AFR,203/281,No,No,0
+"Scaled Herbalist",2,91910,Common,AFR,204/281,No,No,0
+"Spoils of the Hunt",2,91912,Common,AFR,205/281,No,No,0
+"Sylvan Shepherd",2,91914,Common,AFR,206/281,No,No,0
+"Underdark Basilisk",2,91918,Common,AFR,208/281,No,No,0
+"Wandering Troubadour",1,91922,Uncommon,AFR,210/281,No,No,0
+"Wild Shape",1,91926,Uncommon,AFR,212/281,No,No,0
+"You Find a Cursed Idol",2,91928,Common,AFR,213/281,No,No,0
+"You Happen On a Glade",1,91930,Uncommon,AFR,214/281,No,No,0
+"You Meet in a Tavern",1,91932,Uncommon,AFR,215/281,No,No,0
+"Barrowin of Clan Undurr",1,91938,Uncommon,AFR,218/281,No,No,0
+"Bruenor Battlehammer",1,91940,Uncommon,AFR,219/281,No,No,0
+"Farideh, Devil's Chosen",1,91944,Uncommon,AFR,221/281,No,No,0
+"Gretchen Titchwillow",1,91948,Uncommon,AFR,223/281,No,No,0
+"Hama Pashar, Ruin Seeker",1,91950,Uncommon,AFR,224/281,No,No,0
+"Kalain, Reclusive Painter",1,91952,Uncommon,AFR,225/281,No,No,0
+"Krydle of Baldur's Gate",1,91954,Uncommon,AFR,226/281,No,No,0
+"Shessra, Death's Whisper",1,91964,Uncommon,AFR,231/281,No,No,0
+"Targ Nar, Demon-Fang Gnoll",1,91970,Uncommon,AFR,234/281,No,No,0
+"Trelasarra, Moon Dancer",1,91974,Uncommon,AFR,236/281,No,No,0
+"Bag of Holding",1,91982,Uncommon,AFR,240/281,No,No,0
+"Dungeon Map",1,91986,Uncommon,AFR,242/281,No,No,0
+"Fifty Feet of Rope",1,91990,Uncommon,AFR,244/281,No,No,0
+"Greataxe",2,91992,Common,AFR,245/281,No,No,0
+"Iron Golem",1,91996,Uncommon,AFR,247/281,No,No,0
+"Leather Armor",2,91998,Common,AFR,248/281,No,No,0
+"Mimic",2,92000,Common,AFR,249/281,No,No,0
+"Spare Dagger",2,92002,Common,AFR,250/281,No,No,0
+"Spiked Pit Trap",2,92004,Common,AFR,251/281,No,No,0
+"Evolving Wilds",2,92014,Common,AFR,256/281,No,No,0
+"Temple of the Dragon Queen",1,92022,Uncommon,AFR,260/281,No,No,0
+"Ambitious Farmhand",2,92918,Uncommon,MID,2a/277,No,No,0
+"Beloved Beggar",2,92922,Uncommon,MID,3a/277,No,No,0
+"Bereaved Survivor",2,92926,Uncommon,MID,4a/277,No,No,0
+"Blessed Defiance",4,92930,Common,MID,5/277,No,No,0
+"Borrowed Time",2,92932,Uncommon,MID,6/277,No,No,0
+"Candlegrove Witch",4,92938,Common,MID,8/277,No,No,0
+"Candletrap",4,92940,Common,MID,9/277,No,No,0
+"Cathar Commando",4,92942,Common,MID,10/277,No,No,0
+"Cathar's Call",2,92944,Uncommon,MID,11/277,No,No,0
+"Celestus Sanctifier",4,92946,Common,MID,12/277,No,No,0
+"Chaplain of Alms",2,92948,Uncommon,MID,13a/277,No,No,0
+"Clarion Cathars",4,92952,Common,MID,14/277,No,No,0
+"Duelcraft Trainer",2,92956,Uncommon,MID,16/277,No,No,0
+"Flare of Faith",4,92964,Common,MID,19/277,No,No,0
+"Gavony Dawnguard",2,92966,Uncommon,MID,20/277,No,No,0
+"Gavony Silversmith",4,92968,Common,MID,21/277,No,No,0
+"Gavony Trapper",4,92970,Common,MID,22/277,No,No,0
+"Hedgewitch's Mask",4,92972,Common,MID,23/277,No,No,0
+"Homestead Courage",4,92974,Common,MID,24/277,No,No,0
+"Loyal Gryff",2,92978,Uncommon,MID,26/277,No,No,0
+"Lunarch Veteran",4,92980,Common,MID,27a/277,No,No,0
+"Mourning Patrol",4,92984,Common,MID,28a/277,No,No,0
+"Odric's Outrider",2,92988,Uncommon,MID,29/277,No,No,0
+"Ritual Guardian",4,92990,Common,MID,30/277,No,No,0
+"Ritual of Hope",2,92992,Uncommon,MID,31/277,No,No,0
+"Search Party Captain",4,92994,Common,MID,32/277,No,No,0
+"Soul-Guide Gryff",4,93000,Common,MID,35/277,No,No,0
+"Sungold Barrage",4,93002,Common,MID,36/277,No,No,0
+"Sunset Revelry",2,93006,Uncommon,MID,38/277,No,No,0
+"Thraben Exorcism",4,93008,Common,MID,39/277,No,No,0
+"Unruly Mob",4,93010,Common,MID,40/277,No,No,0
+"Baithook Angler",4,93014,Common,MID,42a/277,No,No,0
+"Component Collector",4,93018,Common,MID,43/277,No,No,0
+"Consider",4,93020,Common,MID,44/277,No,No,0
+"Covetous Castaway",2,93022,Uncommon,MID,45a/277,No,No,0
+"Delver of Secrets",2,93028,Uncommon,MID,47a/277,No,No,0
+"Devious Cover-Up",4,93032,Common,MID,48/277,No,No,0
+"Dissipate",2,93034,Uncommon,MID,49/277,No,No,0
+"Drownyard Amalgam",4,93036,Common,MID,50/277,No,No,0
+"Fading Hope",2,93038,Uncommon,MID,51/277,No,No,0
+"Falcon Abomination",4,93040,Common,MID,52/277,No,No,0
+"Firmament Sage",2,93042,Uncommon,MID,53/277,No,No,0
+"Flip the Switch",4,93044,Common,MID,54/277,No,No,0
+"Galedrifter",4,93046,Common,MID,55a/277,No,No,0
+"Geistwave",4,93050,Common,MID,56/277,No,No,0
+"Larder Zombie",4,93054,Common,MID,58/277,No,No,0
+"Locked in the Cemetery",4,93058,Common,MID,60/277,No,No,0
+"Mysterious Tome",2,93066,Uncommon,MID,63a/277,No,No,0
+"Nebelgast Intruder",2,93070,Uncommon,MID,64/277,No,No,0
+"Ominous Roost",2,93072,Uncommon,MID,65/277,No,No,0
+"Organ Hoarder",4,93074,Common,MID,66/277,No,No,0
+"Otherworldly Gaze",4,93076,Common,MID,67/277,No,No,0
+"Overwhelmed Archivist",2,93078,Uncommon,MID,68a/277,No,No,0
+"Phantom Carriage",2,93084,Uncommon,MID,70/277,No,No,0
+"Revenge of the Drowned",4,93090,Common,MID,72/277,No,No,0
+"Secrets of the Key",4,93092,Common,MID,73/277,No,No,0
+"Shipwreck Sifters",4,93094,Common,MID,74/277,No,No,0
+"Skaab Wrangler",2,93096,Uncommon,MID,75/277,No,No,0
+"Startle",4,93102,Common,MID,78/277,No,No,0
+"Stormrider Spirit",4,93104,Common,MID,79/277,No,No,0
+"Unblinking Observer",4,93112,Common,MID,82/277,No,No,0
+"Vivisection",2,93114,Uncommon,MID,83/277,No,No,0
+"Arrogant Outlaw",4,93116,Common,MID,84/277,No,No,0
+"Baneblade Scoundrel",2,93118,Uncommon,MID,85a/277,No,No,0
+"Bat Whisperer",4,93122,Common,MID,86/277,No,No,0
+"Bladebrand",4,93124,Common,MID,87/277,No,No,0
+"Blood Pact",4,93126,Common,MID,88/277,No,No,0
+"Bloodtithe Collector",2,93130,Uncommon,MID,90/277,No,No,0
+"Covert Cutpurse",2,93134,Uncommon,MID,92a/277,No,No,0
+"Crawl from the Cellar",4,93138,Common,MID,93/277,No,No,0
+"Defenestrate",4,93144,Common,MID,95/277,No,No,0
+"Diregraf Horde",4,93146,Common,MID,96/277,No,No,0
+"Dreadhound",2,93148,Uncommon,MID,97/277,No,No,0
+"Duress",4,93150,Common,MID,98/277,No,No,0
+"Eaten Alive",4,93152,Common,MID,99/277,No,No,0
+"Ecstatic Awakener",4,93154,Common,MID,100a/277,No,No,0
+"Foul Play",2,93158,Uncommon,MID,101/277,No,No,0
+"Ghoulish Procession",2,93160,Uncommon,MID,102/277,No,No,0
+"Heirloom Mirror",2,93168,Uncommon,MID,105a/277,No,No,0
+"Hobbling Zombie",4,93172,Common,MID,106/277,No,No,0
+"Infernal Grasp",2,93174,Uncommon,MID,107/277,No,No,0
+"Morbid Opportunist",2,93188,Uncommon,MID,113/277,No,No,0
+"Morkrut Behemoth",4,93190,Common,MID,114/277,No,No,0
+"Necrosynthesis",2,93192,Uncommon,MID,115/277,No,No,0
+"No Way Out",4,93194,Common,MID,116/277,No,No,0
+"Novice Occultist",4,93196,Common,MID,117/277,No,No,0
+"Olivia's Midnight Ambush",4,93198,Common,MID,118/277,No,No,0
+"Rotten Reunion",4,93200,Common,MID,119/277,No,No,0
+"Shady Traveler",4,93202,Common,MID,120a/277,No,No,0
+"Siege Zombie",4,93206,Common,MID,121/277,No,No,0
+"Stromkirk Bloodthief",2,93210,Uncommon,MID,123/277,No,No,0
+"Vampire Interloper",4,93214,Common,MID,125/277,No,No,0
+"Vengeful Strangler",2,93216,Uncommon,MID,126a/277,No,No,0
+"Abandon the Post",4,93220,Common,MID,127/277,No,No,0
+"Ardent Elementalist",4,93222,Common,MID,128/277,No,No,0
+"Brimstone Vandal",4,93226,Common,MID,130/277,No,No,0
+"Burn the Accursed",4,93230,Common,MID,132/277,No,No,0
+"Cathartic Pyre",2,93232,Uncommon,MID,133/277,No,No,0
+"Electric Revelation",4,93236,Common,MID,135/277,No,No,0
+"Falkenrath Perforator",4,93238,Common,MID,136/277,No,No,0
+"Famished Foragers",4,93242,Common,MID,138/277,No,No,0
+"Fangblade Brigand",2,93244,Uncommon,MID,139a/277,No,No,0
+"Festival Crasher",4,93248,Common,MID,140/277,No,No,0
+"Flame Channeler",2,93250,Uncommon,MID,141a/277,No,No,0
+"Harvesttide Infiltrator",4,93256,Common,MID,143a/277,No,No,0
+"Immolation",4,93260,Common,MID,144/277,No,No,0
+"Lambholt Harrier",4,93262,Common,MID,145/277,No,No,0
+"Lunar Frenzy",2,93266,Uncommon,MID,147/277,No,No,0
+"Moonrager's Slash",4,93268,Common,MID,148/277,No,No,0
+"Mounted Dreadknight",4,93272,Common,MID,150/277,No,No,0
+"Neonate's Rush",4,93274,Common,MID,151/277,No,No,0
+"Obsessive Astronomer",2,93276,Uncommon,MID,152/277,No,No,0
+"Pack's Betrayal",4,93278,Common,MID,153/277,No,No,0
+"Play with Fire",2,93280,Uncommon,MID,154/277,No,No,0
+"Purifying Dragon",2,93282,Uncommon,MID,155/277,No,No,0
+"Raze the Effigy",4,93284,Common,MID,156/277,No,No,0
+"Seize the Storm",2,93290,Uncommon,MID,158/277,No,No,0
+"Spellrune Painter",2,93296,Uncommon,MID,160a/277,No,No,0
+"Stolen Vitality",4,93300,Common,MID,161/277,No,No,0
+"Tavern Ruffian",4,93304,Common,MID,163a/277,No,No,0
+"Thermo-Alchemist",2,93308,Uncommon,MID,164/277,No,No,0
+"Village Watch",2,93310,Uncommon,MID,165a/277,No,No,0
+"Voldaren Ambusher",2,93314,Uncommon,MID,166/277,No,No,0
+"Voldaren Stinger",4,93316,Common,MID,167/277,No,No,0
+"Bird Admirer",4,93320,Common,MID,169a/277,No,No,0
+"Bounding Wolf",4,93324,Common,MID,170/277,No,No,0
+"Bramble Armor",4,93326,Common,MID,171/277,No,No,0
+"Brood Weaver",2,93330,Uncommon,MID,173/277,No,No,0
+"Burly Breaker",2,93332,Uncommon,MID,174a/277,No,No,0
+"Candlelit Cavalry",4,93336,Common,MID,175/277,No,No,0
+"Clear Shot",2,93338,Uncommon,MID,176/277,No,No,0
+"Contortionist Troupe",2,93342,Uncommon,MID,178/277,No,No,0
+"Dawnhart Mentor",2,93344,Uncommon,MID,179/277,No,No,0
+"Dawnhart Rejuvenator",4,93346,Common,MID,180/277,No,No,0
+"Deathbonnet Sprout",2,93348,Uncommon,MID,181a/277,No,No,0
+"Defend the Celestus",2,93352,Uncommon,MID,182/277,No,No,0
+"Dryad's Revival",2,93354,Uncommon,MID,183/277,No,No,0
+"Duel for Dominance",4,93356,Common,MID,184/277,No,No,0
+"Eccentric Farmer",4,93358,Common,MID,185/277,No,No,0
+"Harvesttide Sentry",4,93360,Common,MID,186/277,No,No,0
+"Hound Tamer",2,93362,Uncommon,MID,187a/277,No,No,0
+"Howl of the Hunt",4,93366,Common,MID,188/277,No,No,0
+"Might of the Old Ways",4,93368,Common,MID,189/277,No,No,0
+"Outland Liberator",2,93370,Uncommon,MID,190a/277,No,No,0
+"Path to the Festival",4,93374,Common,MID,191/277,No,No,0
+"Pestilent Wolf",4,93376,Common,MID,192/277,No,No,0
+"Plummet",4,93378,Common,MID,193/277,No,No,0
+"Return to Nature",4,93382,Common,MID,195/277,No,No,0
+"Rise of the Ants",2,93384,Uncommon,MID,196/277,No,No,0
+"Shadowbeast Sighting",4,93388,Common,MID,198/277,No,No,0
+"Snarling Wolf",4,93390,Common,MID,199/277,No,No,0
+"Tapping at the Window",4,93394,Common,MID,201/277,No,No,0
+"Timberland Guide",4,93396,Common,MID,202/277,No,No,0
+"Tireless Hauler",4,93398,Common,MID,203a/277,No,No,0
+"Turn the Earth",2,93406,Uncommon,MID,205/277,No,No,0
+"Arcane Infusion",2,93416,Uncommon,MID,210/277,No,No,0
+"Bladestitched Skaab",2,93422,Uncommon,MID,212/277,No,No,0
+"Corpse Cobble",2,93426,Uncommon,MID,214/277,No,No,0
+"Dawnhart Wardens",2,93430,Uncommon,MID,216/277,No,No,0
+"Devoted Grafkeeper",2,93436,Uncommon,MID,218a/277,No,No,0
+"Diregraf Rebirth",2,93442,Uncommon,MID,220/277,No,No,0
+"Faithful Mending",2,93444,Uncommon,MID,221/277,No,No,0
+"Fleshtaker",2,93446,Uncommon,MID,222/277,No,No,0
+"Grizzly Ghoul",2,93454,Uncommon,MID,226/277,No,No,0
+"Hallowed Respite",1,93456,Rare,MID,227/277,No,No,0
+"Hungry for More",2,93458,Uncommon,MID,228/277,No,No,0
+"Join the Dance",2,93460,Uncommon,MID,229/277,No,No,0
+"Kessig Naturalist",2,93464,Uncommon,MID,231a/277,No,No,0
+"Rite of Oblivion",2,93480,Uncommon,MID,237/277,No,No,0
+"Rootcoil Creeper",2,93482,Uncommon,MID,238/277,No,No,0
+"Sacred Fire",2,93484,Uncommon,MID,239/277,No,No,0
+"Storm Skreelix",2,93492,Uncommon,MID,243/277,No,No,0
+"Sunrise Cavalier",2,93494,Uncommon,MID,244/277,No,No,0
+"Unnatural Moonrise",2,93502,Uncommon,MID,247/277,No,No,0
+"Vampire Socialite",2,93506,Uncommon,MID,249/277,No,No,0
+"Winterthorn Blessing",2,93510,Uncommon,MID,251/277,No,No,0
+"Crossroads Candleguide",4,93514,Common,MID,253/277,No,No,0
+"Jack-o'-Lantern",4,93516,Common,MID,254/277,No,No,0
+"Moonsilver Key",2,93518,Uncommon,MID,255/277,No,No,0
+"Mystic Skull",2,93520,Uncommon,MID,256a/277,No,No,0
+"Silver Bolt",4,93526,Common,MID,258/277,No,No,0
+"Stuffed Bear",4,93528,Common,MID,259/277,No,No,0
+"Evolving Wilds",4,93532,Common,MID,261/277,No,No,0
+"Field of Ruin",2,93534,Uncommon,MID,262/277,No,No,0
+"Adamant Will",4,94284,Common,VOW,1/277,No,No,0
+"Angelic Quartermaster",2,94286,Uncommon,VOW,2/277,No,No,0
+"Arm the Cathars",2,94288,Uncommon,VOW,3/277,No,No,0
+"Bride's Gown",2,94290,Uncommon,VOW,4/277,No,No,0
+"Circle of Confinement",2,94296,Uncommon,VOW,7/277,No,No,0
+"Dawnhart Geist",2,94298,Uncommon,VOW,8/277,No,No,0
+"Distracting Geist",2,94300,Uncommon,VOW,9a/277,No,No,0
+"Drogskol Infantry",4,94304,Common,VOW,10a/277,No,No,0
+"Estwald Shieldbasher",4,94308,Common,VOW,11/277,No,No,0
+"Fierce Retribution",4,94314,Common,VOW,13/277,No,No,0
+"Fleeting Spirit",2,94316,Uncommon,VOW,14/277,No,No,0
+"Gryff Rider",4,94318,Common,VOW,15/277,No,No,0
+"Gryffwing Cavalry",2,94320,Uncommon,VOW,16/277,No,No,0
+"Heron of Hope",4,94324,Common,VOW,18/277,No,No,0
+"Heron-Blessed Geist",4,94326,Common,VOW,19/277,No,No,0
+"Kindly Ancestor",4,94334,Common,VOW,22a/277,No,No,0
+"Militia Rallier",4,94340,Common,VOW,24/277,No,No,0
+"Nebelgast Beguiler",4,94342,Common,VOW,25/277,No,No,0
+"Nurturing Presence",4,94344,Common,VOW,26/277,No,No,0
+"Ollenbock Escort",2,94346,Uncommon,VOW,27/277,No,No,0
+"Panicked Bystander",2,94348,Uncommon,VOW,28a/277,No,No,0
+"Parish-Blade Trainee",4,94352,Common,VOW,29/277,No,No,0
+"Piercing Light",4,94354,Common,VOW,30/277,No,No,0
+"Radiant Grace",2,94356,Uncommon,VOW,31a/277,No,No,0
+"Resistance Squad",2,94360,Uncommon,VOW,32/277,No,No,0
+"Sanctify",4,94362,Common,VOW,33/277,No,No,0
+"Sigarda's Imprisonment",4,94366,Common,VOW,35/277,No,No,0
+"Supernatural Rescue",4,94370,Common,VOW,37/277,No,No,0
+"Traveling Minister",4,94374,Common,VOW,39/277,No,No,0
+"Twinblade Geist",2,94376,Uncommon,VOW,40a/277,No,No,0
+"Unholy Officiant",4,94380,Common,VOW,41/277,No,No,0
+"Valorous Stance",2,94382,Uncommon,VOW,42/277,No,No,0
+"Vampire Slayer",4,94384,Common,VOW,43/277,No,No,0
+"Alchemist's Retrieval",4,94394,Common,VOW,47/277,No,No,0
+"Binding Geist",4,94396,Common,VOW,48a/277,No,No,0
+"Biolume Egg",2,94400,Uncommon,VOW,49a/277,No,No,0
+"Chill of the Grave",4,94406,Common,VOW,51/277,No,No,0
+"Cobbled Lancer",2,94408,Uncommon,VOW,52/277,No,No,0
+"Cradle of Safety",4,94412,Common,VOW,54/277,No,No,0
+"Cruel Witness",4,94414,Common,VOW,55/277,No,No,0
+"Diver Skaab",2,94416,Uncommon,VOW,56/277,No,No,0
+"Dreadlight Monstrosity",4,94418,Common,VOW,57/277,No,No,0
+"Fear of Death",4,94422,Common,VOW,59/277,No,No,0
+"Geistlight Snare",2,94424,Uncommon,VOW,60/277,No,No,0
+"Gutter Skulker",2,94428,Uncommon,VOW,62a/277,No,No,0
+"Lantern Bearer",4,94440,Common,VOW,66a/277,No,No,0
+"Lunar Rejection",2,94444,Uncommon,VOW,67/277,No,No,0
+"Mischievous Catgeist",2,94450,Uncommon,VOW,69a/277,No,No,0
+"Repository Skaab",4,94460,Common,VOW,73/277,No,No,0
+"Scattered Thoughts",4,94462,Common,VOW,74/277,No,No,0
+"Screaming Swarm",2,94464,Uncommon,VOW,75/277,No,No,0
+"Selhoff Entomber",4,94466,Common,VOW,76/277,No,No,0
+"Serpentine Ambush",4,94468,Common,VOW,77/277,No,No,0
+"Skywarp Skaab",4,94470,Common,VOW,78/277,No,No,0
+"Soulcipher Board",2,94472,Uncommon,VOW,79a/277,No,No,0
+"Steelclad Spirit",4,94476,Common,VOW,80/277,No,No,0
+"Stitched Assistant",4,94478,Common,VOW,81/277,No,No,0
+"Stormchaser Drake",2,94480,Uncommon,VOW,82/277,No,No,0
+"Syncopate",4,94482,Common,VOW,83/277,No,No,0
+"Syphon Essence",4,94484,Common,VOW,84/277,No,No,0
+"Thirst for Discovery",2,94486,Uncommon,VOW,85/277,No,No,0
+"Wanderlight Spirit",4,94488,Common,VOW,86/277,No,No,0
+"Wash Away",2,94490,Uncommon,VOW,87/277,No,No,0
+"Whispering Wizard",2,94492,Uncommon,VOW,88/277,No,No,0
+"Witness the Future",2,94496,Uncommon,VOW,90/277,No,No,0
+"Wretched Throng",4,94498,Common,VOW,91/277,No,No,0
+"Aim for the Head",4,94500,Common,VOW,92/277,No,No,0
+"Archghoul of Thraben",2,94502,Uncommon,VOW,93/277,No,No,0
+"Bleed Dry",4,94504,Common,VOW,94/277,No,No,0
+"Blood Fountain",4,94506,Common,VOW,95/277,No,No,0
+"Bloodcrazed Socialite",4,94508,Common,VOW,96/277,No,No,0
+"Bloodsworn Squire",2,94510,Uncommon,VOW,97a/277,No,No,0
+"Catapult Fodder",2,94516,Uncommon,VOW,99a/277,No,No,0
+"Courier Bat",4,94526,Common,VOW,102/277,No,No,0
+"Desperate Farmer",4,94530,Common,VOW,104a/277,No,No,0
+"Diregraf Scavenger",4,94534,Common,VOW,105/277,No,No,0
+"Doomed Dissenter",4,94536,Common,VOW,106/277,No,No,0
+"Dread Fugue",2,94538,Uncommon,VOW,107/277,No,No,0
+"Edgar's Awakening",2,94544,Uncommon,VOW,110/277,No,No,0
+"Fell Stinger",2,94548,Uncommon,VOW,112/277,No,No,0
+"Gift of Fangs",4,94550,Common,VOW,113/277,No,No,0
+"Gluttonous Guest",4,94552,Common,VOW,114/277,No,No,0
+"Grisly Ritual",4,94556,Common,VOW,116/277,No,No,0
+"Groom's Finery",2,94558,Uncommon,VOW,117/277,No,No,0
+"Hero's Downfall",2,94566,Uncommon,VOW,120/277,No,No,0
+"Innocent Traveler",2,94568,Uncommon,VOW,121a/277,No,No,0
+"Mindleech Ghoul",4,94572,Common,VOW,122/277,No,No,0
+"Parasitic Grasp",2,94574,Uncommon,VOW,123/277,No,No,0
+"Persistent Specimen",4,94578,Common,VOW,125/277,No,No,0
+"Pointed Discussion",4,94580,Common,VOW,126/277,No,No,0
+"Ragged Recluse",4,94582,Common,VOW,127a/277,No,No,0
+"Restless Bloodseeker",2,94586,Uncommon,VOW,128a/277,No,No,0
+"Rot-Tide Gargantua",4,94590,Common,VOW,129/277,No,No,0
+"Skulking Killer",2,94592,Uncommon,VOW,130/277,No,No,0
+"Undead Butler",2,94598,Uncommon,VOW,133/277,No,No,0
+"Undying Malice",4,94600,Common,VOW,134/277,No,No,0
+"Unhallowed Phalanx",4,94602,Common,VOW,135/277,No,No,0
+"Vampire's Kiss",4,94604,Common,VOW,136/277,No,No,0
+"Wedding Security",2,94610,Uncommon,VOW,138/277,No,No,0
+"Abrade",4,94612,Common,VOW,139/277,No,No,0
+"Alluring Suitor",2,94616,Uncommon,VOW,141a/277,No,No,0
+"Ancestral Anger",4,94620,Common,VOW,142/277,No,No,0
+"Ballista Watcher",2,94622,Uncommon,VOW,143a/277,No,No,0
+"Belligerent Guest",4,94626,Common,VOW,144/277,No,No,0
+"Blood Hypnotist",2,94628,Uncommon,VOW,145/277,No,No,0
+"Blood Petal Celebrant",4,94630,Common,VOW,146/277,No,No,0
+"Bloody Betrayal",4,94632,Common,VOW,147/277,No,No,0
+"Daybreak Combatants",4,94644,Common,VOW,153/277,No,No,0
+"End the Festivities",4,94648,Common,VOW,155/277,No,No,0
+"Falkenrath Celebrants",4,94650,Common,VOW,156/277,No,No,0
+"Fearful Villager",4,94652,Common,VOW,157a/277,No,No,0
+"Flame-Blessed Bolt",4,94656,Common,VOW,158/277,No,No,0
+"Frenzied Devils",2,94658,Uncommon,VOW,159/277,No,No,0
+"Honeymoon Hearse",2,94660,Uncommon,VOW,160/277,No,No,0
+"Hungry Ridgewolf",4,94662,Common,VOW,161/277,No,No,0
+"Into the Night",2,94668,Uncommon,VOW,163/277,No,No,0
+"Kessig Flamebreather",4,94670,Common,VOW,164/277,No,No,0
+"Lacerate Flesh",4,94674,Common,VOW,166/277,No,No,0
+"Lambholt Raconteur",2,94676,Uncommon,VOW,167a/277,No,No,0
+"Lightning Wolf",4,94680,Common,VOW,168/277,No,No,0
+"Magma Pummeler",2,94682,Uncommon,VOW,169/277,No,No,0
+"Markov Retribution",2,94686,Uncommon,VOW,171/277,No,No,0
+"Pyre Spawn",4,94690,Common,VOW,173/277,No,No,0
+"Reckless Impulse",4,94692,Common,VOW,174/277,No,No,0
+"Rending Flame",2,94694,Uncommon,VOW,175/277,No,No,0
+"Runebound Wolf",2,94696,Uncommon,VOW,176/277,No,No,0
+"Sanguine Statuette",2,94698,Uncommon,VOW,177/277,No,No,0
+"Sure Strike",4,94702,Common,VOW,179/277,No,No,0
+"Voldaren Epicure",4,94710,Common,VOW,182/277,No,No,0
+"Voltaic Visionary",2,94712,Uncommon,VOW,183a/277,No,No,0
+"Weary Prisoner",4,94716,Common,VOW,184a/277,No,No,0
+"Apprentice Sharpshooter",4,94720,Common,VOW,185/277,No,No,0
+"Bramble Armor",4,94728,Common,VOW,188/277,No,No,0
+"Bramble Wurm",2,94730,Uncommon,VOW,189/277,No,No,0
+"Cartographer's Survey",2,94732,Uncommon,VOW,190/277,No,No,0
+"Cloaked Cadet",2,94736,Uncommon,VOW,192/277,No,No,0
+"Crawling Infestation",2,94738,Uncommon,VOW,193/277,No,No,0
+"Crushing Canopy",4,94740,Common,VOW,194/277,No,No,0
+"Dawnhart Disciple",4,94744,Common,VOW,196/277,No,No,0
+"Dormant Grove",2,94748,Uncommon,VOW,198a/277,No,No,0
+"Flourishing Hunter",4,94752,Common,VOW,199/277,No,No,0
+"Hookhand Mariner",4,94760,Common,VOW,203a/277,No,No,0
+"Infestation Expert",2,94770,Uncommon,VOW,206a/277,No,No,0
+"Laid to Rest",2,94774,Uncommon,VOW,207/277,No,No,0
+"Massive Might",4,94776,Common,VOW,208/277,No,No,0
+"Moldgraf Millipede",4,94778,Common,VOW,209/277,No,No,0
+"Mulch",4,94780,Common,VOW,210/277,No,No,0
+"Nature's Embrace",4,94782,Common,VOW,211/277,No,No,0
+"Oakshade Stalker",2,94784,Uncommon,VOW,212a/277,No,No,0
+"Packsong Pup",2,94788,Uncommon,VOW,213/277,No,No,0
+"Reclusive Taxidermist",2,94790,Uncommon,VOW,214/277,No,No,0
+"Retrieve",2,94792,Uncommon,VOW,215/277,No,No,0
+"Rural Recruit",4,94794,Common,VOW,216/277,No,No,0
+"Sawblade Slinger",2,94796,Uncommon,VOW,217/277,No,No,0
+"Sheltering Boughs",4,94798,Common,VOW,218/277,No,No,0
+"Snarling Wolf",4,94800,Common,VOW,219/277,No,No,0
+"Spiked Ripsaw",2,94802,Uncommon,VOW,220/277,No,No,0
+"Spore Crawler",4,94806,Common,VOW,222/277,No,No,0
+"Sporeback Wolf",4,94808,Common,VOW,223/277,No,No,0
+"Toxic Scorpion",4,94810,Common,VOW,224/277,No,No,0
+"Weaver of Blossoms",4,94816,Common,VOW,226a/277,No,No,0
+"Witch's Web",4,94820,Common,VOW,227/277,No,No,0
+"Wolf Strike",4,94822,Common,VOW,228/277,No,No,0
+"Wolfkin Outcast",2,94824,Uncommon,VOW,229a/277,No,No,0
+"Ancient Lumberknot",2,94828,Uncommon,VOW,230/277,No,No,0
+"Bloodtithe Harvester",2,94832,Uncommon,VOW,232/277,No,No,0
+"Brine Comber",2,94834,Uncommon,VOW,233a/277,No,No,0
+"Child of the Pack",2,94838,Uncommon,VOW,234a/277,No,No,0
+"Markov Purifier",2,94858,Uncommon,VOW,241/277,No,No,0
+"Markov Waltzer",2,94860,Uncommon,VOW,242/277,No,No,0
+"Sigardian Paladin",2,94872,Uncommon,VOW,247/277,No,No,0
+"Skull Skaab",2,94874,Uncommon,VOW,248/277,No,No,0
+"Vilespawn Spider",2,94878,Uncommon,VOW,250/277,No,No,0
+"Wandering Mind",2,94880,Uncommon,VOW,251/277,No,No,0
+"Blood Servitor",4,94882,Common,VOW,252/277,No,No,0
+"Boarded Window",2,94884,Uncommon,VOW,253/277,No,No,0
+"Ceremonial Knife",4,94886,Common,VOW,254/277,No,No,0
+"Foreboding Statue",2,94890,Uncommon,VOW,256a/277,No,No,0
+"Honored Heirloom",4,94894,Common,VOW,257/277,No,No,0
+"Lantern of the Lost",2,94898,Uncommon,VOW,259/277,No,No,0
+"Wedding Invitation",4,94900,Common,VOW,260/277,No,No,0
+"Evolving Wilds",4,94906,Common,VOW,263/277,No,No,0
+"Plains",2,96832,Land,NEO,293/302,No,No,0
+"Plains",2,96834,Land,NEO,294/302,No,No,0
+"Island",2,96836,Land,NEO,295/302,No,No,0
+"Island",2,96838,Land,NEO,296/302,No,No,0
+"Swamp",2,96840,Land,NEO,297/302,No,No,0
+"Swamp",2,96842,Land,NEO,298/302,No,No,0
+"Mountain",2,96844,Land,NEO,299/302,No,No,0
+"Mountain",2,96846,Land,NEO,300/302,No,No,0
+"Forest",2,96848,Land,NEO,301/302,No,No,0
+"Forest",2,96850,Land,NEO,302/302,No,No,0
+"Plains",2,96886,Land,NEO,283/302,No,No,0
+"Plains",2,96888,Land,NEO,284/302,No,No,0
+"Island",2,96890,Land,NEO,285/302,No,No,0
+"Island",2,96892,Land,NEO,286/302,No,No,0
+"Swamp",2,96894,Land,NEO,287/302,No,No,0
+"Swamp",2,96896,Land,NEO,288/302,No,No,0
+"Mountain",2,96898,Land,NEO,289/302,No,No,0
+"Mountain",2,96900,Land,NEO,290/302,No,No,0
+"Forest",2,96902,Land,NEO,291/302,No,No,0
+"Forest",2,96904,Land,NEO,292/302,No,No,0
+"Ancestral Katana",4,96906,Common,NEO,1/302,No,No,0
+"Banishing Slash",2,96910,Uncommon,NEO,3/302,No,No,0
+"Befriending the Moths",4,96912,Common,NEO,4a/302,No,No,0
+"Blade-Blizzard Kitsune",2,96916,Uncommon,NEO,5/302,No,No,0
+"Born to Drive",2,96918,Uncommon,NEO,6/302,No,No,0
+"Dragonfly Suit",4,96924,Common,NEO,9/302,No,No,0
+"Eiganjo Exemplar",4,96926,Common,NEO,10/302,No,No,0
+"Era of Enlightenment",4,96928,Common,NEO,11a/302,No,No,0
+"The Fall of Lord Konda",2,96932,Uncommon,NEO,12a/302,No,No,0
+"Go-Shintai of Shared Purpose",2,96938,Uncommon,NEO,14/302,No,No,0
+"Golden-Tail Disciple",4,96940,Common,NEO,15/302,No,No,0
+"Hotshot Mechanic",2,96942,Uncommon,NEO,16/302,No,No,0
+"Imperial Oath",4,96944,Common,NEO,17/302,No,No,0
+"Imperial Recovery Unit",2,96946,Uncommon,NEO,18/302,No,No,0
+"Imperial Subduer",4,96948,Common,NEO,19/302,No,No,0
+"Intercessor's Arrest",4,96950,Common,NEO,20/302,No,No,0
+"Kitsune Ace",4,96954,Common,NEO,22/302,No,No,0
+"Light the Way",4,96958,Common,NEO,24/302,No,No,0
+"Lucky Offering",4,96964,Common,NEO,27/302,No,No,0
+"Michiko's Reign of Truth",2,96968,Uncommon,NEO,29a/302,No,No,0
+"Mothrider Patrol",4,96972,Common,NEO,30/302,No,No,0
+"Norika Yamazaki, the Poet",2,96974,Uncommon,NEO,31/302,No,No,0
+"Regent's Authority",4,96976,Common,NEO,32/302,No,No,0
+"Repel the Vile",4,96978,Common,NEO,33/302,No,No,0
+"Selfless Samurai",2,96984,Uncommon,NEO,35/302,No,No,0
+"Seven-Tail Mentor",4,96986,Common,NEO,36/302,No,No,0
+"Sky-Blessed Samurai",2,96988,Uncommon,NEO,37/302,No,No,0
+"Spirited Companion",4,96990,Common,NEO,38/302,No,No,0
+"Sunblade Samurai",4,96992,Common,NEO,39/302,No,No,0
+"Touch the Spirit Realm",2,96994,Uncommon,NEO,40/302,No,No,0
+"Wanderer's Intervention",4,96996,Common,NEO,41/302,No,No,0
+"When We Were Young",2,97000,Uncommon,NEO,43/302,No,No,0
+"Acquisition Octopus",2,97002,Uncommon,NEO,44/302,No,No,0
+"Anchor to Reality",2,97004,Uncommon,NEO,45/302,No,No,0
+"Armguard Familiar",4,97006,Common,NEO,46/302,No,No,0
+"Awakened Awareness",2,97008,Uncommon,NEO,47/302,No,No,0
+"Behold the Unspeakable",2,97010,Uncommon,NEO,48a/302,No,No,0
+"Covert Technician",2,97014,Uncommon,NEO,49/302,No,No,0
+"Discover the Impossible",2,97016,Uncommon,NEO,50/302,No,No,0
+"Disruption Protocol",4,97018,Common,NEO,51/302,No,No,0
+"Essence Capture",2,97020,Uncommon,NEO,52/302,No,No,0
+"Futurist Operative",2,97022,Uncommon,NEO,53/302,No,No,0
+"Futurist Sentinel",4,97024,Common,NEO,54/302,No,No,0
+"Go-Shintai of Lost Wisdom",2,97026,Uncommon,NEO,55/302,No,No,0
+"Guardians of Oboro",4,97028,Common,NEO,56/302,No,No,0
+"Mirrorshell Crab",4,97044,Common,NEO,63/302,No,No,0
+"Mnemonic Sphere",4,97046,Common,NEO,64/302,No,No,0
+"Mobilizer Mech",2,97048,Uncommon,NEO,65/302,No,No,0
+"The Modern Age",4,97050,Common,NEO,66a/302,No,No,0
+"Moon-Circuit Hacker",4,97054,Common,NEO,67/302,No,No,0
+"Moonfolk Puzzlemaker",4,97056,Common,NEO,68/302,No,No,0
+"Moonsnare Prototype",4,97058,Common,NEO,69/302,No,No,0
+"Moonsnare Specialist",4,97060,Common,NEO,70/302,No,No,0
+"Network Disruptor",4,97062,Common,NEO,71/302,No,No,0
+"Planar Incision",4,97064,Common,NEO,72/302,No,No,0
+"Prosperous Thief",2,97066,Uncommon,NEO,73/302,No,No,0
+"Reality Heist",2,97070,Uncommon,NEO,75/302,No,No,0
+"Replication Specialist",2,97072,Uncommon,NEO,76/302,No,No,0
+"Saiba Trespassers",4,97074,Common,NEO,77/302,No,No,0
+"Short Circuit",4,97076,Common,NEO,78/302,No,No,0
+"Skyswimmer Koi",4,97078,Common,NEO,79/302,No,No,0
+"Spell Pierce",4,97080,Common,NEO,80/302,No,No,0
+"Suit Up",4,97082,Common,NEO,81/302,No,No,0
+"Tamiyo's Compleation",4,97086,Common,NEO,83/302,No,No,0
+"Thirst for Knowledge",2,97090,Uncommon,NEO,85/302,No,No,0
+"Assassin's Ink",2,97094,Uncommon,NEO,87/302,No,No,0
+"Chainflail Centipede",4,97100,Common,NEO,90/302,No,No,0
+"Clawing Torment",4,97102,Common,NEO,91/302,No,No,0
+"Debt to the Kami",4,97104,Common,NEO,92/302,No,No,0
+"Dockside Chef",2,97106,Uncommon,NEO,93/302,No,No,0
+"Dokuchi Shadow-Walker",4,97108,Common,NEO,94/302,No,No,0
+"Dokuchi Silencer",2,97110,Uncommon,NEO,95/302,No,No,0
+"Enormous Energy Blade",2,97112,Uncommon,NEO,96/302,No,No,0
+"Go-Shintai of Hidden Cruelty",2,97114,Uncommon,NEO,97/302,No,No,0
+"Gravelighter",2,97116,Uncommon,NEO,98/302,No,No,0
+"Inkrise Infiltrator",4,97120,Common,NEO,100/302,No,No,0
+"Kaito's Pursuit",4,97126,Common,NEO,103/302,No,No,0
+"Kami of Restless Shadows",4,97128,Common,NEO,104/302,No,No,0
+"Kami of Terrible Secrets",4,97130,Common,NEO,105/302,No,No,0
+"Leech Gauntlet",2,97132,Uncommon,NEO,106/302,No,No,0
+"Lethal Exploit",4,97134,Common,NEO,107/302,No,No,0
+"Life of Toshiro Umezawa",2,97136,Uncommon,NEO,108a/302,No,No,0
+"The Long Reach of Night",2,97140,Uncommon,NEO,109a/302,No,No,0
+"Malicious Malfunction",2,97144,Uncommon,NEO,110/302,No,No,0
+"Mukotai Ambusher",4,97148,Common,NEO,112/302,No,No,0
+"Nezumi Bladeblesser",4,97154,Common,NEO,115/302,No,No,0
+"Nezumi Prowler",2,97156,Uncommon,NEO,116/302,No,No,0
+"Okiba Reckoner Raid",4,97158,Common,NEO,117a/302,No,No,0
+"Okiba Salvage",2,97162,Uncommon,NEO,118/302,No,No,0
+"Reckoner Shakedown",4,97164,Common,NEO,119/302,No,No,0
+"Reckoner's Bargain",4,97166,Common,NEO,120/302,No,No,0
+"Return to Action",4,97168,Common,NEO,121/302,No,No,0
+"Twisted Embrace",4,97178,Common,NEO,125/302,No,No,0
+"Undercity Scrounger",4,97180,Common,NEO,126/302,No,No,0
+"Unforgiving One",2,97182,Uncommon,NEO,127/302,No,No,0
+"Virus Beetle",4,97184,Common,NEO,128/302,No,No,0
+"You Are Already Dead",4,97186,Common,NEO,129/302,No,No,0
+"Akki Ember-Keeper",4,97188,Common,NEO,130/302,No,No,0
+"Akki Ronin",4,97190,Common,NEO,131/302,No,No,0
+"Akki War Paint",4,97192,Common,NEO,132/302,No,No,0
+"Ambitious Assault",4,97194,Common,NEO,133/302,No,No,0
+"Bronzeplate Boar",2,97198,Uncommon,NEO,135/302,No,No,0
+"Crackling Emergence",4,97200,Common,NEO,136/302,No,No,0
+"Dragonspark Reactor",2,97202,Uncommon,NEO,137/302,No,No,0
+"Experimental Synthesizer",4,97204,Common,NEO,138/302,No,No,0
+"Explosive Entry",4,97206,Common,NEO,139/302,No,No,0
+"Flame Discharge",2,97214,Uncommon,NEO,142/302,No,No,0
+"Gift of Wrath",4,97216,Common,NEO,143/302,No,No,0
+"Go-Shintai of Ancient Wars",2,97218,Uncommon,NEO,144/302,No,No,0
+"Heiko Yamazaki, the General",2,97222,Uncommon,NEO,146/302,No,No,0
+"Ironhoof Boar",4,97226,Common,NEO,148/302,No,No,0
+"Kami of Industry",4,97228,Common,NEO,149/302,No,No,0
+"Kami's Flare",4,97230,Common,NEO,150/302,No,No,0
+"Kindled Fury",4,97232,Common,NEO,151/302,No,No,0
+"Kumano Faces Kakkazan",2,97234,Uncommon,NEO,152a/302,No,No,0
+"Peerless Samurai",4,97244,Common,NEO,156/302,No,No,0
+"Rabbit Battery",2,97246,Uncommon,NEO,157/302,No,No,0
+"Reinforced Ronin",2,97248,Uncommon,NEO,158/302,No,No,0
+"Scrapyard Steelbreaker",4,97252,Common,NEO,160/302,No,No,0
+"Seismic Wave",2,97254,Uncommon,NEO,161/302,No,No,0
+"The Shattered States Era",4,97256,Common,NEO,162a/302,No,No,0
+"Simian Sling",4,97260,Common,NEO,163/302,No,No,0
+"Sokenzan Smelter",2,97262,Uncommon,NEO,164/302,No,No,0
+"Tempered in Solitude",2,97264,Uncommon,NEO,165/302,No,No,0
+"Towashi Songshaper",4,97268,Common,NEO,167/302,No,No,0
+"Twinshot Sniper",2,97270,Uncommon,NEO,168/302,No,No,0
+"Unstoppable Ogre",4,97272,Common,NEO,169/302,No,No,0
+"Upriser Renegade",2,97274,Uncommon,NEO,170/302,No,No,0
+"Voltage Surge",4,97276,Common,NEO,171/302,No,No,0
+"Azusa's Many Journeys",2,97278,Uncommon,NEO,172a/302,No,No,0
+"Bamboo Grove Archer",4,97282,Common,NEO,173/302,No,No,0
+"Bearer of Memory",4,97284,Common,NEO,174/302,No,No,0
+"Blossom Prancer",2,97286,Uncommon,NEO,175/302,No,No,0
+"Boon of Boseiju",2,97288,Uncommon,NEO,176/302,No,No,0
+"Boseiju Reaches Skyward",2,97290,Uncommon,NEO,177a/302,No,No,0
+"Careful Cultivation",4,97294,Common,NEO,178/302,No,No,0
+"Coiling Stalker",4,97296,Common,NEO,179/302,No,No,0
+"Commune with Spirits",4,97298,Common,NEO,180/302,No,No,0
+"Fade into Antiquity",4,97304,Common,NEO,182/302,No,No,0
+"Fang of Shigeki",4,97306,Common,NEO,183/302,No,No,0
+"Favor of Jukai",4,97308,Common,NEO,184/302,No,No,0
+"Generous Visitor",2,97310,Uncommon,NEO,185/302,No,No,0
+"Geothermal Kami",4,97312,Common,NEO,186/302,No,No,0
+"Go-Shintai of Boundless Vigor",2,97314,Uncommon,NEO,187/302,No,No,0
+"Grafted Growth",4,97316,Common,NEO,188/302,No,No,0
+"Greater Tanuki",4,97318,Common,NEO,189/302,No,No,0
+"Harmonious Emergence",4,97320,Common,NEO,190/302,No,No,0
+"Heir of the Ancient Fang",4,97322,Common,NEO,191/302,No,No,0
+"Historian's Wisdom",2,97324,Uncommon,NEO,192/302,No,No,0
+"Jukai Preserver",4,97332,Common,NEO,195/302,No,No,0
+"Jukai Trainee",4,97334,Common,NEO,196/302,No,No,0
+"Kappa Tech-Wrecker",2,97338,Uncommon,NEO,198/302,No,No,0
+"Master's Rebuke",4,97346,Common,NEO,202/302,No,No,0
+"Orochi Merge-Keeper",2,97348,Uncommon,NEO,203/302,No,No,0
+"Roaring Earth",2,97350,Uncommon,NEO,204/302,No,No,0
+"Season of Renewal",4,97352,Common,NEO,205/302,No,No,0
+"Spinning Wheel Kick",2,97356,Uncommon,NEO,207/302,No,No,0
+"Storyweave",2,97360,Uncommon,NEO,209/302,No,No,0
+"Tales of Master Seshiro",4,97362,Common,NEO,210a/302,No,No,0
+"Tamiyo's Safekeeping",4,97366,Common,NEO,211/302,No,No,0
+"Webspinner Cuff",2,97374,Uncommon,NEO,214/302,No,No,0
+"Asari Captain",2,97376,Uncommon,NEO,215/302,No,No,0
+"Colossal Skyturtle",2,97378,Uncommon,NEO,216/302,No,No,0
+"Enthusiastic Mechanaut",2,97382,Uncommon,NEO,218/302,No,No,0
+"Gloomshrieker",2,97384,Uncommon,NEO,219/302,No,No,0
+"Invigorating Hot Spring",2,97394,Uncommon,NEO,223/302,No,No,0
+"Jukai Naturalist",2,97398,Uncommon,NEO,225/302,No,No,0
+"Naomi, Pillar of Order",2,97408,Uncommon,NEO,229/302,No,No,0
+"Oni-Cult Anvil",2,97410,Uncommon,NEO,230/302,No,No,0
+"Prodigy's Prototype",2,97412,Uncommon,NEO,231/302,No,No,0
+"Silver-Fur Master",2,97422,Uncommon,NEO,236/302,No,No,0
+"Automated Artificer",4,97428,Common,NEO,239/302,No,No,0
+"Bronze Cudgels",2,97430,Uncommon,NEO,240/302,No,No,0
+"Brute Suit",4,97432,Common,NEO,241/302,No,No,0
+"Circuit Mender",2,97434,Uncommon,NEO,242/302,No,No,0
+"Containment Construct",2,97436,Uncommon,NEO,243/302,No,No,0
+"Dramatist's Puppet",4,97438,Common,NEO,244/302,No,No,0
+"Ecologist's Terrarium",4,97442,Common,NEO,246/302,No,No,0
+"High-Speed Hoverbike",2,97444,Uncommon,NEO,247/302,No,No,0
+"Iron Apprentice",4,97446,Common,NEO,248/302,No,No,0
+"Network Terminal",4,97452,Common,NEO,251/302,No,No,0
+"Ninja's Kunai",4,97454,Common,NEO,252/302,No,No,0
+"Papercraft Decoy",4,97456,Common,NEO,253/302,No,No,0
+"Patchwork Automaton",2,97458,Uncommon,NEO,254/302,No,No,0
+"Reito Sentinel",2,97462,Uncommon,NEO,256/302,No,No,0
+"Runaway Trash-Bot",2,97464,Uncommon,NEO,257/302,No,No,0
+"Searchlight Companion",4,97466,Common,NEO,258/302,No,No,0
+"Shrine Steward",4,97468,Common,NEO,259/302,No,No,0
+"Thundersteel Colossus",4,97472,Common,NEO,261/302,No,No,0
+"Towashi Guide-Bot",2,97474,Uncommon,NEO,262/302,No,No,0
+"Walking Skyscraper",2,97476,Uncommon,NEO,263/302,No,No,0
+"Bloodfell Caves",2,97478,Land,NEO,264/302,No,No,0
+"Blossoming Sands",2,97480,Land,NEO,265/302,No,No,0
+"Dismal Backwater",2,97484,Land,NEO,267/302,No,No,0
+"Jungle Hollow",2,97488,Land,NEO,269/302,No,No,0
+"Mech Hangar",2,97490,Uncommon,NEO,270/302,No,No,0
+"Roadside Reliquary",2,97494,Uncommon,NEO,272/302,No,No,0
+"Rugged Highlands",2,97496,Land,NEO,273/302,No,No,0
+"Scoured Barrens",2,97498,Land,NEO,274/302,No,No,0
+"Secluded Courtyard",2,97500,Uncommon,NEO,275/302,No,No,0
+"Swiftwater Cliffs",2,97504,Land,NEO,277/302,No,No,0
+"Thornwood Falls",2,97508,Land,NEO,279/302,No,No,0
+"Tranquil Cove",2,97510,Land,NEO,280/302,No,No,0
+"Uncharted Haven",4,97512,Common,NEO,281/302,No,No,0
+"Wind-Scarred Crag",2,97514,Land,NEO,282/302,No,No,0
+"Plains",30,98181,Land,SNC,272/281,No,No,0
+"Plains",30,98183,Land,SNC,273/281,No,No,0
+"Island",30,98185,Land,SNC,274/281,No,No,0
+"Island",30,98187,Land,SNC,275/281,No,No,0
+"Swamp",30,98189,Land,SNC,276/281,No,No,0
+"Swamp",30,98191,Land,SNC,277/281,No,No,0
+"Mountain",30,98193,Land,SNC,278/281,No,No,0
+"Mountain",30,98195,Land,SNC,279/281,No,No,0
+"Forest",30,98197,Land,SNC,280/281,No,No,0
+"Forest",30,98199,Land,SNC,281/281,No,No,0
+"Plains",30,98201,Land,SNC,262/281,No,No,0
+"Plains",30,98203,Land,SNC,263/281,No,No,0
+"Island",30,98205,Land,SNC,264/281,No,No,0
+"Island",30,98207,Land,SNC,265/281,No,No,0
+"Swamp",30,98209,Land,SNC,266/281,No,No,0
+"Swamp",30,98211,Land,SNC,267/281,No,No,0
+"Mountain",30,98213,Land,SNC,268/281,No,No,0
+"Mountain",30,98215,Land,SNC,269/281,No,No,0
+"Forest",30,98217,Land,SNC,270/281,No,No,0
+"Forest",30,98219,Land,SNC,271/281,No,No,0
+"Angelic Observer",2,98221,Uncommon,SNC,1/281,No,No,0
+"Backup Agent",4,98223,Common,SNC,2/281,No,No,0
+"Ballroom Brawlers",2,98225,Uncommon,SNC,3/281,No,No,0
+"Boon of Safety",4,98227,Common,SNC,4/281,No,No,0
+"Brokers Initiate",4,98229,Common,SNC,5/281,No,No,0
+"Buy Your Silence",4,98231,Common,SNC,6/281,No,No,0
+"Celebrity Fencer",4,98233,Common,SNC,7/281,No,No,0
+"Citizen's Crowbar",2,98235,Uncommon,SNC,8/281,No,No,0
+"Dapper Shieldmate",4,98237,Common,SNC,9/281,No,No,0
+"Gathering Throng",4,98245,Common,SNC,13/281,No,No,0
+"Hold for Ransom",4,98251,Common,SNC,16/281,No,No,0
+"Illuminator Virtuoso",2,98253,Uncommon,SNC,17/281,No,No,0
+"Inspiring Overseer",4,98255,Common,SNC,18/281,No,No,0
+"Kill Shot",4,98257,Common,SNC,19/281,No,No,0
+"Knockout Blow",2,98259,Uncommon,SNC,20/281,No,No,0
+"Mage's Attendant",2,98261,Uncommon,SNC,21/281,No,No,0
+"Patch Up",2,98265,Uncommon,SNC,23/281,No,No,0
+"Raffine's Guidance",4,98269,Common,SNC,25/281,No,No,0
+"Raffine's Informant",4,98271,Common,SNC,26/281,No,No,0
+"Refuse to Yield",2,98273,Uncommon,SNC,27/281,No,No,0
+"Revelation of Power",4,98275,Common,SNC,28/281,No,No,0
+"Rumor Gatherer",2,98277,Uncommon,SNC,29/281,No,No,0
+"Sky Crier",4,98281,Common,SNC,31/281,No,No,0
+"Speakeasy Server",4,98283,Common,SNC,32/281,No,No,0
+"Swooping Protector",2,98285,Uncommon,SNC,33/281,No,No,0
+"Backstreet Bruiser",4,98289,Common,SNC,35/281,No,No,0
+"Brokers Veteran",4,98291,Common,SNC,36/281,No,No,0
+"Case the Joint",4,98293,Common,SNC,37/281,No,No,0
+"Disdainful Stroke",4,98297,Common,SNC,39/281,No,No,0
+"Echo Inspector",4,98299,Common,SNC,40/281,No,No,0
+"Expendable Lackey",4,98305,Common,SNC,43/281,No,No,0
+"Faerie Vandal",2,98307,Uncommon,SNC,44/281,No,No,0
+"Hypnotic Grifter",2,98309,Uncommon,SNC,45/281,No,No,0
+"A Little Chat",2,98313,Uncommon,SNC,47/281,No,No,0
+"Majestic Metamorphosis",4,98315,Common,SNC,48/281,No,No,0
+"Make Disappear",4,98317,Common,SNC,49/281,No,No,0
+"Obscura Initiate",4,98319,Common,SNC,50/281,No,No,0
+"An Offer You Can't Refuse",2,98321,Uncommon,SNC,51/281,No,No,0
+"Out of the Way",2,98323,Uncommon,SNC,52/281,No,No,0
+"Psionic Snoop",4,98325,Common,SNC,53/281,No,No,0
+"Psychic Pickpocket",2,98327,Uncommon,SNC,54/281,No,No,0
+"Public Enemy",2,98329,Uncommon,SNC,55/281,No,No,0
+"Rooftop Nuisance",4,98333,Common,SNC,57/281,No,No,0
+"Run Out of Town",4,98335,Common,SNC,58/281,No,No,0
+"Security Bypass",4,98337,Common,SNC,59/281,No,No,0
+"Sewer Crocodile",4,98339,Common,SNC,60/281,No,No,0
+"Sleep with the Fishes",2,98341,Uncommon,SNC,61/281,No,No,0
+"Slip Out the Back",2,98343,Uncommon,SNC,62/281,No,No,0
+"Wingshield Agent",2,98347,Uncommon,SNC,64/281,No,No,0
+"Witness Protection",4,98351,Common,SNC,66/281,No,No,0
+"Corrupt Court Official",4,98359,Common,SNC,70/281,No,No,0
+"Crooked Custodian",4,98361,Common,SNC,71/281,No,No,0
+"Cutthroat Contender",4,98365,Common,SNC,73/281,No,No,0
+"Deal Gone Bad",4,98367,Common,SNC,74/281,No,No,0
+"Demon's Due",4,98369,Common,SNC,75/281,No,No,0
+"Dig Up the Body",4,98371,Common,SNC,76/281,No,No,0
+"Dusk Mangler",2,98373,Uncommon,SNC,77/281,No,No,0
+"Extract the Truth",4,98375,Common,SNC,78/281,No,No,0
+"Fake Your Own Death",4,98377,Common,SNC,79/281,No,No,0
+"Girder Goons",4,98379,Common,SNC,80/281,No,No,0
+"Graveyard Shift",2,98381,Uncommon,SNC,81/281,No,No,0
+"Grisly Sigil",2,98383,Uncommon,SNC,82/281,No,No,0
+"Illicit Shipment",2,98385,Uncommon,SNC,83/281,No,No,0
+"Incriminate",4,98387,Common,SNC,84/281,No,No,0
+"Join the Maestros",4,98389,Common,SNC,85/281,No,No,0
+"Maestros Initiate",4,98391,Common,SNC,86/281,No,No,0
+"Midnight Assassin",4,98393,Common,SNC,87/281,No,No,0
+"Murder",4,98395,Common,SNC,88/281,No,No,0
+"Night Clubber",2,98397,Uncommon,SNC,89/281,No,No,0
+"Raffine's Silencer",2,98399,Uncommon,SNC,90/281,No,No,0
+"Revel Ruiner",4,98401,Common,SNC,91/281,No,No,0
+"Rogues' Gallery",2,98403,Uncommon,SNC,92/281,No,No,0
+"Tavern Swindler",2,98411,Uncommon,SNC,96/281,No,No,0
+"Vampire Scrivener",2,98415,Uncommon,SNC,98/281,No,No,0
+"Whack",2,98417,Uncommon,SNC,99/281,No,No,0
+"Antagonize",4,98419,Common,SNC,100/281,No,No,0
+"Big Score",4,98423,Common,SNC,102/281,No,No,0
+"Call In a Professional",2,98425,Uncommon,SNC,103/281,No,No,0
+"Daring Escape",4,98427,Common,SNC,104/281,No,No,0
+"Exhibition Magician",4,98431,Common,SNC,106/281,No,No,0
+"Glittering Stockpile",2,98433,Uncommon,SNC,107/281,No,No,0
+"Goldhound",4,98435,Common,SNC,108/281,No,No,0
+"Involuntary Employment",2,98439,Uncommon,SNC,110/281,No,No,0
+"Jackhammer",4,98441,Common,SNC,111/281,No,No,0
+"Light 'Em Up",4,98445,Common,SNC,113/281,No,No,0
+"Mayhem Patrol",4,98447,Common,SNC,114/281,No,No,0
+"Plasma Jockey",4,98449,Common,SNC,115/281,No,No,0
+"Pugnacious Pugilist",2,98453,Uncommon,SNC,117/281,No,No,0
+"Pyre-Sledge Arsonist",2,98455,Uncommon,SNC,118/281,No,No,0
+"Ready to Rumble",4,98457,Common,SNC,119/281,No,No,0
+"Riveteers Initiate",4,98459,Common,SNC,120/281,No,No,0
+"Riveteers Requisitioner",2,98461,Uncommon,SNC,121/281,No,No,0
+"Rob the Archives",2,98463,Uncommon,SNC,122/281,No,No,0
+"Sizzling Soloist",2,98465,Uncommon,SNC,123/281,No,No,0
+"Sticky Fingers",4,98467,Common,SNC,124/281,No,No,0
+"Strangle",4,98469,Common,SNC,125/281,No,No,0
+"Torch Breath",2,98473,Uncommon,SNC,127/281,No,No,0
+"Unlucky Witness",2,98475,Uncommon,SNC,128/281,No,No,0
+"Witty Roastmaster",4,98481,Common,SNC,131/281,No,No,0
+"Wrecking Crew",4,98483,Common,SNC,132/281,No,No,0
+"Attended Socialite",4,98485,Common,SNC,133/281,No,No,0
+"Bouncer's Beatdown",2,98489,Uncommon,SNC,135/281,No,No,0
+"Broken Wings",4,98491,Common,SNC,136/281,No,No,0
+"Cabaretti Initiate",4,98493,Common,SNC,137/281,No,No,0
+"Caldaia Strongarm",4,98495,Common,SNC,138/281,No,No,0
+"Capenna Express",4,98497,Common,SNC,139/281,No,No,0
+"Civic Gardener",4,98499,Common,SNC,140/281,No,No,0
+"Cleanup Crew",2,98501,Uncommon,SNC,141/281,No,No,0
+"Courier's Briefcase",2,98503,Uncommon,SNC,142/281,No,No,0
+"Elegant Entourage",2,98505,Uncommon,SNC,143/281,No,No,0
+"For the Family",4,98511,Common,SNC,146/281,No,No,0
+"Freelance Muscle",2,98513,Uncommon,SNC,147/281,No,No,0
+"Glittermonger",4,98517,Common,SNC,149/281,No,No,0
+"High-Rise Sawjack",4,98519,Common,SNC,150/281,No,No,0
+"Jewel Thief",4,98521,Common,SNC,151/281,No,No,0
+"Luxurious Libation",2,98523,Uncommon,SNC,152/281,No,No,0
+"Most Wanted",4,98525,Common,SNC,153/281,No,No,0
+"Prizefight",4,98527,Common,SNC,154/281,No,No,0
+"Rhox Pummeler",4,98529,Common,SNC,155/281,No,No,0
+"Riveteers Decoy",2,98531,Uncommon,SNC,156/281,No,No,0
+"Social Climber",4,98533,Common,SNC,157/281,No,No,0
+"Take to the Streets",2,98535,Uncommon,SNC,158/281,No,No,0
+"Venom Connoisseur",2,98541,Uncommon,SNC,161/281,No,No,0
+"Voice of the Vermin",2,98545,Uncommon,SNC,163/281,No,No,0
+"Warm Welcome",4,98547,Common,SNC,164/281,No,No,0
+"Body Dropper",4,98555,Common,SNC,168/281,No,No,0
+"Brazen Upstart",2,98557,Uncommon,SNC,169/281,No,No,0
+"Brokers Charm",2,98561,Uncommon,SNC,171/281,No,No,0
+"Cabaretti Charm",2,98565,Uncommon,SNC,173/281,No,No,0
+"Celestial Regulator",4,98567,Common,SNC,174/281,No,No,0
+"Ceremonial Groundbreaker",2,98569,Uncommon,SNC,175/281,No,No,0
+"Civil Servant",4,98571,Common,SNC,176/281,No,No,0
+"Cormela, Glamour Thief",2,98573,Uncommon,SNC,177/281,No,No,0
+"Corpse Appraiser",2,98575,Uncommon,SNC,178/281,No,No,0
+"Crew Captain",2,98579,Uncommon,SNC,180/281,No,No,0
+"Darling of the Masses",2,98581,Uncommon,SNC,181/281,No,No,0
+"Disciplined Duelist",2,98583,Uncommon,SNC,182/281,No,No,0
+"Exotic Pets",2,98589,Uncommon,SNC,185/281,No,No,0
+"Fatal Grudge",2,98593,Uncommon,SNC,187/281,No,No,0
+"Forge Boss",2,98597,Uncommon,SNC,189/281,No,No,0
+"Glamorous Outlaw",4,98599,Common,SNC,190/281,No,No,0
+"Jetmir's Fixer",4,98607,Common,SNC,194/281,No,No,0
+"Lagrella, the Magpie",2,98611,Uncommon,SNC,196/281,No,No,0
+"Maestros Charm",2,98617,Uncommon,SNC,199/281,No,No,0
+"Masked Bandits",4,98621,Common,SNC,201/281,No,No,0
+"Metropolis Angel",2,98625,Uncommon,SNC,203/281,No,No,0
+"Mr. Orfeo, the Boulder",2,98627,Uncommon,SNC,204/281,No,No,0
+"Nimble Larcenist",2,98629,Uncommon,SNC,205/281,No,No,0
+"Obscura Charm",2,98635,Uncommon,SNC,208/281,No,No,0
+"Queza, Augur of Agonies",2,98643,Uncommon,SNC,212/281,No,No,0
+"Rakish Revelers",4,98647,Common,SNC,214/281,No,No,0
+"Riveteers Charm",2,98653,Uncommon,SNC,217/281,No,No,0
+"Rocco, Cabaretti Caterer",2,98655,Uncommon,SNC,218/281,No,No,0
+"Security Rhox",2,98659,Uncommon,SNC,220/281,No,No,0
+"Shattered Seraph",4,98661,Common,SNC,221/281,No,No,0
+"Snooping Newsie",4,98663,Common,SNC,222/281,No,No,0
+"Spara's Adjudicators",4,98667,Common,SNC,224/281,No,No,0
+"Stimulus Package",2,98669,Uncommon,SNC,225/281,No,No,0
+"Syndicate Infiltrator",2,98671,Uncommon,SNC,226/281,No,No,0
+"Tainted Indulgence",2,98673,Uncommon,SNC,227/281,No,No,0
+"Arc Spitter",2,98685,Uncommon,SNC,233/281,No,No,0
+"Brass Knuckles",2,98687,Uncommon,SNC,234/281,No,No,0
+"Cement Shoes",2,98689,Uncommon,SNC,235/281,No,No,0
+"Chrome Cat",4,98691,Common,SNC,236/281,No,No,0
+"Gilded Pinions",4,98695,Common,SNC,238/281,No,No,0
+"Halo Scarab",4,98697,Common,SNC,239/281,No,No,0
+"Ominous Parcel",4,98701,Common,SNC,241/281,No,No,0
+"Paragon of Modernity",4,98703,Common,SNC,242/281,No,No,0
+"Quick-Draw Dagger",4,98705,Common,SNC,243/281,No,No,0
+"Scuttling Butler",2,98707,Uncommon,SNC,244/281,No,No,0
+"Suspicious Bookcase",2,98709,Uncommon,SNC,245/281,No,No,0
+"Botanical Plaza",4,98713,Common,SNC,247/281,No,No,0
+"Brokers Hideout",4,98715,Common,SNC,248/281,No,No,0
+"Cabaretti Courtyard",4,98717,Common,SNC,249/281,No,No,0
+"Maestros Theater",4,98721,Common,SNC,251/281,No,No,0
+"Obscura Storefront",4,98723,Common,SNC,252/281,No,No,0
+"Racers' Ring",4,98725,Common,SNC,253/281,No,No,0
+"Riveteers Overlook",4,98729,Common,SNC,255/281,No,No,0
+"Skybridge Towers",4,98731,Common,SNC,256/281,No,No,0
+"Tramway Station",4,98735,Common,SNC,258/281,No,No,0
+"Waterfront District",4,98737,Common,SNC,259/281,No,No,0
+"Avatar - Brass Knuckles",1,99653,Rare,VAN,510/601,No,No,0
+"Plains",2,102390,Land,DMU,277/281,No,No,0
+"Island",2,102392,Land,DMU,278/281,No,No,0
+"Swamp",2,102394,Land,DMU,279/281,No,No,0
+"Mountain",2,102396,Land,DMU,280/281,No,No,0
+"Forest",2,102398,Land,DMU,281/281,No,No,0
+"Plains",2,102400,Land,DMU,262/281,No,No,0
+"Plains",2,102402,Land,DMU,263/281,No,No,0
+"Plains",2,102404,Land,DMU,264/281,No,No,0
+"Island",2,102406,Land,DMU,265/281,No,No,0
+"Island",2,102408,Land,DMU,266/281,No,No,0
+"Island",2,102410,Land,DMU,267/281,No,No,0
+"Swamp",2,102412,Land,DMU,268/281,No,No,0
+"Swamp",2,102414,Land,DMU,269/281,No,No,0
+"Swamp",2,102416,Land,DMU,270/281,No,No,0
+"Mountain",2,102418,Land,DMU,271/281,No,No,0
+"Mountain",2,102420,Land,DMU,272/281,No,No,0
+"Mountain",2,102422,Land,DMU,273/281,No,No,0
+"Forest",2,102424,Land,DMU,274/281,No,No,0
+"Forest",2,102426,Land,DMU,275/281,No,No,0
+"Forest",2,102428,Land,DMU,276/281,No,No,0
+"Argivian Cavalier",2,102484,Common,DMU,4/281,No,No,0
+"Argivian Phalanx",2,102486,Common,DMU,5/281,No,No,0
+"Artillery Blast",2,102488,Common,DMU,6/281,No,No,0
+"Benalish Faithbonder",2,102490,Common,DMU,7/281,No,No,0
+"Benalish Sleeper",2,102492,Common,DMU,8/281,No,No,0
+"Captain's Call",2,102494,Common,DMU,9/281,No,No,0
+"Charismatic Vanguard",2,102496,Common,DMU,10/281,No,No,0
+"Citizen's Arrest",2,102498,Common,DMU,11/281,No,No,0
+"Cleaving Skyrider",1,102500,Uncommon,DMU,12/281,No,No,0
+"Clockwork Drawbridge",2,102502,Common,DMU,13/281,No,No,0
+"Coalition Skyknight",1,102504,Uncommon,DMU,14/281,No,No,0
+"Destroy Evil",2,102510,Common,DMU,17/281,No,No,0
+"Griffin Protector",2,102512,Common,DMU,18/281,No,No,0
+"Heroic Charge",2,102516,Common,DMU,20/281,No,No,0
+"Join Forces",1,102518,Uncommon,DMU,21/281,No,No,0
+"Juniper Order Rootweaver",2,102520,Common,DMU,22/281,No,No,0
+"Knight of Dawn's Light",1,102522,Uncommon,DMU,23/281,No,No,0
+"Love Song of Night and Day",1,102526,Uncommon,DMU,25/281,No,No,0
+"Mesa Cavalier",2,102528,Common,DMU,26/281,No,No,0
+"Phyrexian Missionary",1,102530,Uncommon,DMU,27/281,No,No,0
+"Prayer of Binding",1,102532,Uncommon,DMU,28/281,No,No,0
+"Resolute Reinforcements",1,102534,Uncommon,DMU,29/281,No,No,0
+"Runic Shot",1,102536,Uncommon,DMU,30/281,No,No,0
+"Samite Herbalist",2,102538,Common,DMU,31/281,No,No,0
+"Shalai's Acolyte",1,102542,Uncommon,DMU,33/281,No,No,0
+"Stall for Time",2,102544,Common,DMU,34/281,No,No,0
+"Take Up the Shield",2,102546,Common,DMU,35/281,No,No,0
+"Wingmantle Chaplain",1,102554,Uncommon,DMU,39/281,No,No,0
+"Academy Wall",2,102558,Common,DMU,41/281,No,No,0
+"Battlewing Mystic",1,102562,Uncommon,DMU,43/281,No,No,0
+"Combat Research",1,102564,Uncommon,DMU,44/281,No,No,0
+"Coral Colony",1,102566,Uncommon,DMU,45/281,No,No,0
+"Djinn of the Fountain",1,102570,Uncommon,DMU,47/281,No,No,0
+"Ertai's Scorn",1,102572,Uncommon,DMU,48/281,No,No,0
+"Essence Scatter",2,102574,Common,DMU,49/281,No,No,0
+"Founding the Third Path",1,102576,Uncommon,DMU,50/281,No,No,0
+"Frostfist Strider",1,102578,Uncommon,DMU,51/281,No,No,0
+"Haunting Figment",2,102582,Common,DMU,53/281,No,No,0
+"Impede Momentum",2,102584,Common,DMU,54/281,No,No,0
+"Impulse",2,102586,Common,DMU,55/281,No,No,0
+"Joint Exploration",1,102588,Uncommon,DMU,56/281,No,No,0
+"Micromancer",1,102590,Uncommon,DMU,57/281,No,No,0
+"Negate",2,102592,Common,DMU,58/281,No,No,0
+"The Phasing of Zhalfir",1,102594,Rare,DMU,59/281,No,No,0
+"Phyrexian Espionage",2,102596,Common,DMU,60/281,No,No,0
+"Pixie Illusionist",2,102598,Common,DMU,61/281,No,No,0
+"Protect the Negotiators",1,102600,Uncommon,DMU,62/281,No,No,0
+"Rona's Vortex",1,102602,Uncommon,DMU,63/281,No,No,0
+"Shore Up",2,102604,Common,DMU,64/281,No,No,0
+"Soaring Drake",2,102608,Common,DMU,66/281,No,No,0
+"Talas Lookout",2,102612,Common,DMU,68/281,No,No,0
+"Tidepool Turtle",2,102614,Common,DMU,69/281,No,No,0
+"Timely Interference",2,102616,Common,DMU,70/281,No,No,0
+"Tolarian Geyser",2,102618,Common,DMU,71/281,No,No,0
+"Tolarian Terror",2,102620,Common,DMU,72/281,No,No,0
+"Voda Sea Scavenger",2,102624,Common,DMU,74/281,No,No,0
+"Volshe Tideturner",2,102630,Common,DMU,77/281,No,No,0
+"Aggressive Sabotage",2,102632,Common,DMU,78/281,No,No,0
+"Balduvian Atrocity",1,102634,Uncommon,DMU,79/281,No,No,0
+"Battle-Rage Blessing",2,102636,Common,DMU,80/281,No,No,0
+"Battlefly Swarm",2,102638,Common,DMU,81/281,No,No,0
+"Blight Pile",1,102640,Uncommon,DMU,82/281,No,No,0
+"Bone Splinters",2,102642,Common,DMU,83/281,No,No,0
+"Braids's Frightful Return",1,102646,Uncommon,DMU,85/281,No,No,0
+"Choking Miasma",1,102648,Uncommon,DMU,86/281,No,No,0
+"Cult Conscript",1,102652,Uncommon,DMU,88/281,No,No,0
+"Cut Down",1,102654,Uncommon,DMU,89/281,No,No,0
+"Eerie Soultender",2,102660,Common,DMU,92/281,No,No,0
+"Extinguish the Light",2,102664,Common,DMU,94/281,No,No,0
+"Gibbering Barricade",2,102666,Common,DMU,95/281,No,No,0
+"Knight of Dusk's Shadow",1,102668,Uncommon,DMU,96/281,No,No,0
+"Monstrous War-Leech",1,102672,Uncommon,DMU,98/281,No,No,0
+"Phyrexian Rager",2,102674,Common,DMU,99/281,No,No,0
+"Phyrexian Vivisector",2,102676,Common,DMU,100/281,No,No,0
+"Phyrexian Warhorse",2,102678,Common,DMU,101/281,No,No,0
+"Pilfer",1,102680,Uncommon,DMU,102/281,No,No,0
+"Sengir Connoisseur",1,102684,Uncommon,DMU,104/281,No,No,0
+"Shadow Prophecy",2,102686,Common,DMU,105/281,No,No,0
+"Sheoldred's Restoration",1,102692,Uncommon,DMU,108/281,No,No,0
+"Splatter Goblin",2,102694,Common,DMU,109/281,No,No,0
+"Tattered Apparition",2,102698,Common,DMU,111/281,No,No,0
+"Toxic Abomination",2,102700,Common,DMU,112/281,No,No,0
+"Tribute to Urborg",2,102702,Common,DMU,113/281,No,No,0
+"Urborg Repossession",2,102704,Common,DMU,114/281,No,No,0
+"Writhing Necromass",2,102706,Common,DMU,115/281,No,No,0
+"Balduvian Berserker",1,102708,Uncommon,DMU,116/281,No,No,0
+"Coalition Warbrute",2,102712,Common,DMU,118/281,No,No,0
+"Dragon Whelp",1,102716,Uncommon,DMU,120/281,No,No,0
+"Electrostatic Infantry",1,102720,Uncommon,DMU,122/281,No,No,0
+"Fires of Victory",1,102722,Uncommon,DMU,123/281,No,No,0
+"Flowstone Infusion",2,102724,Common,DMU,124/281,No,No,0
+"Flowstone Kavu",2,102726,Common,DMU,125/281,No,No,0
+"Furious Bellow",2,102728,Common,DMU,126/281,No,No,0
+"Ghitu Amplifier",2,102730,Common,DMU,127/281,No,No,0
+"Goblin Picker",2,102732,Common,DMU,128/281,No,No,0
+"Hammerhand",2,102734,Common,DMU,129/281,No,No,0
+"Hurler Cyclops",1,102736,Uncommon,DMU,130/281,No,No,0
+"Hurloon Battle Hymn",1,102738,Uncommon,DMU,131/281,No,No,0
+"In Thrall to the Pit",2,102740,Common,DMU,132/281,No,No,0
+"Jaya's Firenado",2,102744,Common,DMU,134/281,No,No,0
+"Keldon Strike Team",2,102748,Common,DMU,136/281,No,No,0
+"Lightning Strike",2,102750,Common,DMU,137/281,No,No,0
+"Meria's Outrider",2,102752,Common,DMU,138/281,No,No,0
+"Molten Monstrosity",2,102754,Common,DMU,139/281,No,No,0
+"Phoenix Chick",1,102756,Uncommon,DMU,140/281,No,No,0
+"Smash to Dust",2,102764,Common,DMU,144/281,No,No,0
+"Sprouting Goblin",1,102766,Uncommon,DMU,145/281,No,No,0
+"Thrill of Possibility",2,102772,Common,DMU,148/281,No,No,0
+"Twinferno",1,102774,Uncommon,DMU,149/281,No,No,0
+"Viashino Branchrider",2,102776,Common,DMU,150/281,No,No,0
+"Warhost's Frenzy",1,102778,Uncommon,DMU,151/281,No,No,0
+"Yavimaya Steelcrusher",2,102780,Common,DMU,152/281,No,No,0
+"Yotia Declares War",1,102782,Uncommon,DMU,153/281,No,No,0
+"Barkweave Crusher",2,102784,Common,DMU,154/281,No,No,0
+"Bite Down",2,102786,Common,DMU,155/281,No,No,0
+"Bog Badger",2,102788,Common,DMU,156/281,No,No,0
+"Broken Wings",2,102790,Common,DMU,157/281,No,No,0
+"Colossal Growth",2,102792,Common,DMU,158/281,No,No,0
+"Deathbloom Gardener",2,102794,Common,DMU,159/281,No,No,0
+"Elfhame Wurm",2,102798,Common,DMU,161/281,No,No,0
+"Elvish Hydromancer",1,102800,Uncommon,DMU,162/281,No,No,0
+"Floriferous Vinewall",2,102802,Common,DMU,163/281,No,No,0
+"Gaea's Might",2,102804,Common,DMU,164/281,No,No,0
+"Hexbane Tortoise",2,102808,Common,DMU,166/281,No,No,0
+"Linebreaker Baloth",1,102812,Uncommon,DMU,168/281,No,No,0
+"Llanowar Stalker",2,102818,Common,DMU,171/281,No,No,0
+"Magnigoth Sentry",2,102820,Common,DMU,172/281,No,No,0
+"Mossbeard Ancient",1,102822,Uncommon,DMU,173/281,No,No,0
+"Nishoba Brawler",1,102824,Uncommon,DMU,174/281,No,No,0
+"Scout the Wilderness",2,102828,Common,DMU,176/281,No,No,0
+"Slimefoot's Survey",1,102832,Uncommon,DMU,178/281,No,No,0
+"Snarespinner",2,102834,Common,DMU,179/281,No,No,0
+"Strength of the Coalition",1,102836,Uncommon,DMU,180/281,No,No,0
+"Sunbathing Rootwalla",2,102838,Common,DMU,181/281,No,No,0
+"Tail Swipe",1,102840,Uncommon,DMU,182/281,No,No,0
+"Tear Asunder",1,102842,Uncommon,DMU,183/281,No,No,0
+"Territorial Maro",1,102844,Uncommon,DMU,184/281,No,No,0
+"Vineshaper Prodigy",2,102850,Common,DMU,187/281,No,No,0
+"The Weatherseed Treaty",1,102852,Uncommon,DMU,188/281,No,No,0
+"Yavimaya Iconoclast",1,102856,Uncommon,DMU,190/281,No,No,0
+"Yavimaya Sojourner",2,102858,Common,DMU,191/281,No,No,0
+"Aron, Benalia's Ruin",1,102862,Uncommon,DMU,193/281,No,No,0
+"Baird, Argivian Recruiter",1,102866,Uncommon,DMU,195/281,No,No,0
+"Balmor, Battlemage Captain",1,102868,Uncommon,DMU,196/281,No,No,0
+"Bortuk Bonerattle",1,102870,Uncommon,DMU,197/281,No,No,0
+"Elas il-Kor, Sadistic Pilgrim",1,102872,Uncommon,DMU,198/281,No,No,0
+"Garna, Bloodfist of Keld",1,102876,Uncommon,DMU,200/281,No,No,0
+"Lagomos, Hand of Hatred",1,102886,Uncommon,DMU,205/281,No,No,0
+"Nael, Avizoa Aeronaut",1,102890,Uncommon,DMU,207/281,No,No,0
+"Najal, the Storm Runner",1,102892,Uncommon,DMU,208/281,No,No,0
+"Queen Allenal of Ruadach",1,102896,Uncommon,DMU,210/281,No,No,0
+"Radha, Coalition Warlord",1,102898,Uncommon,DMU,211/281,No,No,0
+"Raff, Weatherlight Stalwart",1,102900,Uncommon,DMU,212/281,No,No,0
+"Rona, Sheoldred's Faithful",1,102908,Uncommon,DMU,216/281,No,No,0
+"Rulik Mons, Warren Chief",1,102910,Uncommon,DMU,217/281,No,No,0
+"Tatyova, Steward of Tides",1,102920,Uncommon,DMU,222/281,No,No,0
+"Tori D'Avenant, Fury Rider",1,102922,Uncommon,DMU,223/281,No,No,0
+"Tura Kennerüd, Skyknight",1,102924,Uncommon,DMU,224/281,No,No,0
+"Uurg, Spawn of Turg",1,102926,Uncommon,DMU,225/281,No,No,0
+"Vohar, Vodalian Desecrator",1,102928,Uncommon,DMU,226/281,No,No,0
+"Zar Ojanen, Scion of Efrava",1,102930,Uncommon,DMU,227/281,No,No,0
+"Automatic Librarian",2,102934,Common,DMU,229/281,No,No,0
+"Hero's Heirloom",1,102938,Uncommon,DMU,231/281,No,No,0
+"Inscribed Tablet",1,102940,Uncommon,DMU,232/281,No,No,0
+"Jodah's Codex",1,102942,Uncommon,DMU,233/281,No,No,0
+"Meteorite",2,102946,Common,DMU,235/281,No,No,0
+"Relic of Legends",1,102948,Uncommon,DMU,236/281,No,No,0
+"Salvaged Manaworker",2,102950,Common,DMU,237/281,No,No,0
+"Shield-Wall Sentinel",2,102952,Common,DMU,238/281,No,No,0
+"Vanquisher's Axe",2,102956,Common,DMU,240/281,No,No,0
+"Walking Bulwark",1,102958,Uncommon,DMU,241/281,No,No,0
+"Contaminated Aquifer",2,102966,Land,DMU,245/281,No,No,0
+"Crystal Grotto",2,102968,Common,DMU,246/281,No,No,0
+"Geothermal Bog",2,102970,Land,DMU,247/281,No,No,0
+"Haunted Mire",2,102972,Land,DMU,248/281,No,No,0
+"Idyllic Beachfront",2,102974,Land,DMU,249/281,No,No,0
+"Molten Tributary",2,102978,Land,DMU,251/281,No,No,0
+"Radiant Grove",2,102982,Land,DMU,253/281,No,No,0
+"Sacred Peaks",2,102984,Land,DMU,254/281,No,No,0
+"Sunlit Marsh",2,102990,Land,DMU,257/281,No,No,0
+"Tangled Islet",2,102992,Land,DMU,258/281,No,No,0
+"Wooded Ridgeline",2,102996,Land,DMU,260/281,No,No,0
+"Aeronaut Cavalry",2,104620,Common,BRO,1/287,No,No,0
+"Airlift Chaplain",2,104622,Common,BRO,2/287,No,No,0
+"Ambush Paratrooper",2,104624,Common,BRO,3/287,No,No,0
+"Calamity's Wake",1,104626,Uncommon,BRO,4/287,No,No,0
+"Deadly Riposte",2,104628,Common,BRO,5/287,No,No,0
+"Disenchant",2,104630,Common,BRO,6/287,No,No,0
+"Great Desert Prospector",1,104632,Uncommon,BRO,7/287,No,No,0
+"Lay Down Arms",1,104640,Uncommon,BRO,11/287,No,No,0
+"Loran, Disciple of History",1,104644,Uncommon,BRO,13/287,No,No,0
+"Loran's Escape",2,104646,Common,BRO,14/287,No,No,0
+"Mass Production",1,104648,Uncommon,BRO,15/287,No,No,0
+"Meticulous Excavation",1,104650,Uncommon,BRO,16/287,No,No,0
+"Military Discipline",2,104652,Common,BRO,17/287,No,No,0
+"Phalanx Vanguard",2,104656,Common,BRO,19/287,No,No,0
+"Powerstone Engineer",2,104658,Common,BRO,20/287,No,No,0
+"Prison Sentence",2,104660,Common,BRO,21/287,No,No,0
+"Recommission",2,104662,Common,BRO,22/287,No,No,0
+"Recruitment Officer",1,104664,Uncommon,BRO,23/287,No,No,0
+"Repair and Recharge",1,104666,Uncommon,BRO,24/287,No,No,0
+"Static Net",1,104672,Uncommon,BRO,27/287,No,No,0
+"Survivor of Korlis",2,104674,Common,BRO,28/287,No,No,0
+"Thopter Architect",1,104676,Uncommon,BRO,29/287,No,No,0
+"Union of the Third Path",2,104680,Common,BRO,31/287,No,No,0
+"Warlord's Elite",2,104682,Common,BRO,32/287,No,No,0
+"Yotian Medic",2,104684,Common,BRO,33/287,No,No,0
+"Combat Thresher",1,104688,Uncommon,BRO,35/287,No,No,0
+"Scrapwork Cohort",2,104692,Common,BRO,37/287,No,No,0
+"Tocasia's Onulet",2,104696,Common,BRO,39/287,No,No,0
+"Veteran's Powerblade",2,104700,Common,BRO,41/287,No,No,0
+"Yotian Frontliner",1,104702,Uncommon,BRO,42/287,No,No,0
+"Air Marshal",2,104704,Common,BRO,43/287,No,No,0
+"Curate",2,104706,Common,BRO,44/287,No,No,0
+"Defabricate",1,104708,Uncommon,BRO,45/287,No,No,0
+"Desynchronize",2,104710,Common,BRO,46/287,No,No,0
+"Fallaji Archaeologist",2,104714,Common,BRO,48/287,No,No,0
+"Flow of Knowledge",1,104716,Uncommon,BRO,49/287,No,No,0
+"Forging the Anchor",1,104718,Uncommon,BRO,50/287,No,No,0
+"Involuntary Cooldown",1,104724,Uncommon,BRO,53/287,No,No,0
+"Keeper of the Cadence",1,104726,Uncommon,BRO,54/287,No,No,0
+"Koilos Roc",2,104728,Common,BRO,55/287,No,No,0
+"Lat-Nam Adept",2,104730,Common,BRO,56/287,No,No,0
+"Machine Over Matter",2,104732,Common,BRO,57/287,No,No,0
+"Mightstone's Animation",2,104734,Common,BRO,58/287,No,No,0
+"Retrieval Agent",2,104738,Common,BRO,60/287,No,No,0
+"Scatter Ray",2,104740,Common,BRO,61/287,No,No,0
+"Splitting the Powerstone",1,104744,Uncommon,BRO,63/287,No,No,0
+"Stern Lesson",2,104746,Common,BRO,64/287,No,No,0
+"Take Flight",1,104748,Uncommon,BRO,65/287,No,No,0
+"Third Path Savant",2,104752,Common,BRO,67/287,No,No,0
+"Thopter Mechanic",1,104754,Uncommon,BRO,68/287,No,No,0
+"Urza, Powerstone Prodigy",1,104756,Uncommon,BRO,69/287,No,No,0
+"Urza's Rebuff",2,104760,Common,BRO,71/287,No,No,0
+"Weakstone's Subjugation",2,104762,Common,BRO,72/287,No,No,0
+"Wing Commando",2,104764,Common,BRO,73/287,No,No,0
+"Zephyr Sentinel",1,104766,Uncommon,BRO,74/287,No,No,0
+"Coastal Bulwark",2,104770,Common,BRO,76/287,No,No,0
+"Combat Courier",2,104772,Common,BRO,77/287,No,No,0
+"Depth Charge Colossus",2,104774,Common,BRO,78/287,No,No,0
+"Hulking Metamorph",1,104776,Uncommon,BRO,79/287,No,No,0
+"Spotter Thopter",1,104778,Uncommon,BRO,80/287,No,No,0
+"Ashnod's Intervention",2,104788,Common,BRO,85/287,No,No,0
+"Battlefield Butcher",1,104790,Uncommon,BRO,86/287,No,No,0
+"Carrion Locust",2,104792,Common,BRO,87/287,No,No,0
+"Corrupt",1,104794,Uncommon,BRO,88/287,No,No,0
+"Disciples of Gix",1,104798,Uncommon,BRO,90/287,No,No,0
+"Disfigure",2,104800,Common,BRO,91/287,No,No,0
+"Dreams of Steel and Oil",1,104802,Uncommon,BRO,92/287,No,No,0
+"Emergency Weld",2,104804,Common,BRO,93/287,No,No,0
+"Gix's Caress",2,104810,Common,BRO,96/287,No,No,0
+"Gixian Infiltrator",2,104814,Common,BRO,98/287,No,No,0
+"Gixian Skullflayer",2,104818,Common,BRO,100/287,No,No,0
+"Gnawing Vermin",1,104820,Uncommon,BRO,101/287,No,No,0
+"Gruesome Realization",1,104824,Uncommon,BRO,103/287,No,No,0
+"Gurgling Anointer",1,104826,Uncommon,BRO,104/287,No,No,0
+"Kill-Zone Acrobat",2,104830,Common,BRO,106/287,No,No,0
+"Moment of Defiance",2,104834,Common,BRO,108/287,No,No,0
+"No One Left Behind",1,104836,Uncommon,BRO,109/287,No,No,0
+"Overwhelming Remorse",2,104838,Common,BRO,110/287,No,No,0
+"Powerstone Fracture",2,104842,Common,BRO,112/287,No,No,0
+"Ravenous Gigamole",2,104844,Common,BRO,113/287,No,No,0
+"Thran Vigil",1,104846,Uncommon,BRO,114/287,No,No,0
+"Thraxodemon",2,104848,Common,BRO,115/287,No,No,0
+"Trench Stalker",2,104850,Common,BRO,116/287,No,No,0
+"Ashnod's Harvester",1,104852,Uncommon,BRO,117/287,No,No,0
+"Clay Revenant",2,104854,Common,BRO,118/287,No,No,0
+"Dredging Claw",2,104856,Common,BRO,119/287,No,No,0
+"Goring Warplow",2,104858,Common,BRO,120/287,No,No,0
+"Scrapwork Rager",2,104864,Common,BRO,123/287,No,No,0
+"Transmogrant Altar",1,104866,Uncommon,BRO,124/287,No,No,0
+"Arms Race",1,104870,Uncommon,BRO,126/287,No,No,0
+"Bitter Reunion",2,104872,Common,BRO,127/287,No,No,0
+"Conscripted Infantry",2,104876,Common,BRO,129/287,No,No,0
+"Dwarven Forge-Chanter",2,104880,Common,BRO,131/287,No,No,0
+"Excavation Explosion",2,104882,Common,BRO,132/287,No,No,0
+"The Fall of Kroog",1,104884,Uncommon,BRO,133/287,No,No,0
+"Fallaji Chaindancer",2,104886,Common,BRO,134/287,No,No,0
+"Giant Cindermaw",1,104890,Uncommon,BRO,136/287,No,No,0
+"Goblin Blast-Runner",2,104892,Common,BRO,137/287,No,No,0
+"Horned Stoneseeker",1,104894,Uncommon,BRO,138/287,No,No,0
+"Mishra, Excavation Prodigy",1,104898,Uncommon,BRO,140/287,No,No,0
+"Mishra's Domination",2,104902,Common,BRO,142/287,No,No,0
+"Mishra's Onslaught",2,104904,Common,BRO,143/287,No,No,0
+"Monastery Swiftspear",1,104906,Uncommon,BRO,144/287,No,No,0
+"Obliterating Bolt",1,104908,Uncommon,BRO,145/287,No,No,0
+"Penregon Strongbull",2,104912,Common,BRO,147/287,No,No,0
+"Pyrrhic Blast",1,104914,Uncommon,BRO,148/287,No,No,0
+"Raze to the Ground",2,104916,Common,BRO,149/287,No,No,0
+"Roc Hunter",2,104918,Common,BRO,150/287,No,No,0
+"Sardian Cliffstomper",1,104920,Uncommon,BRO,151/287,No,No,0
+"Sibling Rivalry",2,104922,Common,BRO,152/287,No,No,0
+"Tomakul Scrapsmith",2,104924,Common,BRO,153/287,No,No,0
+"Unleash Shell",2,104928,Common,BRO,155/287,No,No,0
+"Whirling Strike",2,104932,Common,BRO,157/287,No,No,0
+"Blitz Automaton",2,104934,Common,BRO,158/287,No,No,0
+"Fallaji Dragon Engine",1,104936,Uncommon,BRO,159/287,No,No,0
+"Heavyweight Demolisher",1,104938,Uncommon,BRO,160/287,No,No,0
+"Mishra's Juggernaut",2,104940,Common,BRO,161/287,No,No,0
+"Mishra's Research Desk",1,104942,Uncommon,BRO,162/287,No,No,0
+"Scrapwork Mutt",2,104946,Common,BRO,164/287,No,No,0
+"Alloy Animist",1,104950,Uncommon,BRO,166/287,No,No,0
+"Argothian Opportunist",2,104952,Common,BRO,167/287,No,No,0
+"Argothian Sprite",2,104954,Common,BRO,168/287,No,No,0
+"Audacity",1,104956,Uncommon,BRO,169/287,No,No,0
+"Blanchwood Armor",1,104960,Uncommon,BRO,171/287,No,No,0
+"Blanchwood Prowler",2,104962,Common,BRO,172/287,No,No,0
+"Burrowing Razormaw",2,104964,Common,BRO,173/287,No,No,0
+"Bushwhack",1,104966,Uncommon,BRO,174/287,No,No,0
+"Citanul Stalwart",2,104968,Common,BRO,175/287,No,No,0
+"Epic Confrontation",2,104970,Common,BRO,176/287,No,No,0
+"Fallaji Excavation",1,104974,Uncommon,BRO,178/287,No,No,0
+"Fog of War",2,104978,Common,BRO,180/287,No,No,0
+"Gaea's Courser",1,104980,Uncommon,BRO,181/287,No,No,0
+"Gaea's Gift",2,104982,Common,BRO,182/287,No,No,0
+"Giant Growth",2,104984,Common,BRO,183/287,No,No,0
+"Gnarlroot Pallbearer",2,104986,Common,BRO,184/287,No,No,0
+"Hoarding Recluse",2,104990,Common,BRO,186/287,No,No,0
+"Obstinate Baloth",1,104992,Uncommon,BRO,187/287,No,No,0
+"Perimeter Patrol",2,104994,Common,BRO,188/287,No,No,0
+"Sarinth Steelseeker",1,104996,Uncommon,BRO,189/287,No,No,0
+"Shoot Down",2,104998,Common,BRO,190/287,No,No,0
+"Tawnos's Tinkering",2,105000,Common,BRO,191/287,No,No,0
+"Tomakul Honor Guard",2,105010,Common,BRO,195/287,No,No,0
+"Wasteful Harvest",2,105012,Common,BRO,196/287,No,No,0
+"Boulderbranch Golem",2,105014,Common,BRO,197/287,No,No,0
+"Cradle Clearcutter",1,105016,Uncommon,BRO,198/287,No,No,0
+"Iron-Craw Crusher",1,105020,Uncommon,BRO,200/287,No,No,0
+"Mask of the Jadecrafter",1,105022,Uncommon,BRO,201/287,No,No,0
+"Rust Goliath",2,105028,Common,BRO,204/287,No,No,0
+"Arbalest Engineers",1,105032,Uncommon,BRO,206/287,No,No,0
+"Battery Bearer",1,105034,Uncommon,BRO,207/287,No,No,0
+"Evangel of Synthesis",1,105038,Uncommon,BRO,209/287,No,No,0
+"Fallaji Vanguard",1,105040,Uncommon,BRO,210/287,No,No,0
+"Hero of the Dunes",1,105046,Uncommon,BRO,213/287,No,No,0
+"Junkyard Genius",1,105048,Uncommon,BRO,214/287,No,No,0
+"Skyfisher Spider",1,105064,Uncommon,BRO,221/287,No,No,0
+"Third Path Iconoclast",1,105068,Uncommon,BRO,223/287,No,No,0
+"Yotian Dissident",1,105078,Uncommon,BRO,227/287,No,No,0
+"Yotian Tactician",1,105080,Uncommon,BRO,228/287,No,No,0
+"Aeronaut's Wings",2,105086,Common,BRO,231/287,No,No,0
+"Argivian Avenger",1,105088,Uncommon,BRO,232/287,No,No,0
+"Energy Refractor",2,105092,Common,BRO,234/287,No,No,0
+"Goblin Firebomb",2,105094,Common,BRO,235/287,No,No,0
+"Levitating Statue",1,105096,Uncommon,BRO,236/287,No,No,0
+"Mine Worker",2,105102,Common,BRO,239/287,No,No,0
+"Power Plant Worker",2,105106,Common,BRO,241/287,No,No,0
+"Reconstructed Thopter",1,105108,Uncommon,BRO,242/287,No,No,0
+"Slagstone Refinery",1,105110,Uncommon,BRO,243/287,No,No,0
+"Spectrum Sentinel",1,105112,Uncommon,BRO,244/287,No,No,0
+"Steel Exemplar",1,105116,Uncommon,BRO,246/287,No,No,0
+"Stone Retrieval Unit",2,105120,Common,BRO,248/287,No,No,0
+"Su-Chi Cave Guard",1,105122,Uncommon,BRO,249/287,No,No,0
+"Supply Drop",2,105124,Common,BRO,250/287,No,No,0
+"Swiftgear Drake",2,105126,Common,BRO,251/287,No,No,0
+"Symmetry Matrix",1,105128,Uncommon,BRO,252/287,No,No,0
+"Thran Power Suit",1,105130,Uncommon,BRO,253/287,No,No,0
+"Tower Worker",2,105134,Common,BRO,255/287,No,No,0
+"Demolition Field",1,105144,Uncommon,BRO,260/287,No,No,0
+"Evolving Wilds",2,105146,Common,BRO,261/287,No,No,0
+"Tocasia's Dig Site",2,105156,Common,BRO,266/287,No,No,0
+"Against All Odds",1,106217,Uncommon,ONE,1/271,No,No,0
+"Annex Sentry",1,106219,Uncommon,ONE,2/271,No,No,0
+"Apostle of Invasion",1,106221,Uncommon,ONE,3/271,No,No,0
+"Basilica Shepherd",2,106223,Common,ONE,4/271,No,No,0
+"Bladed Ambassador",1,106225,Uncommon,ONE,5/271,No,No,0
+"Charge of the Mites",2,106227,Common,ONE,6/271,No,No,0
+"Compleat Devotion",2,106229,Common,ONE,7/271,No,No,0
+"Crawling Chorus",2,106231,Common,ONE,8/271,No,No,0
+"Duelist of Deep Faith",2,106233,Common,ONE,9/271,No,No,0
+"Flensing Raptor",2,106239,Common,ONE,12/271,No,No,0
+"Goldwarden's Helm",2,106241,Common,ONE,13/271,No,No,0
+"Hexgold Hoverwings",1,106243,Uncommon,ONE,14/271,No,No,0
+"Incisor Glider",2,106245,Common,ONE,15/271,No,No,0
+"Indoctrination Attendant",2,106247,Common,ONE,16/271,No,No,0
+"Infested Fleshcutter",1,106249,Uncommon,ONE,17/271,No,No,0
+"Jawbone Duelist",1,106251,Uncommon,ONE,18/271,No,No,0
+"Leonin Lightbringer",2,106255,Common,ONE,20/271,No,No,0
+"Mandible Justiciar",2,106257,Common,ONE,21/271,No,No,0
+"Mirran Bardiche",2,106259,Common,ONE,22/271,No,No,0
+"Orthodoxy Enforcer",2,106265,Common,ONE,25/271,No,No,0
+"Ossification",1,106267,Uncommon,ONE,26/271,No,No,0
+"Planar Disruption",2,106271,Common,ONE,28/271,No,No,0
+"Plated Onslaught",1,106273,Uncommon,ONE,29/271,No,No,0
+"Porcelain Zealot",1,106275,Uncommon,ONE,30/271,No,No,0
+"Resistance Reunited",1,106277,Uncommon,ONE,31/271,No,No,0
+"Sinew Dancer",2,106279,Common,ONE,32/271,No,No,0
+"Swooping Lookout",1,106285,Uncommon,ONE,35/271,No,No,0
+"Vanish into Eternity",2,106287,Common,ONE,36/271,No,No,0
+"Veil of Assimilation",1,106289,Uncommon,ONE,37/271,No,No,0
+"Zealot's Conviction",2,106293,Common,ONE,39/271,No,No,0
+"Aspirant's Ascent",2,106295,Common,ONE,40/271,No,No,0
+"Atmosphere Surgeon",1,106297,Uncommon,ONE,41/271,No,No,0
+"Bring the Ending",2,106303,Common,ONE,44/271,No,No,0
+"Chrome Prowler",2,106305,Common,ONE,45/271,No,No,0
+"Distorted Curiosity",1,106307,Uncommon,ONE,46/271,No,No,0
+"Escaped Experiment",2,106311,Common,ONE,48/271,No,No,0
+"Experimental Augury",2,106313,Common,ONE,49/271,No,No,0
+"Eye of Malcator",2,106315,Common,ONE,50/271,No,No,0
+"Font of Progress",1,106317,Uncommon,ONE,51/271,No,No,0
+"Gitaxian Anatomist",2,106319,Common,ONE,52/271,No,No,0
+"Gitaxian Raptor",2,106321,Common,ONE,53/271,No,No,0
+"Glistener Seer",2,106323,Common,ONE,54/271,No,No,0
+"Ichor Synthesizer",2,106325,Common,ONE,55/271,No,No,0
+"Malcator's Watcher",2,106331,Common,ONE,58/271,No,No,0
+"Meldweb Curator",2,106333,Common,ONE,59/271,No,No,0
+"Meldweb Strider",2,106335,Common,ONE,60/271,No,No,0
+"Mesmerizing Dose",2,106339,Common,ONE,62/271,No,No,0
+"Minor Misstep",1,106343,Uncommon,ONE,64/271,No,No,0
+"Prologue to Phyresis",2,106345,Common,ONE,65/271,No,No,0
+"Quicksilver Fisher",2,106347,Common,ONE,66/271,No,No,0
+"Reject Imperfection",1,106349,Uncommon,ONE,67/271,No,No,0
+"Serum Snare",1,106351,Uncommon,ONE,68/271,No,No,0
+"Tamiyo's Immobilizer",1,106353,Uncommon,ONE,69/271,No,No,0
+"Tamiyo's Logbook",1,106355,Uncommon,ONE,70/271,No,No,0
+"Thrummingbird",1,106359,Uncommon,ONE,72/271,No,No,0
+"Transplant Theorist",1,106361,Uncommon,ONE,73/271,No,No,0
+"Trawler Drake",1,106363,Uncommon,ONE,74/271,No,No,0
+"Unctus's Retrofitter",1,106367,Uncommon,ONE,76/271,No,No,0
+"Vivisurgeon's Insight",2,106369,Common,ONE,77/271,No,No,0
+"Watchful Blisterzoa",1,106371,Uncommon,ONE,78/271,No,No,0
+"Ambulatory Edifice",1,106373,Uncommon,ONE,79/271,No,No,0
+"Annihilating Glare",2,106375,Common,ONE,80/271,No,No,0
+"Anoint with Affliction",2,106377,Common,ONE,81/271,No,No,0
+"Bilious Skulldweller",1,106381,Uncommon,ONE,83/271,No,No,0
+"Blightbelly Rat",2,106385,Common,ONE,85/271,No,No,0
+"Bonepicker Skirge",2,106387,Common,ONE,86/271,No,No,0
+"Chittering Skitterling",1,106389,Uncommon,ONE,87/271,No,No,0
+"Cruel Grimnarch",2,106391,Common,ONE,88/271,No,No,0
+"Cutthroat Centurion",2,106393,Common,ONE,89/271,No,No,0
+"Drown in Ichor",1,106397,Uncommon,ONE,91/271,No,No,0
+"Duress",2,106399,Common,ONE,92/271,No,No,0
+"Feed the Infection",1,106401,Uncommon,ONE,93/271,No,No,0
+"Fleshless Gladiator",2,106403,Common,ONE,94/271,No,No,0
+"Gulping Scraptrap",2,106407,Common,ONE,96/271,No,No,0
+"Infectious Inquiry",2,106409,Common,ONE,97/271,No,No,0
+"Necrogen Communion",1,106413,Uncommon,ONE,99/271,No,No,0
+"Necrosquito",1,106415,Uncommon,ONE,100/271,No,No,0
+"Nimraiser Paladin",1,106417,Uncommon,ONE,101/271,No,No,0
+"Offer Immortality",2,106419,Common,ONE,102/271,No,No,0
+"Pestilent Syphoner",2,106421,Common,ONE,103/271,No,No,0
+"Ravenous Necrotitan",1,106427,Uncommon,ONE,106/271,No,No,0
+"Scheming Aspirant",1,106429,Uncommon,ONE,107/271,No,No,0
+"Sheoldred's Edict",1,106431,Uncommon,ONE,108/271,No,No,0
+"Sheoldred's Headcleaver",2,106433,Common,ONE,109/271,No,No,0
+"Stinging Hivemaster",2,106435,Common,ONE,110/271,No,No,0
+"Testament Bearer",2,106437,Common,ONE,111/271,No,No,0
+"Vat Emergence",1,106439,Uncommon,ONE,112/271,No,No,0
+"Vat of Rebirth",1,106441,Uncommon,ONE,113/271,No,No,0
+"Vraska's Fall",2,106447,Common,ONE,116/271,No,No,0
+"Whisper of the Dross",2,106449,Common,ONE,117/271,No,No,0
+"Awaken the Sleeper",1,106453,Uncommon,ONE,119/271,No,No,0
+"Axiom Engraver",2,106455,Common,ONE,120/271,No,No,0
+"Barbed Batterfist",2,106457,Common,ONE,121/271,No,No,0
+"Bladegraft Aspirant",2,106459,Common,ONE,122/271,No,No,0
+"Blazing Crescendo",2,106461,Common,ONE,123/271,No,No,0
+"Cacophony Scamp",1,106463,Uncommon,ONE,124/271,No,No,0
+"Chimney Rabble",2,106467,Common,ONE,126/271,No,No,0
+"Churning Reservoir",1,106469,Uncommon,ONE,127/271,No,No,0
+"Exuberant Fuseling",1,106473,Uncommon,ONE,129/271,No,No,0
+"Forgehammer Centurion",2,106475,Common,ONE,130/271,No,No,0
+"Free from Flesh",2,106477,Common,ONE,131/271,No,No,0
+"Furnace Punisher",1,106479,Uncommon,ONE,132/271,No,No,0
+"Furnace Strider",2,106481,Common,ONE,133/271,No,No,0
+"Gleeful Demolition",1,106483,Uncommon,ONE,134/271,No,No,0
+"Hazardous Blast",2,106485,Common,ONE,135/271,No,No,0
+"Hexgold Halberd",1,106487,Uncommon,ONE,136/271,No,No,0
+"Hexgold Slash",2,106489,Common,ONE,137/271,No,No,0
+"Kuldotha Cackler",2,106493,Common,ONE,139/271,No,No,0
+"Magmatic Sprinter",1,106495,Uncommon,ONE,140/271,No,No,0
+"Molten Rebuke",2,106497,Common,ONE,141/271,No,No,0
+"Nahiri's Sacrifice",1,106499,Uncommon,ONE,142/271,No,No,0
+"Oxidda Finisher",1,106501,Uncommon,ONE,143/271,No,No,0
+"Rebel Salvo",1,106503,Uncommon,ONE,144/271,No,No,0
+"Resistance Skywarden",1,106507,Uncommon,ONE,146/271,No,No,0
+"Sawblade Scamp",2,106509,Common,ONE,147/271,No,No,0
+"Shrapnel Slinger",2,106511,Common,ONE,148/271,No,No,0
+"Thrill of Possibility",2,106517,Common,ONE,151/271,No,No,0
+"Urabrask's Anointer",1,106519,Uncommon,ONE,152/271,No,No,0
+"Volt Charge",2,106525,Common,ONE,155/271,No,No,0
+"Vulshok Splitter",2,106527,Common,ONE,156/271,No,No,0
+"Adaptive Sporesinger",2,106529,Common,ONE,157/271,No,No,0
+"Armored Scrapgorger",1,106531,Uncommon,ONE,158/271,No,No,0
+"Branchblight Stalker",2,106535,Common,ONE,160/271,No,No,0
+"Cankerbloom",1,106537,Uncommon,ONE,161/271,No,No,0
+"Carnivorous Canopy",2,106539,Common,ONE,162/271,No,No,0
+"Contagious Vorrac",2,106543,Common,ONE,164/271,No,No,0
+"Copper Longlegs",2,106545,Common,ONE,165/271,No,No,0
+"Evolving Adaptive",1,106549,Uncommon,ONE,167/271,No,No,0
+"Expand the Sphere",1,106551,Uncommon,ONE,168/271,No,No,0
+"Ichorspit Basilisk",2,106555,Common,ONE,170/271,No,No,0
+"Incubation Sac",1,106557,Uncommon,ONE,171/271,No,No,0
+"Infectious Bite",1,106559,Uncommon,ONE,172/271,No,No,0
+"Lattice-Blade Mantis",2,106561,Common,ONE,173/271,No,No,0
+"Maze's Mantle",2,106563,Common,ONE,174/271,No,No,0
+"Noxious Assault",1,106567,Uncommon,ONE,176/271,No,No,0
+"Oil-Gorger Troll",2,106569,Common,ONE,177/271,No,No,0
+"Paladin of Predation",1,106571,Uncommon,ONE,178/271,No,No,0
+"Plague Nurse",2,106573,Common,ONE,179/271,No,No,0
+"Predation Steward",2,106575,Common,ONE,180/271,No,No,0
+"Rustvine Cultivator",2,106577,Common,ONE,181/271,No,No,0
+"Ruthless Predation",2,106579,Common,ONE,182/271,No,No,0
+"Skyscythe Engulfer",2,106581,Common,ONE,183/271,No,No,0
+"Sylvok Battle-Chair",1,106583,Uncommon,ONE,184/271,No,No,0
+"Thirsting Roots",2,106585,Common,ONE,185/271,No,No,0
+"Titanic Growth",2,106589,Common,ONE,187/271,No,No,0
+"Tyrranax Atrocity",2,106591,Common,ONE,188/271,No,No,0
+"Tyvar's Stand",1,106595,Uncommon,ONE,190/271,No,No,0
+"Unnatural Restoration",1,106597,Uncommon,ONE,191/271,No,No,0
+"Venomous Brutalizer",1,106601,Uncommon,ONE,193/271,No,No,0
+"Viral Spawning",1,106603,Uncommon,ONE,194/271,No,No,0
+"Bladehold War-Whip",1,106609,Uncommon,ONE,197/271,No,No,0
+"Cephalopod Sentry",1,106611,Uncommon,ONE,198/271,No,No,0
+"Charforger",1,106613,Uncommon,ONE,199/271,No,No,0
+"Cinderslash Ravager",1,106615,Uncommon,ONE,200/271,No,No,0
+"Necrogen Rotpriest",1,106639,Uncommon,ONE,212/271,No,No,0
+"Serum-Core Chimera",1,106645,Uncommon,ONE,215/271,No,No,0
+"Slaughter Singer",1,106647,Uncommon,ONE,216/271,No,No,0
+"Tainted Observer",1,106649,Uncommon,ONE,217/271,No,No,0
+"Vivisection Evangelist",1,106655,Uncommon,ONE,220/271,No,No,0
+"Voidwing Hybrid",1,106657,Uncommon,ONE,221/271,No,No,0
+"Atraxa's Skitterfang",1,106661,Uncommon,ONE,223/271,No,No,0
+"Basilica Skullbomb",2,106663,Common,ONE,224/271,No,No,0
+"Dross Skullbomb",2,106665,Common,ONE,225/271,No,No,0
+"Dune Mover",2,106667,Common,ONE,226/271,No,No,0
+"Furnace Skullbomb",2,106671,Common,ONE,228/271,No,No,0
+"Ichorplate Golem",1,106675,Uncommon,ONE,230/271,No,No,0
+"Maze Skullbomb",2,106677,Common,ONE,231/271,No,No,0
+"Myr Convert",1,106683,Uncommon,ONE,234/271,No,No,0
+"Myr Custodian",2,106685,Common,ONE,235/271,No,No,0
+"Myr Kinsmith",2,106687,Common,ONE,236/271,No,No,0
+"Phyrexian Atlas",2,106689,Common,ONE,237/271,No,No,0
+"Prophetic Prism",2,106691,Common,ONE,238/271,No,No,0
+"Prosthetic Injector",1,106693,Uncommon,ONE,239/271,No,No,0
+"Ribskiff",1,106695,Uncommon,ONE,240/271,No,No,0
+"Surgical Skullbomb",2,106701,Common,ONE,243/271,No,No,0
+"The Autonomous Furnace",2,106709,Common,ONE,247/271,No,No,0
+"The Dross Pits",2,106717,Common,ONE,251/271,No,No,0
+"The Fair Basilica",2,106719,Common,ONE,252/271,No,No,0
+"The Hunter Maze",2,106721,Common,ONE,253/271,No,No,0
+"The Surgical Bay",2,106735,Common,ONE,260/271,No,No,0
+"Terramorphic Expanse",2,106737,Common,ONE,261/271,No,No,0
+"Leyline Immersion",1,109164,Rare,MAT,21/50,No,No,0
+"Calix, Guided by Fate",1,109174,Mythic Rare,MAT,26/50,No,No,0
+"Essence of Orthodoxy",1,109638,Promo,MOM,376,No,No,0
+"Terror of Towashi",1,109642,Promo,MOM,378,No,No,0
+"Plains",2,109764,Land,MOM,282/291,No,No,0
+"Plains",2,109766,Land,MOM,283/291,No,No,0
+"Island",2,109768,Land,MOM,284/291,No,No,0
+"Island",2,109770,Land,MOM,285/291,No,No,0
+"Swamp",2,109772,Land,MOM,286/291,No,No,0
+"Swamp",2,109774,Land,MOM,287/291,No,No,0
+"Mountain",2,109776,Land,MOM,288/291,No,No,0
+"Mountain",2,109778,Land,MOM,289/291,No,No,0
+"Forest",2,109780,Land,MOM,290/291,No,No,0
+"Forest",2,109782,Land,MOM,291/291,No,No,0
+"Plains",2,109784,Land,MOM,277/291,No,No,0
+"Island",2,109786,Land,MOM,278/291,No,No,0
+"Swamp",2,109788,Land,MOM,279/291,No,No,0
+"Mountain",2,109790,Land,MOM,280/291,No,No,0
+"Forest",2,109792,Land,MOM,281/291,No,No,0
+"Aerial Boost",2,109798,Common,MOM,2/291,No,No,0
+"Alabaster Host Intercessor",2,109800,Common,MOM,3/291,No,No,0
+"Alabaster Host Sanctifier",2,109802,Common,MOM,4/291,No,No,0
+"Angelic Intervention",2,109804,Common,MOM,5/291,No,No,0
+"Attentive Skywarden",2,109808,Common,MOM,7/291,No,No,0
+"Bola Slinger",2,109810,Common,MOM,8/291,No,No,0
+"Cut Short",2,109814,Common,MOM,10/291,No,No,0
+"Elspeth's Smite",1,109822,Uncommon,MOM,13/291,No,No,0
+"Enduring Bondwarden",2,109824,Common,MOM,14/291,No,No,0
+"Golden-Scale Aeronaut",2,109826,Common,MOM,15/291,No,No,0
+"Infected Defector",2,109834,Common,MOM,18/291,No,No,0
+"Inspired Charge",2,109836,Common,MOM,19/291,No,No,0
+"Invasion of Belenon",1,109838,Uncommon,MOM,20a/291,No,No,0
+"Invasion of Dominaria",1,109842,Uncommon,MOM,21a/291,No,No,0
+"Kithkin Billyrider",2,109854,Common,MOM,24/291,No,No,0
+"Knight of the New Coalition",2,109856,Common,MOM,25/291,No,No,0
+"Kor Halberd",2,109860,Common,MOM,27/291,No,No,0
+"Norn's Inquisitor",1,109864,Uncommon,MOM,29/291,No,No,0
+"Phyrexian Awakening",1,109866,Uncommon,MOM,30/291,No,No,0
+"Phyrexian Censor",1,109868,Uncommon,MOM,31/291,No,No,0
+"Realmbreaker's Grasp",2,109872,Common,MOM,33/291,No,No,0
+"Scrollshift",2,109874,Common,MOM,34/291,No,No,0
+"Seal from Existence",1,109876,Uncommon,MOM,35/291,No,No,0
+"Seraph of New Capenna",1,109878,Uncommon,MOM,36a/291,No,No,0
+"Sigiled Sentinel",2,109882,Common,MOM,37/291,No,No,0
+"Sun-Blessed Guardian",1,109884,Uncommon,MOM,38a/291,No,No,0
+"Sunder the Gateway",2,109888,Common,MOM,39/291,No,No,0
+"Surge of Salvation",1,109892,Uncommon,MOM,41/291,No,No,0
+"Swordsworn Cavalier",2,109894,Common,MOM,42/291,No,No,0
+"Tarkir Duneshaper",2,109896,Common,MOM,43a/291,No,No,0
+"Tiller of Flesh",1,109900,Uncommon,MOM,44/291,No,No,0
+"Zhalfirin Lancer",1,109902,Uncommon,MOM,45/291,No,No,0
+"Artistic Refusal",1,109904,Uncommon,MOM,46/291,No,No,0
+"Assimilate Essence",2,109906,Common,MOM,47/291,No,No,0
+"Astral Wingspan",1,109908,Uncommon,MOM,48/291,No,No,0
+"Captive Weird",1,109910,Uncommon,MOM,49a/291,No,No,0
+"Change the Equation",1,109914,Uncommon,MOM,50/291,No,No,0
+"Corruption of Towashi",1,109920,Uncommon,MOM,53/291,No,No,0
+"Disturbing Conversion",2,109922,Common,MOM,54/291,No,No,0
+"Ephara's Dispersal",2,109924,Common,MOM,55/291,No,No,0
+"Expedition Lookout",2,109926,Common,MOM,56/291,No,No,0
+"Eyes of Gitaxias",2,109928,Common,MOM,57/291,No,No,0
+"Furtive Analyst",2,109932,Common,MOM,59/291,No,No,0
+"Halo-Charged Skaab",2,109934,Common,MOM,60/291,No,No,0
+"Invasion of Kamigawa",1,109940,Uncommon,MOM,62a/291,No,No,0
+"Invasion of Vryn",1,109948,Uncommon,MOM,64a/291,No,No,0
+"Meeting of Minds",2,109956,Common,MOM,66/291,No,No,0
+"Moment of Truth",2,109958,Common,MOM,67/291,No,No,0
+"Negate",2,109960,Common,MOM,68/291,No,No,0
+"Oculus Whelp",2,109962,Common,MOM,69/291,No,No,0
+"Omen Hawker",1,109964,Uncommon,MOM,70/291,No,No,0
+"Oracle of Tragedy",1,109966,Uncommon,MOM,71/291,No,No,0
+"Order of the Mirror",2,109968,Common,MOM,72a/291,No,No,0
+"Preening Champion",2,109972,Common,MOM,73/291,No,No,0
+"Protocol Knight",2,109974,Common,MOM,74/291,No,No,0
+"Saiba Cryptomancer",2,109980,Common,MOM,76/291,No,No,0
+"Skyclave Aerialist",1,109984,Uncommon,MOM,78a/291,No,No,0
+"Stasis Field",2,109988,Common,MOM,79/291,No,No,0
+"Temporal Cleansing",2,109990,Common,MOM,80/291,No,No,0
+"Thunderhead Squadron",2,109992,Common,MOM,81/291,No,No,0
+"Tidal Terror",2,109994,Common,MOM,82/291,No,No,0
+"Wicked Slumber",1,109998,Uncommon,MOM,84/291,No,No,0
+"Xerex Strobe-Knight",1,110000,Uncommon,MOM,85/291,No,No,0
+"Zhalfirin Shapecraft",2,110004,Common,MOM,87/291,No,No,0
+"Aetherblade Agent",2,110006,Common,MOM,88a/291,No,No,0
+"Bladed Battle-Fan",2,110016,Common,MOM,91/291,No,No,0
+"Blightreaper Thallid",1,110018,Uncommon,MOM,92a/291,No,No,0
+"Breach the Multiverse",1,110024,Rare,MOM,94/291,No,No,0
+"Collective Nightmare",1,110026,Uncommon,MOM,95/291,No,No,0
+"Compleated Huntmaster",1,110028,Uncommon,MOM,96/291,No,No,0
+"Consuming Aetherborn",2,110030,Common,MOM,97/291,No,No,0
+"Corrupted Conviction",2,110032,Common,MOM,98/291,No,No,0
+"Deadly Derision",2,110034,Common,MOM,99/291,No,No,0
+"Dreg Recycler",2,110036,Common,MOM,100/291,No,No,0
+"Etched Familiar",2,110038,Common,MOM,101/291,No,No,0
+"Etched Host Doombringer",2,110040,Common,MOM,102/291,No,No,0
+"Failed Conversion",2,110042,Common,MOM,103/291,No,No,0
+"Final Flourish",2,110044,Common,MOM,104/291,No,No,0
+"Flitting Guerrilla",2,110046,Common,MOM,105/291,No,No,0
+"Gift of Compleation",1,110048,Uncommon,MOM,106/291,No,No,0
+"Glistening Deluge",1,110050,Uncommon,MOM,107/291,No,No,0
+"Gloomfang Mauler",2,110052,Common,MOM,108/291,No,No,0
+"Ichor Drinker",2,110058,Common,MOM,111/291,No,No,0
+"Ichor Shade",2,110060,Common,MOM,112/291,No,No,0
+"Invasion of Eldraine",1,110062,Uncommon,MOM,113a/291,No,No,0
+"Invasion of Ulgrotha",1,110074,Uncommon,MOM,116a/291,No,No,0
+"Merciless Repurposing",1,110078,Uncommon,MOM,117/291,No,No,0
+"Mirrodin Avenged",2,110080,Common,MOM,118/291,No,No,0
+"Nezumi Freewheeler",1,110082,Uncommon,MOM,119a/291,No,No,0
+"Nezumi Informant",2,110086,Common,MOM,120/291,No,No,0
+"Phyrexian Gargantua",1,110088,Uncommon,MOM,121/291,No,No,0
+"Render Inert",1,110092,Uncommon,MOM,123/291,No,No,0
+"Scorn-Blade Berserker",1,110094,Uncommon,MOM,124/291,No,No,0
+"Tenured Oilcaster",2,110100,Common,MOM,126/291,No,No,0
+"Traumatic Revelation",2,110102,Common,MOM,127/291,No,No,0
+"Unseal the Necropolis",2,110104,Common,MOM,128/291,No,No,0
+"Vanquish the Weak",2,110106,Common,MOM,129/291,No,No,0
+"Akki Scrapchomper",2,110108,Common,MOM,130/291,No,No,0
+"Beamtown Beatstick",2,110110,Common,MOM,131/291,No,No,0
+"Burning Sun's Fury",2,110114,Common,MOM,133/291,No,No,0
+"Coming In Hot",2,110120,Common,MOM,136/291,No,No,0
+"Fearless Skald",1,110126,Uncommon,MOM,138/291,No,No,0
+"Furnace Gremlin",1,110128,Uncommon,MOM,139/291,No,No,0
+"Furnace Host Charger",2,110130,Common,MOM,140/291,No,No,0
+"Furnace Reins",1,110132,Uncommon,MOM,141/291,No,No,0
+"Hangar Scrounger",2,110134,Common,MOM,142/291,No,No,0
+"Harried Artisan",1,110136,Uncommon,MOM,143a/291,No,No,0
+"Invasion of Mercadia",1,110150,Uncommon,MOM,147a/291,No,No,0
+"Invasion of Regatha",1,110154,Uncommon,MOM,148a/291,No,No,0
+"Karsus Depthguard",2,110162,Common,MOM,150/291,No,No,0
+"Khenra Spellspear",1,110164,Uncommon,MOM,151a/291,No,No,0
+"Lithomantic Barrage",1,110168,Uncommon,MOM,152/291,No,No,0
+"Marauding Dreadship",2,110170,Common,MOM,153/291,No,No,0
+"Mirran Banesplitter",2,110172,Common,MOM,154/291,No,No,0
+"Onakke Javelineer",2,110176,Common,MOM,156/291,No,No,0
+"Pyretic Prankster",2,110178,Common,MOM,157a/291,No,No,0
+"Ral's Reinforcements",2,110182,Common,MOM,158/291,No,No,0
+"Ramosian Greatsword",1,110184,Uncommon,MOM,159/291,No,No,0
+"Redcap Heelslasher",2,110188,Common,MOM,161/291,No,No,0
+"Scrappy Bruiser",1,110190,Uncommon,MOM,162/291,No,No,0
+"Searing Barb",2,110192,Common,MOM,163/291,No,No,0
+"Shatter the Source",2,110194,Common,MOM,164/291,No,No,0
+"Shivan Branch-Burner",1,110196,Uncommon,MOM,165/291,No,No,0
+"Stoke the Flames",1,110198,Uncommon,MOM,166/291,No,No,0
+"Thrashing Frontliner",2,110200,Common,MOM,167/291,No,No,0
+"Trailblazing Historian",2,110202,Common,MOM,168/291,No,No,0
+"Volcanic Spite",2,110208,Common,MOM,170/291,No,No,0
+"War-Trained Slasher",2,110212,Common,MOM,172/291,No,No,0
+"Wrenn's Resolve",2,110214,Common,MOM,173/291,No,No,0
+"Arachnoid Adaptation",2,110218,Common,MOM,175/291,No,No,0
+"Atraxa's Fall",2,110220,Common,MOM,176/291,No,No,0
+"Blighted Burgeoning",2,110222,Common,MOM,177/291,No,No,0
+"Bonded Herdbeast",2,110224,Common,MOM,178a/291,No,No,0
+"Chomping Kavu",2,110228,Common,MOM,179/291,No,No,0
+"Converter Beast",2,110230,Common,MOM,180/291,No,No,0
+"Copper Host Crusher",1,110232,Uncommon,MOM,181/291,No,No,0
+"Cosmic Hunger",2,110234,Common,MOM,182/291,No,No,0
+"Crystal Carapace",2,110236,Common,MOM,183/291,No,No,0
+"Doomskar Warrior",1,110240,Rare,MOM,185/291,No,No,0
+"Fertilid's Favor",2,110242,Common,MOM,186/291,No,No,0
+"Gnottvold Hermit",1,110246,Uncommon,MOM,188a/291,No,No,0
+"Herbology Instructor",1,110250,Uncommon,MOM,189a/291,No,No,0
+"Invasion of Muraganda",1,110262,Uncommon,MOM,192a/291,No,No,0
+"Invasion of Zendikar",1,110270,Uncommon,MOM,194a/291,No,No,0
+"Iridescent Blademaster",2,110274,Common,MOM,195/291,No,No,0
+"Kami of Whispered Hopes",1,110276,Uncommon,MOM,196/291,No,No,0
+"Overgrown Pest",2,110278,Common,MOM,197/291,No,No,0
+"Placid Rottentail",2,110282,Common,MOM,199/291,No,No,0
+"Portent Tracker",2,110288,Common,MOM,201/291,No,No,0
+"Ravenous Sailback",1,110290,Uncommon,MOM,202/291,No,No,0
+"Sandstalker Moloch",1,110292,Uncommon,MOM,203/291,No,No,0
+"Seed of Hope",2,110294,Common,MOM,204/291,No,No,0
+"Serpent-Blade Assailant",2,110296,Common,MOM,205/291,No,No,0
+"Storm the Seedcore",1,110298,Uncommon,MOM,206/291,No,No,0
+"Streetwise Negotiator",1,110300,Uncommon,MOM,207/291,No,No,0
+"Tandem Takedown",1,110302,Uncommon,MOM,208/291,No,No,0
+"Tangled Skyline",1,110304,Uncommon,MOM,209/291,No,No,0
+"Timberland Ancient",2,110306,Common,MOM,210/291,No,No,0
+"Vengeant Earth",2,110310,Common,MOM,212/291,No,No,0
+"War Historian",2,110316,Common,MOM,214/291,No,No,0
+"Wary Thespian",2,110318,Common,MOM,215/291,No,No,0
+"Wildwood Escort",2,110320,Common,MOM,216/291,No,No,0
+"Botanical Brawler",1,110328,Uncommon,MOM,220/291,No,No,0
+"Elvish Vatkeeper",1,110334,Uncommon,MOM,223/291,No,No,0
+"Halo Forager",1,110342,Uncommon,MOM,227/291,No,No,0
+"Invasion of Amonkhet",1,110352,Uncommon,MOM,231a/291,No,No,0
+"Invasion of Azgol",1,110356,Uncommon,MOM,232a/291,No,No,0
+"Invasion of Ergamon",1,110360,Uncommon,MOM,233a/291,No,No,0
+"Invasion of Kaladesh",1,110364,Uncommon,MOM,234a/291,No,No,0
+"Invasion of Kylem",1,110368,Uncommon,MOM,235a/291,No,No,0
+"Invasion of Lorwyn",1,110372,Uncommon,MOM,236a/291,No,No,0
+"Invasion of Moag",1,110376,Uncommon,MOM,237a/291,No,No,0
+"Invasion of New Capenna",1,110380,Uncommon,MOM,238a/291,No,No,0
+"Invasion of Pyrulea",1,110388,Uncommon,MOM,240a/291,No,No,0
+"Invasion of Xerex",1,110396,Uncommon,MOM,242a/291,No,No,0
+"Joyful Stormsculptor",1,110400,Uncommon,MOM,243/291,No,No,0
+"Marshal of Zhalfir",1,110406,Uncommon,MOM,246/291,No,No,0
+"Mirror-Shield Hoplite",1,110408,Uncommon,MOM,247/291,No,No,0
+"Mutagen Connoisseur",1,110410,Uncommon,MOM,248/291,No,No,0
+"Rampaging Geoderm",1,110416,Uncommon,MOM,251/291,No,No,0
+"Sculpted Perfection",1,110420,Uncommon,MOM,253/291,No,No,0
+"Stormclaw Rager",1,110422,Uncommon,MOM,254/291,No,No,0
+"Flywheel Racer",2,110432,Common,MOM,259/291,No,No,0
+"Halo Hopper",2,110434,Common,MOM,260/291,No,No,0
+"Kitesail",2,110436,Common,MOM,261/291,No,No,0
+"Phyrexian Archivist",2,110438,Common,MOM,262/291,No,No,0
+"Skittering Surveyor",2,110442,Common,MOM,264/291,No,No,0
+"Urn of Godfire",2,110446,Common,MOM,266/291,No,No,0
+"Bloodfell Caves",2,110448,Land,MOM,267/291,No,No,0
+"Blossoming Sands",2,110450,Land,MOM,268/291,No,No,0
+"Dismal Backwater",2,110452,Land,MOM,269/291,No,No,0
+"Jungle Hollow",2,110454,Land,MOM,270/291,No,No,0
+"Rugged Highlands",2,110456,Land,MOM,271/291,No,No,0
+"Scoured Barrens",2,110458,Land,MOM,272/291,No,No,0
+"Swiftwater Cliffs",2,110460,Land,MOM,273/291,No,No,0
+"Thornwood Falls",2,110462,Land,MOM,274/291,No,No,0
+"Tranquil Cove",2,110464,Land,MOM,275/291,No,No,0
+"Wind-Scarred Crag",2,110466,Land,MOM,276/291,No,No,0
+"Aragorn, Company Leader",1,111544,Rare,LTR,410,No,No,0
+"Archon's Glory",2,116292,Common,WOE,2,No,No,0
+"Armory Mice",2,116294,Common,WOE,3,No,No,0
+"Besotted Knight",2,116296,Common,WOE,4,No,No,0
+"Break the Spell",2,116300,Common,WOE,5,No,No,0
+"Charmed Clothier",2,116302,Common,WOE,6,No,No,0
+"Cheeky House-Mouse",1,116304,Uncommon,WOE,7,No,No,0
+"Cooped Up",2,116308,Common,WOE,8,No,No,0
+"Cursed Courtier",1,116310,Uncommon,WOE,9,No,No,0
+"Discerning Financier",1,116312,Uncommon,WOE,10,No,No,0
+"Dutiful Griffin",1,116314,Uncommon,WOE,11,No,No,0
+"Eerie Interference",1,116316,Uncommon,WOE,12,No,No,0
+"Frostbridge Guard",2,116320,Common,WOE,14,No,No,0
+"Gallant Pie-Wielder",1,116322,Uncommon,WOE,15,No,No,0
+"Glass Casket",1,116324,Uncommon,WOE,16,No,No,0
+"Hopeful Vigil",2,116326,Common,WOE,17,No,No,0
+"Kellan's Lightblades",2,116328,Common,WOE,18,No,No,0
+"Knight of Doves",1,116330,Uncommon,WOE,19,No,No,0
+"Moment of Valor",2,116332,Common,WOE,20,No,No,0
+"Plunge into Winter",2,116336,Common,WOE,22,No,No,0
+"The Princess Takes Flight",1,116338,Uncommon,WOE,23,No,No,0
+"Protective Parents",2,116340,Common,WOE,24,No,No,0
+"Return Triumphant",2,116344,Common,WOE,26,No,No,0
+"Rimefur Reindeer",2,116346,Common,WOE,27,No,No,0
+"Savior of the Sleeping",2,116348,Common,WOE,28,No,No,0
+"Slumbering Keepguard",2,116350,Common,WOE,29,No,No,0
+"Solitary Sanctuary",1,116352,Uncommon,WOE,30,No,No,0
+"Stockpiling Celebrant",2,116356,Common,WOE,32,No,No,0
+"Stroke of Midnight",1,116358,Uncommon,WOE,33,No,No,0
+"Tuinvale Guide",2,116364,Common,WOE,36,No,No,0
+"Unassuming Sage",2,116366,Common,WOE,37,No,No,0
+"Aquatic Alchemist",2,116374,Common,WOE,40,No,No,0
+"Archive Dragon",1,116378,Uncommon,WOE,41,No,No,0
+"Beluna's Gatekeeper",2,116382,Common,WOE,43,No,No,0
+"Bitter Chill",1,116386,Uncommon,WOE,44,No,No,0
+"Chancellor of Tales",1,116388,Uncommon,WOE,45,No,No,0
+"Diminisher Witch",2,116390,Common,WOE,46,No,No,0
+"Disdainful Stroke",1,116392,Uncommon,WOE,47,No,No,0
+"Freeze in Place",2,116398,Common,WOE,50,No,No,0
+"Gadwick's First Duel",1,116400,Uncommon,WOE,51,No,No,0
+"Galvanic Giant",1,116402,Uncommon,WOE,52,No,No,0
+"Ice Out",2,116410,Common,WOE,54,No,No,0
+"Icewrought Sentry",1,116412,Uncommon,WOE,55,No,No,0
+"Into the Fae Court",2,116416,Common,WOE,57,No,No,0
+"Johann's Stopgap",2,116418,Common,WOE,58,No,No,0
+"Living Lectern",2,116420,Common,WOE,59,No,No,0
+"Merfolk Coralsmith",2,116422,Common,WOE,60,No,No,0
+"Misleading Motes",2,116424,Common,WOE,61,No,No,0
+"Mocking Sprite",2,116426,Common,WOE,62,No,No,0
+"Obyra's Attendants",2,116428,Common,WOE,63,No,No,0
+"Picklock Prankster",1,116432,Uncommon,WOE,64,No,No,0
+"Quick Study",2,116436,Common,WOE,65,No,No,0
+"Sleight of Hand",2,116440,Common,WOE,67,No,No,0
+"Snaremaster Sprite",2,116442,Common,WOE,68,No,No,0
+"Spell Stutter",2,116444,Common,WOE,69,No,No,0
+"Splashy Spellcaster",1,116446,Uncommon,WOE,70,No,No,0
+"Stormkeld Prowler",2,116448,Common,WOE,71,No,No,0
+"Succumb to the Cold",1,116450,Uncommon,WOE,72,No,No,0
+"Tenacious Tomeseeker",1,116454,Uncommon,WOE,74,No,No,0
+"Vantress Transmuter",2,116456,Common,WOE,75,No,No,0
+"Water Wings",2,116464,Common,WOE,77,No,No,0
+"Ashiok's Reaper",1,116468,Uncommon,WOE,79,No,No,0
+"Back for Seconds",1,116470,Uncommon,WOE,80,No,No,0
+"Barrow Naughty",2,116472,Common,WOE,81,No,No,0
+"Candy Grapple",2,116476,Common,WOE,83,No,No,0
+"Conceited Witch",2,116478,Common,WOE,84,No,No,0
+"Dream Spoilers",1,116482,Uncommon,WOE,85,No,No,0
+"Ego Drain",1,116484,Uncommon,WOE,86,No,No,0
+"Eriette's Whisper",2,116488,Common,WOE,88,No,No,0
+"Faerie Dreamthief",1,116490,Uncommon,WOE,89,No,No,0
+"Faerie Fencing",1,116492,Uncommon,WOE,90,No,No,0
+"Feed the Cauldron",2,116494,Common,WOE,91,No,No,0
+"Fell Horseman",2,116496,Common,WOE,92,No,No,0
+"High Fae Negotiator",1,116504,Uncommon,WOE,94,No,No,0
+"Hopeless Nightmare",2,116506,Common,WOE,95,No,No,0
+"Lord Skitter's Butcher",1,116514,Uncommon,WOE,99,No,No,0
+"Mintstrosity",2,116516,Common,WOE,100,No,No,0
+"Not Dead After All",2,116518,Common,WOE,101,No,No,0
+"Rat Out",2,116522,Common,WOE,103,No,No,0
+"Rowan's Grim Search",2,116524,Common,WOE,104,No,No,0
+"Scream Puff",2,116526,Common,WOE,105,No,No,0
+"Shatter the Oath",2,116528,Common,WOE,106,No,No,0
+"Stingblade Assassin",2,116534,Common,WOE,109,No,No,0
+"Sugar Rush",2,116536,Common,WOE,110,No,No,0
+"Sweettooth Witch",2,116538,Common,WOE,111,No,No,0
+"Taken by Nightmares",1,116540,Uncommon,WOE,112,No,No,0
+"Twisted Sewer-Witch",1,116544,Uncommon,WOE,114,No,No,0
+"Voracious Vermin",2,116550,Common,WOE,116,No,No,0
+"Warehouse Tabby",2,116552,Common,WOE,117,No,No,0
+"Wicked Visitor",2,116554,Common,WOE,118,No,No,0
+"The Witch's Vanity",1,116556,Uncommon,WOE,119,No,No,0
+"Belligerent of the Ball",1,116558,Uncommon,WOE,120,No,No,0
+"Bellowing Bruiser",2,116560,Common,WOE,121,No,No,0
+"Bespoke Battlegarb",2,116564,Common,WOE,122,No,No,0
+"Boundary Lands Ranger",1,116566,Uncommon,WOE,123,No,No,0
+"Cut In",2,116570,Common,WOE,125,No,No,0
+"Edgewall Pack",2,116572,Common,WOE,126,No,No,0
+"Embereth Veteran",1,116574,Uncommon,WOE,127,No,No,0
+"Flick a Coin",2,116576,Common,WOE,128,No,No,0
+"Frantic Firebolt",2,116580,Common,WOE,130,No,No,0
+"Gnawing Crescendo",2,116582,Common,WOE,131,No,No,0
+"Grabby Giant",2,116586,Common,WOE,133,No,No,0
+"Grand Ball Guest",2,116590,Common,WOE,134,No,No,0
+"Harried Spearguard",2,116592,Common,WOE,135,No,No,0
+"Hearth Elemental",1,116594,Uncommon,WOE,136,No,No,0
+"Kindled Heroism",2,116600,Common,WOE,138,No,No,0
+"Korvold and the Noble Thief",1,116602,Uncommon,WOE,139,No,No,0
+"Merry Bards",2,116604,Common,WOE,140,No,No,0
+"Minecart Daredevil",2,116606,Common,WOE,141,No,No,0
+"Monstrous Rage",1,116610,Uncommon,WOE,142,No,No,0
+"Ratcatcher Trainee",2,116614,Common,WOE,144,No,No,0
+"Redcap Thief",2,116622,Common,WOE,147,No,No,0
+"Skewer Slinger",2,116626,Common,WOE,149,No,No,0
+"Stonesplitter Bolt",1,116630,Uncommon,WOE,151,No,No,0
+"Tattered Ratter",1,116632,Uncommon,WOE,152,No,No,0
+"Torch the Tower",1,116634,Common,WOE,153,No,No,0
+"Twisted Fealty",1,116636,Uncommon,WOE,154,No,No,0
+"Two-Headed Hunter",1,116638,Uncommon,WOE,155,No,No,0
+"Unruly Catapult",2,116642,Common,WOE,156,No,No,0
+"Witch's Mark",2,116648,Common,WOE,158,No,No,0
+"Witchstalker Frenzy",1,116650,Uncommon,WOE,159,No,No,0
+"Agatha's Champion",1,116652,Uncommon,WOE,160,No,No,0
+"Beanstalk Wurm",2,116654,Common,WOE,161,No,No,0
+"Bestial Bloodline",2,116658,Common,WOE,162,No,No,0
+"Brave the Wilds",2,116666,Common,WOE,165,No,No,0
+"Commune with Nature",2,116668,Common,WOE,166,No,No,0
+"Curse of the Werefox",2,116670,Common,WOE,167,No,No,0
+"Ferocious Werefox",2,116676,Common,WOE,170,No,No,0
+"Graceful Takedown",1,116680,Uncommon,WOE,171,No,No,0
+"Hamlet Glutton",2,116684,Common,WOE,173,No,No,0
+"Hollow Scavenger",2,116686,Common,WOE,174,No,No,0
+"Howling Galefang",1,116690,Uncommon,WOE,175,No,No,0
+"Leaping Ambush",2,116694,Common,WOE,177,No,No,0
+"Night of the Sweets' Revenge",1,116696,Uncommon,WOE,178,No,No,0
+"Redtooth Genealogist",2,116698,Common,WOE,179,No,No,0
+"Redtooth Vanguard",1,116700,Uncommon,WOE,180,No,No,0
+"Return from the Wilds",2,116702,Common,WOE,181,No,No,0
+"Rootrider Faun",2,116704,Common,WOE,182,No,No,0
+"Royal Treatment",1,116706,Uncommon,WOE,183,No,No,0
+"Skybeast Tracker",2,116710,Common,WOE,185,No,No,0
+"Spider Food",2,116712,Common,WOE,186,No,No,0
+"Stormkeld Vanguard",1,116714,Uncommon,WOE,187,No,No,0
+"Tanglespan Lookout",1,116718,Uncommon,WOE,188,No,No,0
+"Territorial Witchstalker",2,116720,Common,WOE,189,No,No,0
+"Titanic Growth",2,116724,Common,WOE,191,No,No,0
+"Toadstool Admirer",2,116726,Common,WOE,192,No,No,0
+"Tough Cookie",1,116728,Uncommon,WOE,193,No,No,0
+"Troublemaker Ouphe",2,116730,Common,WOE,194,No,No,0
+"Up the Beanstalk",1,116732,Uncommon,WOE,195,No,No,0
+"Verdant Outrider",2,116734,Common,WOE,196,No,No,0
+"Welcome to Sweettooth",1,116740,Uncommon,WOE,198,No,No,0
+"Ash, Party Crasher",1,116746,Uncommon,WOE,201,No,No,0
+"Greta, Sweettooth Scourge",1,116754,Uncommon,WOE,205,No,No,0
+"Johann, Apprentice Sorcerer",1,116758,Uncommon,WOE,207,No,No,0
+"Neva, Stalked by Nightmares",1,116762,Uncommon,WOE,209,No,No,0
+"Obyra, Dreaming Duelist",1,116764,Uncommon,WOE,210,No,No,0
+"Ruby, Daring Tracker",1,116768,Uncommon,WOE,212,No,No,0
+"Sharae of Numbing Depths",1,116770,Uncommon,WOE,213,No,No,0
+"Syr Armont, the Redeemer",1,116772,Uncommon,WOE,214,No,No,0
+"Totentanz, Swarm Piper",1,116776,Uncommon,WOE,216,No,No,0
+"Troyan, Gutsy Explorer",1,116778,Uncommon,WOE,217,No,No,0
+"Callous Sell-Sword",1,116788,Uncommon,WOE,221,No,No,0
+"Frolicking Familiar",1,116808,Uncommon,WOE,226,No,No,0
+"Gingerbread Hunter",1,116812,Uncommon,WOE,227,No,No,0
+"Imodane's Recruiter",1,116820,Uncommon,WOE,229,No,No,0
+"Picnic Ruiner",1,116832,Uncommon,WOE,232,No,No,0
+"Shrouded Shepherd",1,116848,Uncommon,WOE,236,No,No,0
+"Spellscorn Coven",1,116852,Uncommon,WOE,237,No,No,0
+"Tempest Hart",1,116856,Uncommon,WOE,238,No,No,0
+"Threadbind Clique",1,116860,Uncommon,WOE,239,No,No,0
+"Woodland Acolyte",1,116868,Uncommon,WOE,241,No,No,0
+"Candy Trail",2,116874,Common,WOE,243,No,No,0
+"Collector's Vault",1,116876,Uncommon,WOE,244,No,No,0
+"Eriette's Tempting Apple",1,116878,Uncommon,WOE,245,No,No,0
+"Gingerbrute",2,116880,Common,WOE,246,No,No,0
+"Hylda's Crown of Winter",1,116882,Rare,WOE,247,No,No,0
+"Prophetic Prism",2,116886,Common,WOE,249,No,No,0
+"Scarecrow Guide",2,116888,Common,WOE,250,No,No,0
+"Three Bowls of Porridge",1,116894,Uncommon,WOE,253,No,No,0
+"Crystal Grotto",2,116896,Common,WOE,254,No,No,0
+"Edgewall Inn",1,116898,Uncommon,WOE,255,No,No,0
+"Evolving Wilds",2,116900,Common,WOE,256,No,No,0
+"Acrobatic Leap",2,117780,Common,LCI,2,No,No,0
+"Adaptive Gemguard",2,117782,Common,LCI,3,No,No,0
+"Attentive Sunscribe",2,117784,Common,LCI,4,No,No,0
+"Bat Colony",1,117786,Uncommon,LCI,5,No,No,0
+"Clay-Fired Bricks",1,117788,Uncommon,LCI,6a,No,No,0
+"Cosmium Blast",2,117792,Common,LCI,7,No,No,0
+"Dauntless Dismantler",1,117794,Uncommon,LCI,8,No,No,0
+"Deconstruction Hammer",2,117796,Common,LCI,9,No,No,0
+"Dusk Rose Reliquary",1,117798,Uncommon,LCI,10,No,No,0
+"Envoy of Okinec Ahau",2,117800,Common,LCI,11,No,No,0
+"Family Reunion",2,117804,Common,LCI,13,No,No,0
+"Glorifier of Suffering",2,117808,Common,LCI,15,No,No,0
+"Guardian of the Great Door",1,117810,Uncommon,LCI,16,No,No,0
+"Helping Hand",1,117812,Uncommon,LCI,17,No,No,0
+"Ironpaw Aspirant",2,117814,Common,LCI,18,No,No,0
+"Kinjalli's Dawnrunner",1,117816,Uncommon,LCI,19,No,No,0
+"Malamet War Scribe",1,117820,Uncommon,LCI,21,No,No,0
+"Market Gnome",1,117822,Uncommon,LCI,22,No,No,0
+"Might of the Ancestors",1,117824,Uncommon,LCI,23,No,No,0
+"Miner's Guidewing",2,117826,Common,LCI,24,No,No,0
+"Mischievous Pup",1,117828,Uncommon,LCI,25,No,No,0
+"Oltec Archaeologists",2,117834,Common,LCI,27,No,No,0
+"Oltec Cloud Guard",2,117836,Common,LCI,28,No,No,0
+"Oteclan Landmark",2,117838,Common,LCI,29a,No,No,0
+"Petrify",2,117842,Common,LCI,30,No,No,0
+"Quicksand Whirlpool",2,117844,Common,LCI,31,No,No,0
+"Ruin-Lurker Bat",1,117848,Uncommon,LCI,33,No,No,0
+"Soaring Sandwing",2,117852,Common,LCI,35,No,No,0
+"Spring-Loaded Sawblades",1,117854,Uncommon,LCI,36a,No,No,0
+"Thousand Moons Crackshot",2,117858,Common,LCI,37,No,No,0
+"Thousand Moons Infantry",2,117860,Common,LCI,38,No,No,0
+"Tinker's Tote",2,117866,Common,LCI,40,No,No,0
+"Vanguard of the Rose",1,117872,Uncommon,LCI,42,No,No,0
+"Ancestral Reminiscence",2,117878,Common,LCI,45,No,No,0
+"Brackish Blunder",2,117880,Common,LCI,46,No,No,0
+"Chart a Course",1,117886,Uncommon,LCI,48,No,No,0
+"Cogwork Wrestler",2,117888,Common,LCI,49,No,No,0
+"Confounding Riddle",1,117890,Uncommon,LCI,50,No,No,0
+"Council of Echoes",1,117892,Uncommon,LCI,51,No,No,0
+"Didact Echo",2,117896,Common,LCI,53,No,No,0
+"Eaten by Piranhas",1,117898,Uncommon,LCI,54,No,No,0
+"Frilled Cave-Wurm",2,117908,Common,LCI,57,No,No,0
+"Hermitic Nautilus",1,117910,Uncommon,LCI,58,No,No,0
+"Hurl into History",1,117912,Uncommon,LCI,59,No,No,0
+"Inverted Iceberg",2,117914,Common,LCI,60a,No,No,0
+"Lodestone Needle",1,117920,Uncommon,LCI,62a,No,No,0
+"Marauding Brinefang",2,117926,Common,LCI,64,No,No,0
+"Merfolk Cave-Diver",1,117928,Uncommon,LCI,65,No,No,0
+"Oaken Siren",2,117930,Common,LCI,66,No,No,0
+"Orazca Puzzle-Door",2,117936,Common,LCI,68,No,No,0
+"Out of Air",2,117938,Common,LCI,69,No,No,0
+"Pirate Hat",2,117940,Common,LCI,70,No,No,0
+"Relic's Roar",2,117942,Common,LCI,71,No,No,0
+"River Herald Scout",2,117944,Common,LCI,72,No,No,0
+"Sage of Days",2,117946,Common,LCI,73,No,No,0
+"Self-Reflection",1,117948,Uncommon,LCI,74,No,No,0
+"Shipwreck Sentry",2,117950,Common,LCI,75,No,No,0
+"Sinuous Benthisaur",1,117952,Uncommon,LCI,76,No,No,0
+"Song of Stupefaction",2,117954,Common,LCI,77,No,No,0
+"Spyglass Siren",1,117956,Uncommon,LCI,78,No,No,0
+"Staunch Crewmate",1,117958,Uncommon,LCI,79,No,No,0
+"Unlucky Drop",2,117964,Common,LCI,82,No,No,0
+"Waterlogged Hulk",1,117966,Uncommon,LCI,83a,No,No,0
+"Waterwind Scout",2,117970,Common,LCI,84,No,No,0
+"Waylaying Pirates",2,117972,Common,LCI,85,No,No,0
+"Zoetic Glyph",1,117974,Uncommon,LCI,86,No,No,0
+"Abyssal Gorestalker",1,117976,Uncommon,LCI,87,No,No,0
+"Acolyte of Aclazotz",2,117982,Common,LCI,89,No,No,0
+"Another Chance",2,117984,Common,LCI,90,No,No,0
+"Bitter Triumph",1,117986,Uncommon,LCI,91,No,No,0
+"Bloodthorn Flail",1,117990,Uncommon,LCI,93,No,No,0
+"Broodrage Mycoid",2,117994,Common,LCI,95,No,No,0
+"Canonized in Blood",1,117996,Uncommon,LCI,96,No,No,0
+"Chupacabra Echo",1,117998,Uncommon,LCI,97,No,No,0
+"Dead Weight",2,118002,Common,LCI,99,No,No,0
+"Deathcap Marionette",2,118004,Common,LCI,100,No,No,0
+"Deep Goblin Skulltaker",2,118006,Common,LCI,101,No,No,0
+"Defossilize",1,118010,Uncommon,LCI,103,No,No,0
+"Echo of Dusk",2,118012,Common,LCI,104,No,No,0
+"Fanatical Offering",2,118014,Common,LCI,105,No,No,0
+"Fungal Fortitude",2,118016,Common,LCI,106,No,No,0
+"Gargantuan Leech",1,118018,Uncommon,LCI,107,No,No,0
+"Grasping Shadows",1,118020,Uncommon,LCI,108a,No,No,0
+"Greedy Freebooter",2,118024,Common,LCI,109,No,No,0
+"Join the Dead",2,118026,Common,LCI,110,No,No,0
+"Malicious Eclipse",1,118028,Uncommon,LCI,111,No,No,0
+"Mephitic Draught",2,118030,Common,LCI,112,No,No,0
+"Primordial Gnawer",2,118034,Common,LCI,114,No,No,0
+"Rampaging Spiketail",2,118038,Common,LCI,116,No,No,0
+"Ray of Ruin",2,118040,Common,LCI,117,No,No,0
+"Screaming Phantom",2,118042,Common,LCI,118,No,No,0
+"Skullcap Snail",2,118044,Common,LCI,119,No,No,0
+"Soulcoil Viper",1,118046,Uncommon,LCI,120,No,No,0
+"Stinging Cave Crawler",1,118054,Uncommon,LCI,124,No,No,0
+"Synapse Necromage",1,118056,Uncommon,LCI,125,No,No,0
+"Tithing Blade",2,118064,Common,LCI,128a,No,No,0
+"Visage of Dread",1,118068,Uncommon,LCI,129a,No,No,0
+"Vito's Inquisitor",2,118072,Common,LCI,130,No,No,0
+"Abrade",2,118074,Common,LCI,131,No,No,0
+"Ancestors' Aid",2,118076,Common,LCI,132,No,No,0
+"Belligerent Yearling",1,118078,Uncommon,LCI,133,No,No,0
+"Brazen Blademaster",2,118086,Common,LCI,136,No,No,0
+"Burning Sun Cavalry",2,118090,Common,LCI,138,No,No,0
+"Calamitous Cave-In",1,118092,Uncommon,LCI,139,No,No,0
+"Child of the Volcano",2,118094,Common,LCI,140,No,No,0
+"Curator of Sun's Creation",1,118096,Uncommon,LCI,141,No,No,0
+"Daring Discovery",2,118098,Common,LCI,142,No,No,0
+"Diamond Pick-Axe",1,118100,Uncommon,LCI,143,No,No,0
+"Dinotomaton",2,118102,Common,LCI,144,No,No,0
+"Dowsing Device",1,118108,Uncommon,LCI,146a,No,No,0
+"Dreadmaw's Ire",1,118112,Uncommon,LCI,147,No,No,0
+"Enterprising Scallywag",1,118114,Uncommon,LCI,148,No,No,0
+"Etali's Favor",2,118116,Common,LCI,149,No,No,0
+"Geological Appraiser",1,118118,Uncommon,LCI,150,No,No,0
+"Goblin Tomb Raider",2,118120,Common,LCI,151,No,No,0
+"Goldfury Strider",1,118122,Uncommon,LCI,152,No,No,0
+"Hotfoot Gnome",2,118126,Common,LCI,154,No,No,0
+"Idol of the Deep King",2,118128,Common,LCI,155a,No,No,0
+"Panicked Altisaur",2,118140,Common,LCI,159,No,No,0
+"Plundering Pirate",2,118142,Common,LCI,160,No,No,0
+"Rampaging Ceratops",1,118146,Uncommon,LCI,162,No,No,0
+"Rumbling Rockslide",2,118148,Common,LCI,163,No,No,0
+"Saheeli's Lattice",1,118150,Uncommon,LCI,164a,No,No,0
+"Scytheclaw Raptor",1,118154,Uncommon,LCI,165,No,No,0
+"Seismic Monstrosaur",2,118156,Common,LCI,166,No,No,0
+"Sunfire Torch",2,118158,Common,LCI,167,No,No,0
+"Sunshot Militia",2,118160,Common,LCI,168,No,No,0
+"Tectonic Hazard",2,118162,Common,LCI,169,No,No,0
+"Triumphant Chomp",1,118164,Uncommon,LCI,170,No,No,0
+"Volatile Wanderglyph",2,118168,Common,LCI,172,No,No,0
+"Zoyowa's Justice",1,118170,Uncommon,LCI,173,No,No,0
+"Armored Kincaller",2,118172,Common,LCI,174,No,No,0
+"Basking Capybara",2,118174,Common,LCI,175,No,No,0
+"Cavern Stomper",2,118178,Common,LCI,177,No,No,0
+"Cenote Scout",1,118180,Uncommon,LCI,178,No,No,0
+"Coati Scavenger",1,118182,Uncommon,LCI,179,No,No,0
+"Colossadactyl",1,118184,Uncommon,LCI,180,No,No,0
+"Disturbed Slumber",2,118188,Common,LCI,182,No,No,0
+"Earthshaker Dreadmaw",1,118190,Uncommon,LCI,183,No,No,0
+"Explorer's Cache",1,118192,Uncommon,LCI,184,No,No,0
+"Glimpse the Core",1,118196,Uncommon,LCI,186,No,No,0
+"Glowcap Lantern",1,118198,Uncommon,LCI,187,No,No,0
+"Huatli's Final Strike",2,118208,Common,LCI,190,No,No,0
+"In the Presence of Ages",2,118212,Common,LCI,192,No,No,0
+"Ixalli's Lorekeeper",1,118216,Uncommon,LCI,194,No,No,0
+"Jade Seedstones",1,118218,Uncommon,LCI,195a,No,No,0
+"Kaslem's Stonetree",2,118224,Common,LCI,197a,No,No,0
+"Malamet Battle Glyph",1,118228,Uncommon,LCI,198,No,No,0
+"Malamet Brawler",2,118230,Common,LCI,199,No,No,0
+"Malamet Scythe",2,118232,Common,LCI,200,No,No,0
+"Malamet Veteran",2,118234,Common,LCI,201,No,No,0
+"Mineshaft Spider",2,118236,Common,LCI,202,No,No,0
+"Nurturing Bristleback",2,118238,Common,LCI,203,No,No,0
+"Over the Edge",2,118244,Common,LCI,205,No,No,0
+"Pathfinding Axejaw",2,118246,Common,LCI,206,No,No,0
+"Poison Dart Frog",2,118248,Common,LCI,207,No,No,0
+"River Herald Guide",2,118252,Common,LCI,209,No,No,0
+"Seeker of Sunlight",2,118254,Common,LCI,210,No,No,0
+"Spelunking",1,118260,Uncommon,LCI,213,No,No,0
+"Staggering Size",2,118262,Common,LCI,214,No,No,0
+"Tendril of the Mycotyrant",1,118264,Uncommon,LCI,215,No,No,0
+"Thrashing Brontodon",1,118266,Uncommon,LCI,216,No,No,0
+"Twists and Turns",1,118268,Uncommon,LCI,217a,No,No,0
+"Walk with the Ancestors",2,118272,Common,LCI,218,No,No,0
+"Akawalli, the Seething Tower",1,118276,Uncommon,LCI,220,No,No,0
+"Bartolomé del Presidio",1,118284,Uncommon,LCI,224,No,No,0
+"Caparocti Sunborn",1,118288,Uncommon,LCI,226,No,No,0
+"Captain Storm, Cosmium Raider",1,118290,Uncommon,LCI,227,No,No,0
+"Itzquinth, Firstborn of Gishath",1,118296,Uncommon,LCI,230,No,No,0
+"Kutzil, Malamet Exemplar",1,118302,Uncommon,LCI,232,No,No,0
+"Master's Guide-Mural",1,118304,Uncommon,LCI,233a,No,No,0
+"Nicanzil, Current Conductor",1,118312,Uncommon,LCI,236,No,No,0
+"Uchbenbak, the Great Mistake",1,118324,Uncommon,LCI,242,No,No,0
+"Zoyowa Lava-Tongue",1,118330,Uncommon,LCI,245,No,No,0
+"Buried Treasure",2,118332,Common,LCI,246,No,No,0
+"Careening Mine Cart",1,118334,Uncommon,LCI,247,No,No,0
+"Cartographer's Companion",2,118336,Common,LCI,248,No,No,0
+"Compass Gnome",2,118340,Common,LCI,250,No,No,0
+"Contested Game Ball",1,118342,Uncommon,LCI,251,No,No,0
+"Digsite Conservator",1,118344,Uncommon,LCI,252,No,No,0
+"Disruptor Wanderglyph",2,118346,Common,LCI,253,No,No,0
+"Hoverstone Pilgrim",1,118348,Uncommon,LCI,254,No,No,0
+"Hunter's Blowgun",2,118350,Common,LCI,255,No,No,0
+"Runaway Boulder",2,118360,Common,LCI,259,No,No,0
+"Scampering Surveyor",1,118362,Uncommon,LCI,260,No,No,0
+"Sorcerous Spyglass",1,118364,Uncommon,LCI,261,No,No,0
+"Sunbird Standard",1,118366,Uncommon,LCI,262a,No,No,0
+"Swashbuckler's Whip",1,118370,Uncommon,LCI,263,No,No,0
+"Captivating Cave",2,118384,Land,LCI,268,No,No,0
+"Cavernous Maw",1,118388,Uncommon,LCI,270,No,No,0
+"Forgotten Monument",1,118392,Uncommon,LCI,272,No,No,0
+"Hidden Cataract",2,118394,Land,LCI,273,No,No,0
+"Hidden Courtyard",2,118396,Land,LCI,274,No,No,0
+"Hidden Necropolis",2,118398,Land,LCI,275,No,No,0
+"Hidden Nursery",2,118400,Land,LCI,276,No,No,0
+"Hidden Volcano",2,118402,Land,LCI,277,No,No,0
+"Pit of Offerings",1,118404,Uncommon,LCI,278,No,No,0
+"Promising Vein",2,118406,Land,LCI,279,No,No,0
+"Volatile Fault",1,118420,Uncommon,LCI,286,No,No,0
+"Plains",2,118422,Land,LCI,287,No,No,0
+"Island",2,118424,Land,LCI,288,No,No,0
+"Swamp",2,118426,Land,LCI,289,No,No,0
+"Mountain",2,118428,Land,LCI,290,No,No,0
+"Forest",2,118430,Land,LCI,291,No,No,0
+"Plains",2,118432,Land,LCI,393,No,No,0
+"Plains",2,118434,Land,LCI,394,No,No,0
+"Island",2,118436,Land,LCI,395,No,No,0
+"Island",2,118438,Land,LCI,396,No,No,0
+"Swamp",2,118440,Land,LCI,397,No,No,0
+"Swamp",2,118442,Land,LCI,398,No,No,0
+"Mountain",2,118444,Land,LCI,399,No,No,0
+"Mountain",2,118446,Land,LCI,400,No,No,0
+"Forest",2,118448,Land,LCI,401,No,No,0
+"Forest",2,118450,Land,LCI,402,No,No,0
+"Call a Surprise Witness",2,121161,Promo,MKM,289,Yes,No,0
+"Not on My Watch",1,121165,Promo,MKM,291,Yes,No,0
+"On the Job",1,121167,Promo,MKM,292,Yes,No,0
+"Deduce",1,121169,Promo,MKM,293,Yes,No,0
+"Dramatic Accusation",1,121171,Promo,MKM,294,Yes,No,0
+"Fae Flight",1,121173,Promo,MKM,295,Yes,No,0
+"Murder",2,121183,Promo,MKM,300,Yes,No,0
+"Slice from the Shadows",1,121185,Promo,MKM,301,Yes,No,0
+"Anzrag's Rampage",1,121188,Promo,MKM,303,No,No,0
+"Demand Answers",1,121195,Promo,MKM,306,Yes,No,0
+"Coerced to Kill",1,121205,Promo,MKM,311,Yes,No,0
+"Deadly Complication",1,121207,Promo,MKM,312,Yes,No,0
+"Lightning Helix",1,121223,Promo,MKM,426,Yes,No,0
+"No More Lies",1,121225,Promo,MKM,427,Yes,No,0
+"Neighborhood Guardian",2,121319,Promo,MKM,339,Yes,No,0
+"Persuasive Interrogators",1,121331,Promo,MKM,345,Yes,No,0
+"Frantic Scapegoat",2,121335,Promo,MKM,347,Yes,No,0
+"Curious Cadaver",1,121357,Promo,MKM,358,Yes,No,0
+"Izoni, Center of the Web",1,121364,Promo,MKM,362,No,No,0
+"Kraul Whipcracker",1,121369,Promo,MKM,364,Yes,No,0
+"Magnetic Snuffler",2,121393,Promo,MKM,376,Yes,No,0
+"Case of the Shattered Pact",1,121492,Uncommon,MKM,1,No,No,0
+"Absolving Lammasu",1,121494,Uncommon,MKM,2,No,No,0
+"Auspicious Arrival",2,121500,Common,MKM,5,No,No,0
+"Call a Surprise Witness",1,121502,Uncommon,MKM,6,No,No,0
+"Case of the Pilfered Proof",1,121506,Uncommon,MKM,9,No,No,0
+"Defenestrated Phantom",2,121510,Common,MKM,11,No,No,0
+"Due Diligence",2,121516,Common,MKM,14,No,No,0
+"Essence of Antiquity",1,121518,Uncommon,MKM,15,No,No,0
+"Forum Familiar",1,121520,Uncommon,MKM,16,No,No,0
+"Griffnaut Tracker",2,121522,Common,MKM,17,No,No,0
+"Haazda Vigilante",2,121524,Common,MKM,18,No,No,0
+"Inside Source",2,121526,Common,MKM,19,No,No,0
+"Karlov Watchdog",1,121528,Uncommon,MKM,20,No,No,0
+"Krovod Haunch",1,121530,Uncommon,MKM,21,No,No,0
+"Make Your Move",2,121532,Common,MKM,22,No,No,0
+"Makeshift Binding",2,121534,Common,MKM,23,No,No,0
+"Marketwatch Phantom",2,121536,Common,MKM,24,No,No,0
+"Museum Nightwatch",2,121538,Common,MKM,25,No,No,0
+"Neighborhood Guardian",1,121540,Uncommon,MKM,26,No,No,0
+"Not on My Watch",1,121544,Uncommon,MKM,28,No,No,0
+"On the Job",2,121548,Common,MKM,30,No,No,0
+"Perimeter Enforcer",1,121550,Uncommon,MKM,31,No,No,0
+"Sanctuary Wall",1,121552,Uncommon,MKM,32,No,No,0
+"Seasoned Consultant",2,121554,Common,MKM,33,No,No,0
+"Wrench",1,121560,Uncommon,MKM,37,No,No,0
+"Agency Outfitter",1,121562,Uncommon,MKM,38,No,No,0
+"Behind the Mask",2,121564,Common,MKM,39,No,No,0
+"Benthic Criminologists",2,121566,Common,MKM,40,No,No,0
+"Bubble Smuggler",2,121568,Common,MKM,41,No,No,0
+"Burden of Proof",1,121570,Uncommon,MKM,42,No,No,0
+"Candlestick",1,121572,Uncommon,MKM,43,No,No,0
+"Case of the Filched Falcon",1,121574,Uncommon,MKM,44,No,No,0
+"Cold Case Cracker",2,121578,Common,MKM,46,No,No,0
+"Crimestopper Sprite",2,121584,Common,MKM,49,No,No,0
+"Curious Inquiry",1,121588,Uncommon,MKM,51,No,No,0
+"Deduce",2,121590,Common,MKM,52,No,No,0
+"Dramatic Accusation",2,121592,Common,MKM,53,No,No,0
+"Eliminate the Impossible",1,121594,Uncommon,MKM,54,No,No,0
+"Exit Specialist",1,121596,Uncommon,MKM,55,No,No,0
+"Fae Flight",1,121598,Uncommon,MKM,56,No,No,0
+"Forensic Researcher",1,121602,Uncommon,MKM,58,No,No,0
+"Furtive Courier",1,121604,Uncommon,MKM,59,No,No,0
+"Hotshot Investigators",2,121606,Common,MKM,60,No,No,0
+"Jaded Analyst",2,121610,Common,MKM,62,No,No,0
+"Living Conundrum",1,121612,Uncommon,MKM,63,No,No,0
+"Mistway Spy",1,121616,Uncommon,MKM,65,No,No,0
+"Out Cold",2,121618,Common,MKM,66,No,No,0
+"Projektor Inspector",2,121622,Common,MKM,68,No,No,0
+"Reasonable Doubt",2,121624,Common,MKM,69,No,No,0
+"Unauthorized Exit",2,121630,Common,MKM,74,No,No,0
+"Agency Coroner",2,121632,Common,MKM,75,No,No,0
+"Alley Assailant",2,121634,Common,MKM,76,No,No,0
+"Basilica Stalker",2,121638,Common,MKM,78,No,No,0
+"Cerebral Confiscation",2,121642,Common,MKM,81,No,No,0
+"Extract a Confession",2,121646,Common,MKM,84,No,No,0
+"Festerleech",1,121648,Uncommon,MKM,85,No,No,0
+"It Doesn't Add Up",1,121656,Uncommon,MKM,89,No,No,0
+"Lead Pipe",1,121658,Uncommon,MKM,90,No,No,0
+"Leering Onlooker",1,121660,Uncommon,MKM,91,No,No,0
+"Macabre Reconstruction",2,121664,Common,MKM,93,No,No,0
+"Murder",2,121668,Common,MKM,95,No,No,0
+"Nightdrinker Moroii",1,121670,Uncommon,MKM,96,No,No,0
+"Persuasive Interrogators",1,121674,Uncommon,MKM,98,No,No,0
+"Polygraph Orb",1,121676,Uncommon,MKM,99,No,No,0
+"Presumed Dead",1,121678,Uncommon,MKM,100,No,No,0
+"Repeat Offender",2,121680,Common,MKM,101,No,No,0
+"Rot Farm Mortipede",2,121682,Common,MKM,102,No,No,0
+"Slice from the Shadows",2,121684,Common,MKM,103,No,No,0
+"Slimy Dualleech",1,121686,Uncommon,MKM,104,No,No,0
+"Snarling Gorehound",2,121688,Common,MKM,105,No,No,0
+"Soul Enervation",1,121690,Uncommon,MKM,106,No,No,0
+"Toxin Analysis",2,121692,Common,MKM,107,No,No,0
+"Undercity Eliminator",1,121694,Uncommon,MKM,108,No,No,0
+"Unscrupulous Agent",2,121696,Common,MKM,109,No,No,0
+"Anzrag's Rampage",1,121700,Rare,MKM,111,No,No,0
+"Bolrac-Clan Basher",1,121702,Uncommon,MKM,112,No,No,0
+"Case of the Burning Masks",1,121704,Uncommon,MKM,113,No,No,0
+"Caught Red-Handed",1,121708,Uncommon,MKM,115,No,No,0
+"The Chase Is On",2,121710,Common,MKM,116,No,No,0
+"Concealed Weapon",1,121712,Uncommon,MKM,117,No,No,0
+"Convenient Target",1,121716,Uncommon,MKM,119,No,No,0
+"Cornered Crook",1,121718,Uncommon,MKM,120,No,No,0
+"Crime Novelist",1,121720,Uncommon,MKM,121,No,No,0
+"Demand Answers",2,121722,Common,MKM,122,No,No,0
+"Expose the Culprit",1,121726,Uncommon,MKM,124,No,No,0
+"Felonious Rage",2,121728,Common,MKM,125,No,No,0
+"Frantic Scapegoat",1,121730,Uncommon,MKM,126,No,No,0
+"Galvanize",2,121734,Common,MKM,128,No,No,0
+"Gearbane Orangutan",2,121736,Common,MKM,129,No,No,0
+"Goblin Maskmaker",2,121738,Common,MKM,130,No,No,0
+"Harried Dronesmith",1,121740,Uncommon,MKM,131,No,No,0
+"Innocent Bystander",2,121744,Common,MKM,133,No,No,0
+"Knife",1,121746,Uncommon,MKM,134,No,No,0
+"Offender at Large",2,121754,Common,MKM,138,No,No,0
+"Person of Interest",2,121756,Common,MKM,139,No,No,0
+"Reckless Detective",1,121760,Uncommon,MKM,141,No,No,0
+"Red Herring",2,121762,Common,MKM,142,No,No,0
+"Rubblebelt Braggart",2,121764,Common,MKM,143,No,No,0
+"Shock",2,121766,Common,MKM,144,No,No,0
+"Suspicious Detonation",2,121768,Common,MKM,145,No,No,0
+"Vengeful Tracker",1,121770,Uncommon,MKM,147,No,No,0
+"Airtight Alibi",2,121774,Common,MKM,149,No,No,0
+"Bite Down on Crime",2,121784,Common,MKM,154,No,No,0
+"Case of the Trampled Garden",1,121788,Uncommon,MKM,156,No,No,0
+"Chalk Outline",1,121790,Uncommon,MKM,157,No,No,0
+"Culvert Ambusher",1,121792,Uncommon,MKM,158,No,No,0
+"Fanatical Strength",2,121794,Common,MKM,159,No,No,0
+"Flourishing Bloom-Kin",1,121796,Uncommon,MKM,160,No,No,0
+"Get a Leg Up",1,121798,Uncommon,MKM,161,No,No,0
+"Glint Weaver",1,121800,Uncommon,MKM,162,No,No,0
+"Greenbelt Radical",1,121802,Uncommon,MKM,163,No,No,0
+"Hard-Hitting Question",1,121804,Uncommon,MKM,164,No,No,0
+"Hedge Whisperer",1,121806,Uncommon,MKM,165,No,No,0
+"A Killer Among Us",1,121810,Uncommon,MKM,167,No,No,0
+"Loxodon Eavesdropper",2,121812,Common,MKM,168,No,No,0
+"Nervous Gardener",2,121814,Common,MKM,169,No,No,0
+"Pick Your Poison",2,121816,Common,MKM,170,No,No,0
+"Pompous Gadabout",1,121818,Uncommon,MKM,171,No,No,0
+"Rope",1,121822,Uncommon,MKM,173,No,No,0
+"Rubblebelt Maverick",2,121824,Common,MKM,174,No,No,0
+"Sample Collector",1,121826,Uncommon,MKM,175,No,No,0
+"Slime Against Humanity",2,121830,Common,MKM,177,No,No,0
+"They Went This Way",2,121832,Common,MKM,178,No,No,0
+"Topiary Panther",2,121834,Common,MKM,179,No,No,0
+"Tunnel Tipster",2,121836,Common,MKM,180,No,No,0
+"Vengeful Creeper",2,121840,Common,MKM,182,No,No,0
+"Vitu-Ghazi Inspector",2,121842,Common,MKM,183,No,No,0
+"Buried in the Garden",1,121856,Uncommon,MKM,191,No,No,0
+"Coerced to Kill",1,121858,Uncommon,MKM,192,No,No,0
+"Crowd-Control Warden",2,121860,Common,MKM,193,No,No,0
+"Curious Cadaver",1,121862,Uncommon,MKM,194,No,No,0
+"Deadly Complication",1,121864,Uncommon,MKM,195,No,No,0
+"Detective's Satchel",1,121866,Uncommon,MKM,196,No,No,0
+"Dog Walker",2,121868,Common,MKM,197,No,No,0
+"Evidence Examiner",1,121876,Uncommon,MKM,201,No,No,0
+"Faerie Snoop",2,121880,Common,MKM,203,No,No,0
+"Gadget Technician",2,121882,Common,MKM,204,No,No,0
+"Gleaming Geardrake",1,121884,Uncommon,MKM,205,No,No,0
+"Granite Witness",2,121886,Common,MKM,206,No,No,0
+"Insidious Roots",1,121890,Uncommon,MKM,208,No,No,0
+"Lightning Helix",1,121910,Uncommon,MKM,218,No,No,0
+"Meddling Youths",1,121912,Uncommon,MKM,219,No,No,0
+"Private Eye",1,121920,Uncommon,MKM,223,No,No,0
+"Rakish Scoundrel",2,121924,Common,MKM,225,No,No,0
+"Repulsive Mutation",1,121928,Uncommon,MKM,227,No,No,0
+"Riftburst Hellion",2,121930,Common,MKM,228,No,No,0
+"Rune-Brand Juggler",1,121932,Uncommon,MKM,229,No,No,0
+"Sanguine Savior",2,121934,Common,MKM,230,No,No,0
+"Shady Informant",2,121936,Common,MKM,231,No,No,0
+"Soul Search",1,121938,Uncommon,MKM,232,No,No,0
+"Sumala Sentry",1,121940,Uncommon,MKM,233,No,No,0
+"Tin Street Gossip",1,121944,Uncommon,MKM,235,No,No,0
+"Wispdrinker Vampire",1,121958,Uncommon,MKM,243,No,No,0
+"Cease/Desist",1,121964,Uncommon,MKM,,No,No,0
+"Flotsam/Jetsam",1,121970,Uncommon,MKM,,No,No,0
+"Fuss/Bother",1,121976,Uncommon,MKM,,No,No,0
+"Hustle/Bustle",1,121982,Uncommon,MKM,,No,No,0
+"Push/Pull",1,121988,Uncommon,MKM,,No,No,0
+"Gravestone Strider",2,121996,Common,MKM,252,No,No,0
+"Lumbering Laundry",1,121998,Uncommon,MKM,253,No,No,0
+"Magnetic Snuffler",1,122000,Uncommon,MKM,254,No,No,0
+"Magnifying Glass",2,122002,Common,MKM,255,No,No,0
+"Sanitation Automaton",2,122004,Common,MKM,256,No,No,0
+"Thinking Cap",2,122006,Common,MKM,257,No,No,0
+"Branch of Vitu-Ghazi",1,122008,Uncommon,MKM,258,No,No,0
+"Escape Tunnel",2,122014,Common,MKM,261,No,No,0
+"Public Thoroughfare",2,122022,Common,MKM,265,No,No,0
+"Scene of the Crime",1,122026,Uncommon,MKM,267,No,No,0
+"Case File Auditor",1,122036,Uncommon,MKM,a7,No,No,0
+"Sudden Setback",1,122040,Uncommon,MKM,a72,No,No,0
+"Surveillance Monitor",1,122042,Uncommon,MKM,a73,No,No,0
+"Case of the Gorgon's Kiss",1,122044,Uncommon,MKM,a79,No,No,0
+"Clandestine Meddler",1,122046,Uncommon,MKM,a82,No,No,0
+"Torch the Witness",1,122048,Uncommon,MKM,a146,No,No,0
+"Break Out",1,122050,Uncommon,MKM,a190,No,No,0
+"Kraul Whipcracker",1,122052,Uncommon,MKM,a213,No,No,0
+"Undercover Crocodelf",2,122054,Common,MKM,a239,No,No,0
+"Plains",1,122057,Land,MKM,272,Yes,No,0
+"Swamp",1,122061,Land,MKM,274,Yes,No,0
+"Case File Auditor",1,123490,Promo,MKM,b7,Yes,No,0
+"Sudden Setback",1,123494,Promo,MKM,b72,Yes,No,0
+"Break Out",1,123504,Promo,MKM,b190,Yes,No,0
+"Kraul Whipcracker",1,123506,Promo,MKM,b213,Yes,No,0
+"Essence Capture",1,123584,Uncommon,OTP,10,Yes,No,0
+"Thornado",1,123630,Uncommon,OTP,33,Yes,No,0
+"Buried in the Garden",2,123640,Uncommon,OTP,38,Yes,No,0
+"Decisive Denial",2,123652,Uncommon,OTP,42,Yes,No,0
+"Hindering Light",1,123660,Uncommon,OTP,46,Yes,No,0
+"Humiliate",1,123662,Uncommon,OTP,47,Yes,No,0
+"Hypothesizzle",1,123664,Uncommon,OTP,48,Yes,No,0
+"Savage Smash",1,123674,Uncommon,OTP,53,Yes,No,0
+"Terminal Agony",1,123678,Uncommon,OTP,55,Yes,No,0
+"Tyrant's Scorn",1,123680,Uncommon,OTP,56,Yes,No,0
+"Marchesa, Dealer of Death",1,123835,Promo,OTJ,357,No,No,0
+"Hard Evidence",1,125534,Promo,MH3,5,Yes,No,0
+"Sling-Gang Lieutenant",1,125539,Promo,MH3,8,No,No,0
+"Dragon's Rage Channeler",1,125542,Promo,MH3,9,Yes,No,0
+"Unholy Heat",1,125550,Promo,MH3,13,Yes,No,0
+"Metastatic Evangel",1,125576,Promo,MH3,393,Yes,No,0
+"Aether Spike",1,125586,Promo,MH3,398,Yes,No,0
+"Brainsurge",1,125588,Promo,MH3,399,Yes,No,0
+"Accursed Marauder",2,125600,Promo,MH3,405,Yes,No,0
+"Grim Servant",1,125608,Promo,MH3,409,Yes,No,0
+"Marionette Apprentice",1,125610,Promo,MH3,410,Yes,No,0
+"Galvanic Discharge",1,125624,Promo,MH3,417,Yes,No,0
+"Unstable Amulet",1,125632,Promo,MH3,421,Yes,No,0
+"Lion Umbra",1,125642,Promo,MH3,426,Yes,No,0
+"Priest of Titania",1,125646,Promo,MH3,428,Yes,No,0
+"Snow-Covered Wastes",3,125668,Promo,MH3,439,Yes,No,0
+"Ripples of Undeath",1,126231,Rare,MH3,107,No,No,0
+"Drowner of Truth",1,126558,Uncommon,MH3,253a,Yes,No,0
+"Legion Leadership",1,126566,Uncommon,MH3,255a,Yes,No,0
+"Revitalizing Repast",2,126570,Uncommon,MH3,256a,Yes,No,0
+"Strength of the Harvest",1,126578,Uncommon,MH3,258a,Yes,No,0
+"Waterlogged Teachings",1,126590,Uncommon,MH3,261a,Yes,No,0
+"Snow-Covered Wastes",1,126624,Uncommon,MH3,309,Yes,No,0
+"Hookblade Veteran",2,127597,Common,ACR,283,Yes,No,0
+"Poison-Blade Mentor",1,127607,Uncommon,ACR,288,Yes,No,0
+"Headsplitter",2,127609,Common,ACR,289,Yes,No,0
+"Labyrinth Adversary",1,127611,Uncommon,ACR,290,Yes,No,0
+"Misthios's Fury",2,127613,Common,ACR,291,Yes,No,0
+"Spartan Veteran",1,127615,Common,ACR,292,Yes,No,0
+"Surtr, Fiery Jötun",1,127617,Rare,ACR,293,Yes,No,0
+"Auditore Ambush",1,127621,Rare,ACR,295,Yes,No,0
+"Bureau Headmaster",1,127623,Uncommon,ACR,296,Yes,No,0
+"Raven Clan War-Axe",1,127625,Rare,ACR,297,Yes,No,0
+"Roshan, Hidden Magister",1,127657,Promo,ACR,133,Yes,No,0
+"Adéwalé, Breaker of Chains",1,127663,Promo,ACR,136,Yes,No,0"Arno Dorian",1,127669,Promo,ACR,139,Yes,No,0
+"Hop to It",1,129090,Promo,BLB,381,Yes,No,0
+"Shoreline Looter",1,129092,Promo,BLB,382,Yes,No,0
+"Plains",1,129792,Land,BLB,263,Yes,No,0
+"Plains",1,129794,Land,BLB,264,Yes,No,0
+"Plains",1,129796,Land,BLB,265,Yes,No,0
+"Island",1,129798,Land,BLB,266,Yes,No,0
+"Mountain",1,129818,Land,BLB,276,Yes,No,0
+"Mountain",1,129820,Land,BLB,277,Yes,No,0
+"Forest",1,129822,Land,BLB,278,Yes,No,0
+"Forest",1,129824,Land,BLB,279,Yes,No,0
+"Forest",1,129826,Land,BLB,280,Yes,No,0
+"Forest",1,129828,Land,BLB,281,Yes,No,0
+"Withering Torment",1,129882,Promo,DSK,313,Yes,No,0
+"Insidious Fungus",1,129898,Promo,DSK,321,Yes,No,0
+"Valgavoth's Faithful",2,129934,Promo,DSK,412,Yes,No,0
+"Pyroclasm",1,129936,Promo,DSK,413,Yes,No,0
+"Drag to the Roots",1,129938,Promo,DSK,414,Yes,No,0
+"Optimistic Scavenger",1,129944,Promo,DSK,288,Yes,No,0
+"Stay Hidden, Stay Silent",2,129950,Promo,DSK,291,Yes,No,0
+"Clockwork Percussionist",1,129958,Promo,DSK,295,Yes,No,0
+"Norin, Swift Survivalist",2,129962,Promo,DSK,297,Yes,No,0
+"Path to Exile",1,131962,Uncommon,PIP,169,Yes,No,0
+"Whirler Rogue",2,131986,Uncommon,PIP,181,Yes,No,0
+"Loyal Apprentice",1,132004,Uncommon,PIP,190,Yes,No,0
+"Unexpected Windfall",1,132010,Common,PIP,193,Yes,No,0
+"Abundant Growth",1,132012,Common,PIP,194,Yes,No,0
+"Rancor",1,132034,Uncommon,PIP,205,Yes,No,0
+"Ash Barrens",1,132138,Common,PIP,253,Yes,No,0
+"Charisma Bobblehead",1,132510,Uncommon,PIP,130,Yes,No,0
+"Endurance Bobblehead",1,132514,Uncommon,PIP,132,Yes,No,0
+"Intelligence Bobblehead",1,132518,Uncommon,PIP,134,Yes,No,0
+"Strength Bobblehead",1,132536,Uncommon,PIP,143,Yes,No,0
+"Ajani's Pridemate",1,133121,Promo,FDN,293,Yes,No,0
+"Refute",1,133161,Promo,FDN,313,Yes,No,0
+"Think Twice",1,133165,Promo,FDN,315,Yes,No,0
+"Abrade",1,133189,Promo,FDN,327,Yes,No,0
+"Reclamation Sage",1,133215,Promo,FDN,340,Yes,No,0
+"Swiftfoot Boots",1,133245,Promo,FDN,355,Yes,No,0
+"Plains",1,136086,Land,DFT,272,Yes,No,0
+"Swamp",1,136089,Land,DFT,274,No,No,0
+"Island",1,136103,Land,DFT,281,No,No,0
+"Swamp",1,136109,Land,DFT,284,No,No,0
+"Forest",1,136119,Land,DFT,289,No,No,0
+"Air Response Unit",1,136125,Uncommon,DFT,1,No,No,0
+"Alacrian Armory",1,136127,Uncommon,DFT,2,No,No,0
+"Brightfield Mustang",2,136133,Common,DFT,5,No,No,0
+"Broadcast Rambler",1,136135,Common,DFT,6,No,No,0
+"Bulwark Ox",1,136137,Rare,DFT,7,No,No,0
+"Collision Course",2,136143,Common,DFT,10,No,No,0
+"Daring Mechanic",2,136145,Common,DFT,11,No,No,0
+"Detention Chariot",2,136147,Uncommon,DFT,12,No,No,0
+"Gallant Strike",1,136149,Uncommon,DFT,13,No,No,0
+"Interface Ace",1,136157,Common,DFT,17,No,No,0
+"Lightwheel Enhancements",2,136163,Common,DFT,20,No,No,0
+"Nesting Bot",2,136167,Uncommon,DFT,22,No,No,0
+"Spotcycle Scouter",1,136183,Common,DFT,30,No,No,0
+"Tune Up",1,136190,Uncommon,DFT,33,Yes,No,0
+"Voyager Quickwelder",1,136197,Common,DFT,37,No,No,0
+"Aether Syphon",1,136199,Uncommon,DFT,38,No,No,0
+"Glitch Ghost Surveyor",1,136211,Common,DFT,44,No,No,0
+"Guidelight Optimizer",1,136213,Common,DFT,45,No,No,0
+"Hulldrifter",1,136217,Common,DFT,47,No,No,0
+"Midnight Mangler",1,136223,Common,DFT,50,No,No,0
+"Nimble Thopterist",2,136229,Common,DFT,53,No,No,0
+"Sabotage Strategist",1,136241,Uncommon,DFT,59,No,No,0
+"Skystreak Engineer",1,136245,Common,DFT,61,No,No,0
+"Spectral Interference",1,136249,Common,DFT,63,No,No,0
+"Stall Out",1,136255,Common,DFT,66,No,No,0
+"Stock Up",1,136257,Uncommon,DFT,67,No,No,0
+"Transit Mage",1,136263,Uncommon,DFT,70,No,No,0
+"Chitin Gravestalker",1,136281,Common,DFT,79,No,No,0
+"Cryptcaller Chariot",1,136283,Rare,DFT,80,No,No,0
+"Deathless Pilot",1,136287,Common,DFT,82,No,No,0
+"Deathless Pilot",1,136288,Common,DFT,82,Yes,No,0
+"Grim Bauble",2,136299,Common,DFT,88,No,No,0
+"Grim Bauble",1,136300,Common,DFT,88,Yes,No,0
+"Hellish Sideswipe",1,136303,Uncommon,DFT,90,No,No,0
+"Hour of Victory",1,136306,Uncommon,DFT,91,Yes,No,0
+"Intimidation Tactics",1,136307,Uncommon,DFT,92,No,No,0
+"Maximum Overdrive",2,136315,Common,DFT,96,No,No,0
+"Mutant Surveyor",3,136319,Common,DFT,98,No,No,0
+"Pactdoll Terror",1,136321,Common,DFT,99,No,No,0
+"Quag Feast",1,136323,Rare,DFT,100,No,No,0
+"Ripclaw Wrangler",1,136325,Common,DFT,101,No,No,0
+"Risen Necroregent",2,136327,Uncommon,DFT,102,No,No,0
+"Risky Shortcut",1,136329,Common,DFT,103,No,No,0
+"Spin Out",2,136335,Common,DFT,106,No,No,0
+"Streaking Oilgorger",1,136337,Common,DFT,107,No,No,0
+"Syphon Fuel",1,136339,Common,DFT,108,No,No,0
+"Wreckage Wickerfolk",2,136343,Common,DFT,110,No,No,0
+"Wretched Doll",2,136345,Uncommon,DFT,111,No,No,0
+"Chandra, Spark Hunter",1,136356,Mythic Rare,DFT,116,Yes,No,0
+"Endrider Catalyzer",2,136371,Common,DFT,124,No,No,0
+"Gastal Blockbuster",1,136379,Common,DFT,128,No,No,0
+"Gilded Ghoda",1,136383,Common,DFT,130,No,No,0
+"Goblin Surveyor",1,136385,Common,DFT,131,No,No,0
+"Hazoret, Godseeker",1,136389,Mythic Rare,DFT,133,No,No,0
+"Lightning Strike",1,136395,Common,DFT,136,No,No,0
+"Lightning Strike",1,136396,Common,DFT,136,Yes,No,0
+"Pedal to the Metal",1,136405,Common,DFT,141,No,No,0
+"Prowcatcher Specialist",1,136407,Common,DFT,142,No,No,0
+"Agonasaur Rex",1,136425,Rare,DFT,151,No,No,0
+"Earthrumbler",1,136443,Uncommon,DFT,160,No,No,0
+"Fang-Druid Summoner",1,136449,Uncommon,DFT,163,No,No,0
+"Jibbirik Omnivore",1,136455,Common,DFT,166,No,No,0
+"Loxodon Surveyor",1,136457,Common,DFT,167,No,No,0
+"Migrating Ketradon",1,136463,Common,DFT,170,No,No,0
+"Point the Way",1,136473,Uncommon,DFT,175,No,No,0
+"Pothole Mole",1,136476,Common,DFT,176,Yes,No,0
+"Regal Imperiosaur",1,136477,Rare,DFT,177,No,No,0
+"Silken Strength",1,136483,Common,DFT,180,No,No,0
+"Terrian, World Tyrant",1,136487,Uncommon,DFT,182,No,No,0
+"Venomsac Lagac",3,136493,Common,DFT,185,No,No,0
+"Apocalypse Runner",1,136499,Uncommon,DFT,188,No,No,0
+"Broodheart Engine",1,136509,Uncommon,DFT,193,No,No,0
+"Cloudspire Skycycle",1,136517,Uncommon,DFT,197,No,No,0
+"Dune Drifter",1,136523,Uncommon,DFT,200,No,No,0
+"Embalmed Ascendant",1,136525,Uncommon,DFT,201,No,No,0
+"Guidelight Pathmaker",1,136535,Uncommon,DFT,206,No,No,0
+"Haunt the Network",1,136537,Uncommon,DFT,207,No,No,0
+"Haunted Hellride",1,136539,Uncommon,DFT,208,No,No,0
+"Mendicant Core, Guidelight",1,136549,Rare,DFT,213,No,No,0
+"Thundering Broodwagon",2,136573,Uncommon,DFT,225,No,No,0
+"Zahur, Glory's Past",1,136581,Rare,DFT,229,No,No,0
+"The Aetherspark",1,136585,Mythic Rare,DFT,231,No,No,0
+"Camera Launcher",1,136587,Common,DFT,232,No,No,0
+"Guidelight Matrix",1,136589,Common,DFT,233,No,No,0
+"Pit Automaton",1,136599,Uncommon,DFT,238,No,No,0
+"Rover Blades",1,136605,Uncommon,DFT,241,No,No,0
+"Skybox Ferry",1,136609,Common,DFT,243,No,No,0
+"Starting Column",2,136611,Common,DFT,244,No,No,0
+"Ticket Tortoise",1,136613,Common,DFT,245,No,No,0
+"Walking Sarcophagus",1,136615,Common,DFT,246,No,No,0
+"Bleachbone Verge",1,136623,Rare,DFT,250,No,No,0
+"Bloodfell Caves",1,136625,Land,DFT,251,No,No,0
+"Blossoming Sands",1,136627,Land,DFT,252,No,No,0
+"Country Roads",1,136629,Uncommon,DFT,253,No,No,0
+"Foul Roads",2,136633,Uncommon,DFT,255,No,No,0
+"Rugged Highlands",1,136648,Land,DFT,262,Yes,No,0
+"Scoured Barrens",1,136649,Land,DFT,263,No,No,0
+"Tranquil Cove",1,136658,Land,DFT,267,Yes,No,0
+"Wind-Scarred Crag",1,136665,Land,DFT,271,No,No,0
+"Mendicant Core, Guidelight",1,136889,Promo,DFT,365,No,No,0
 "Event Ticket",4,1,Common,ETK,,No,No,0
 "Glorious Anthem",1,19107,Rare,8ED,20/350,No,No,0
 "Clockwork Dragon",1,20055,Rare,MRD,155/306,No,No,0

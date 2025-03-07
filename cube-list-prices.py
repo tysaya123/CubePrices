@@ -78,12 +78,16 @@ def main():
     cheapest_cube = {card_name:cheapest_version[card_name] for card_name in cube_list}
     
     cheapest_cube_unowned = {card_name:price for card_name, price in cheapest_cube.items() if card_name not in owned_list}
+    owned_cards = {card_name:price for card_name, price in cheapest_cube.items() if card_name in owned_list}
 
     print("CHEAPEST CUBE")
     print(cheapest_cube)
     
     print("CHEAPEST CUBE UNOWNED")
     print(cheapest_cube_unowned)
+
+    print("OWNED CARDS")
+    print(sorted(owned_cards.items(), key=lambda item: item[1]))
 
     print("TOTAL COST")
     print(sum(cheapest_cube.values()))
